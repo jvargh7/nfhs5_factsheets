@@ -1,6 +1,7 @@
 Known issues for district data parsing:
 - Please refer to ~/districts/district_status.csv for a snapshot of what is available from different files as of now
-- Indicator IDs are different across states (Kerala for example has 93 indicators while Andaman & Nicobar has 104)
+- Kerala and Karnataka are presently displaying 2015-16 factsheets
+- Indicator IDs are different across states
 - There are known conversion issues for some symbols (e.g. \gt (greater than) is converted to â‰¥)
 - Extraction for Meghalaya, Tripura and Himachal Pradesh is pending
 - MH/Palghar and MH/Thane have parsing issues at the moment
