@@ -14,7 +14,7 @@ https://github.com/jvargh7/nfhs5_factsheets/archive/main.zip
 
 ## Known issues with district parsing
 
-~districts/district status.csv shows the current status of different districts. As of now, 29 districts have parsing issues.   
+~districts/corrected district status.csv shows the current status of different districts. 
 
 1. There are known conversion issues for some symbols (e.g. $\ge$ (greater than or equal to) is converted to â‰¥)      
 
