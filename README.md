@@ -17,6 +17,7 @@ https://github.com/jvargh7/nfhs5_factsheets/archive/main.zip
 ~districts/corrected district status.csv shows the current status of different districts. 
 
 1. There are known conversion issues for some symbols (e.g. $\ge$ (greater than or equal to) is converted to â‰¥)      
+2. Minor errors in terms of number of records during extraction of Kheda (GJ), Kangra (HP), Chamba (HP), Dhule (MH), Thane (MH)   
 
 
 ## Resolved issues since last update
