@@ -1,3 +1,5 @@
+library(tidyverse)
+library(haven)
 library(rvest)
 url = "http://rchiips.org/nfhs/districtfactsheet_NFHS-5.shtml"
 state_url = read_html(url) %>% 
@@ -28,7 +30,7 @@ district_fcts <- function(d_urls){
                            
                            y[3] = tryCatch({download.file(url = paste0("http://rchiips.org/nfhs/",
                                                                        
-                                                                       case_when(x[1] %in% c("KA","KL") ~ "FCTS/",
+                                                                       case_when(x[1] %in% c("KA","KL") ~ "NFHS-5_FCTS/",
                                                                                  TRUE ~ "NFHS-5_FCTS/"),
                                                                        
                                                                        
@@ -212,35 +214,26 @@ district_tables <- function(d_urls){
                          })
   
   table_output = map(folder_structure,
-                       .f = function(x){
-                         x = unlist(x);
-                         tryCatch({tab = extract_tables(paste0(source_folder,"/",x[1],"/",x[2]),
-                                                guess = TRUE, method="stream",output = "data.frame");
-                         tab_clean = consolidate_table(tab) %>% 
-                           mutate(state = x[1],
-                                  district = case_when(
-                                    x[1] %in% c("KA") ~ str_replace(str_replace(x[2],".pdf",""),
-                                                                          paste0(x[1],"_FactSheet_[0-9]+_"),""),
-                                    x[1] %in% c("KL") ~ str_replace(str_replace(x[2],".pdf",""),
-                                                                          paste0(x[1],"_Factsheet_[0-9]+_"),""),
-                                    TRUE ~ str_replace(x[2],".pdf",""))
-                                  )
+                     .f = function(x){
+                       x = unlist(x);
+                       tryCatch({tab = extract_tables(paste0(source_folder,"/",x[1],"/",x[2]),
+                                                      guess = TRUE, method="stream",output = "data.frame");
+                       tab_clean = consolidate_table(tab) %>% 
+                         mutate(state = x[1],
+                                district = str_replace(x[2],".pdf","")
+                         )
+                       
+                       
+                       },
+                       error = function(e){data.frame(Indicator = NA,
+                                                      NFHS5 = NA,
+                                                      NFHS4 = NA,
+                                                      state = x[1],
+                                                      district = str_replace(x[2],".pdf",""))
+                         })
                          
-                         
-                         },
-                         error = function(e){data.frame(Indicator = NA,
-                                            NFHS5 = NA,
-                                            NFHS4 = NA,
-                                            state = x[1],
-                                            district = case_when(
-                                              x[1] %in% c("KA") ~ str_replace(str_replace(x[2],".pdf",""),
-                                                                                   paste0(x[1],"_FactSheet_[0-9]+_"),""),
-                                              x[1] %in% c("KL") ~ str_replace(str_replace(x[2],".pdf",""),
-                                                                                   paste0(x[1],"_Factsheet_[0-9]+_"),""),
-                                              TRUE ~ str_replace(x[2],".pdf","")))})
-                         
-                          }) %>% 
-    bind_rows(.)
+                       }) %>%  bind_rows(.)
+    
     
   
  return(table_output)
@@ -249,10 +242,37 @@ district_tables <- function(d_urls){
 
 # Running extract, parse, write sequence -------------
 district_status = data.frame()
-dir.create("csv_output")
-dir.create("stata_output")
+dir.create("districts")
+dir.create("districts/csv_output")
+dir.create("districts/stata_output")
 
-for(d in state_url[c(8)]){
+# Ad-hoc corrections by Aashish
+ad_hoc <- c("NFHS-5_FCTS/WB/Paschim Medinipur.pdf",
+  "NFHS-5_FCTS/BR/Buxar.pdf",
+  "NFHS-5_FCTS/GA/South Goa.pdf",
+  "NFHS-5_FCTS/WB/Purba Barddhaman.pdf",
+  "NFHS-5_FCTS/WB/Paschim Barddhaman.pdf",
+  "NFHS-5_FCTS/GJ/Devbhumi Dwarka.pdf",
+  "NFHS-5_FCTS/MN/Thoubal.pdf",
+  "NFHS-5_FCTS/GJ/Mahesana.pdf",
+  "NFHS-5_FCTS/TG/Mahabubnagar.pdf",
+  "NFHS-5_FCTS/MH/Buldana.pdf"
+  )
+
+incorrect_match <- c("NFHS-5_FCTS/WB/Paschin Medinipur.pdf",
+            "NFHS-5_FCTS/BR/Buxer.pdf",
+            "NFHS-5_FCTS/GA/South  Goa.pdf",
+            "NFHS-5_FCTS/WB/Purba Barddhaman .pdf",
+            "NFHS-5_FCTS/WB/Paschim Barddhaman .pdf",
+            "NFHS-5_FCTS/GJ/Devbhumi Dwarka .pdf",
+            "NFHS-5_FCTS/MN/Toubal.pdf",
+            "NFHS-5_FCTS/GJ/Mehesana.pdf",
+            "NFHS-5_FCTS/TG/Mahbubnagar.pdf",
+            "NFHS-5_FCTS/MH/Buldhana.pdf")
+
+# WB = 21, BR = 4, GA = 6, GJ = 7, MN = 14, TG = 19, MH = 13
+# TR = , ML = 15, HP = 
+for(d in state_url[11]){
   
   s_url = paste0("http://rchiips.org/nfhs/",d)
   
@@ -260,13 +280,25 @@ for(d in state_url[c(8)]){
     html_nodes("option") %>% 
     html_attr("value")
   
+  match_vec_pdf_to_adhoc = which(district_urls %in% incorrect_match,arr.ind = TRUE)
+  match_vec_adhoc_to_pdf = which(incorrect_match %in% district_urls, arr.ind = TRUE)
+  district_urls[match_vec_pdf_to_adhoc] = ad_hoc[match_vec_adhoc_to_pdf]
+  
+  state_code = str_replace(d,"NFHS-5_","") %>% str_replace(.,".shtml","")
+  # if(state_code %in% c("KA","KL")){
+  #   district_urls = district_urls %>% 
+  #     str_replace(.,"FCTS","NFHS-5_FCTS") %>% 
+  #     str_replace(.,ifelse(state_code == "KA","KA_FactSheet_[0-9]+_","KL_Factsheet_[0-9]+_")
+  #                 ,"")
+  # }
+  
   district_urls <- district_urls[-1]
   
   # file downloads - Run this if you want to download all files and extract at the same time
-  # temp_status <- district_fcts(district_urls)
+  temp_status <- district_fcts(district_urls)
   
   # Does file exist? - Comment the next line out if you are running district_fcts()
-  temp_status <- detect_fcts(district_urls)
+  # temp_status <- detect_fcts(district_urls)
   
   temp_status <- temp_status %>% 
     map_dfr(.,.f= function(x){data.frame(state = x[1],
@@ -276,12 +308,7 @@ for(d in state_url[c(8)]){
   # Merge with existing district list
   district_status = bind_rows(district_status,
                               temp_status) %>% 
-    mutate(district_name = case_when(
-                                     state %in% c("KA") ~ str_replace(str_replace(district_file,".pdf",""),
-                                                                           paste0(state,"_FactSheet_[0-9]+_"),""),
-                                     state %in% c("KL") ~ str_replace(str_replace(district_file,".pdf",""),
-                                                                           paste0(state,"_Factsheet_[0-9]+_"),""),
-                                     TRUE ~ str_replace(district_file,".pdf","")))
+    mutate(district_name = str_replace(district_file,".pdf",""))
   
   # file parsing
   temp_tables <- district_tables(district_urls)
@@ -301,7 +328,7 @@ for(d in state_url[c(8)]){
 # Check for districts with parsing issues ---------
 district_obs = data.frame()
 district_df = data.frame()
-for(d in state_url[-c(10,11)]){ #Ignore KA and KL
+for(d in state_url){
   
   s_url = paste0("http://rchiips.org/nfhs/",d)
   file_name = str_replace(d,".shtml","")
@@ -309,6 +336,10 @@ for(d in state_url[-c(10,11)]){ #Ignore KA and KL
   district_urls = read_html(s_url) %>% 
     html_nodes("option") %>% 
     html_attr("value")
+  
+  match_vec_pdf_to_adhoc = which(district_urls %in% incorrect_match,arr.ind = TRUE)
+  match_vec_adhoc_to_pdf = which(incorrect_match %in% district_urls, arr.ind = TRUE)
+  district_urls[match_vec_pdf_to_adhoc] = ad_hoc[match_vec_adhoc_to_pdf]
   
   district_urls <- district_urls[-1]
   
@@ -321,12 +352,7 @@ for(d in state_url[-c(10,11)]){ #Ignore KA and KL
     data.frame()
   district_obs = bind_rows(district_obs,
                               temp_obs) %>% 
-    mutate(district_name = case_when(
-      state %in% c("KA") ~ str_replace(str_replace(district_file,".pdf",""),
-                                       paste0(state,"_FactSheet_[0-9]+_"),""),
-      state %in% c("KL") ~ str_replace(str_replace(district_file,".pdf",""),
-                                       paste0(state,"_Factsheet_[0-9]+_"),""),
-      TRUE ~ str_replace(district_file,".pdf","")))
+    mutate(district_name = str_replace(district_file,".pdf",""))
   
   # Consolidated dataset
   temp_df <- read_dta(paste0("districts/stata_output/",file_name,".dta"))
@@ -338,10 +364,12 @@ for(d in state_url[-c(10,11)]){ #Ignore KA and KL
 
 district_obs = district_obs %>% 
   mutate(nrecords = apply(.,1,function(x) district_df[district_df$district == x["district_name"],] %>% nrow(.))) %>% 
-  arrange(nrecords,status)
+  mutate(nrecords = case_when(district_name == "Aurangabad" ~ 104,
+                              TRUE ~ as.numeric(nrecords))) %>% 
+  arrange(nrecords,status) 
 write.csv(district_obs,paste0("districts/district status.csv"),row.names = FALSE)
 
 # # Individual district checks ---------
 # case_check = extract_tables(paste0("C:/Cloud/OneDrive - Emory University/data/NFHS/NFHS5 Factsheets/",
-#                      "AS","/","Jorhat.pdf"),
+#                      "TG","/","Mahabubnagar.pdf"),
 #               guess = TRUE, method="stream",output = "data.frame")

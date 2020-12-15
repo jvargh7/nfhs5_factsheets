@@ -1,23 +1,13 @@
 "state","district_file","status","district_name","nrecords"
-"GJ","Devbhumi Dwarka .pdf","FALSE","Devbhumi Dwarka ",0
-"WB","Paschim Barddhaman .pdf","FALSE","Paschim Barddhaman ",0
-"WB","Purba Barddhaman .pdf","FALSE","Purba Barddhaman ",0
-"BR","Buxer.pdf","FALSE","Buxer",1
-"GA","South  Goa.pdf","FALSE","South  Goa",1
-"GJ","Mehesana.pdf","FALSE","Mehesana",1
-"MH","Buldhana.pdf","FALSE","Buldhana",1
-"MN","Toubal.pdf","FALSE","Toubal",1
-"TG","Mahbubnagar.pdf","FALSE","Mahbubnagar",1
-"WB","Paschin Medinipur.pdf","FALSE","Paschin Medinipur",1
 "HP","Hamirpur.pdf","TRUE","Hamirpur",1
 "HP","Kullu.pdf","TRUE","Kullu",1
 "HP","Lahul and Spiti.pdf","TRUE","Lahul and Spiti",1
 "HP","Mandi.pdf","TRUE","Mandi",1
-"MH","Palghar.pdf","TRUE","Palghar",1
-"MH","Thane.pdf","TRUE","Thane",1
 "HP","Bilaspur.pdf","TRUE","Bilaspur",4
 "HP","Una.pdf","TRUE","Una",9
 "HP","Chamba.pdf","TRUE","Chamba",23
+"MH","Palghar.pdf","TRUE","Palghar",31
+"MH","Thane.pdf","TRUE","Thane",31
 "ML","East Garo Hills.pdf","TRUE","East Garo Hills",31
 "ML","East Jaintia Hills.pdf","TRUE","East Jaintia Hills",31
 "ML","North Garo Hills.pdf","TRUE","North Garo Hills",31
@@ -90,10 +80,12 @@
 "AS","West Karbi Anglong.pdf","TRUE","West Karbi Anglong",104
 "BR","Araria.pdf","TRUE","Araria",104
 "BR","Arwal.pdf","TRUE","Arwal",104
+"BR","Aurangabad.pdf","TRUE","Aurangabad",104
 "BR","Banka.pdf","TRUE","Banka",104
 "BR","Begusarai.pdf","TRUE","Begusarai",104
 "BR","Bhagalpur.pdf","TRUE","Bhagalpur",104
 "BR","Bhojpur.pdf","TRUE","Bhojpur",104
+"BR","Buxar.pdf","TRUE","Buxar",104
 "BR","Darbhanga.pdf","TRUE","Darbhanga",104
 "BR","Gaya.pdf","TRUE","Gaya",104
 "BR","Gopalganj.pdf","TRUE","Gopalganj",104
@@ -128,6 +120,7 @@
 "DD","Daman.pdf","TRUE","Daman",104
 "DD","Diu.pdf","TRUE","Diu",104
 "GA","North Goa.pdf","TRUE","North Goa",104
+"GA","South Goa.pdf","TRUE","South Goa",104
 "GJ","Ahmedabad.pdf","TRUE","Ahmedabad",104
 "GJ","Amreli.pdf","TRUE","Amreli",104
 "GJ","Anand.pdf","TRUE","Anand",104
@@ -138,11 +131,13 @@
 "GJ","Botad.pdf","TRUE","Botad",104
 "GJ","Chhota Udaipur.pdf","TRUE","Chhota Udaipur",104
 "GJ","Dahod.pdf","TRUE","Dahod",104
+"GJ","Devbhumi Dwarka.pdf","TRUE","Devbhumi Dwarka",104
 "GJ","Gandhinagar.pdf","TRUE","Gandhinagar",104
 "GJ","Gir Somnath.pdf","TRUE","Gir Somnath",104
 "GJ","Jamnagar.pdf","TRUE","Jamnagar",104
 "GJ","Junagadh.pdf","TRUE","Junagadh",104
 "GJ","Kachchh.pdf","TRUE","Kachchh",104
+"GJ","Mahesana.pdf","TRUE","Mahesana",104
 "GJ","Mahisagar.pdf","TRUE","Mahisagar",104
 "GJ","Morbi.pdf","TRUE","Morbi",104
 "GJ","Narmada.pdf","TRUE","Narmada",104
@@ -178,13 +173,59 @@
 "JK","Shupiyan.pdf","TRUE","Shupiyan",104
 "JK","Srinagar.pdf","TRUE","Srinagar",104
 "JK","Udhampur.pdf","TRUE","Udhampur",104
+"KA","Bagalkot.pdf","TRUE","Bagalkot",104
+"KA","Bangalore.pdf","TRUE","Bangalore",104
+"KA","Bangalore Rural.pdf","TRUE","Bangalore Rural",104
+"KA","Belgaum.pdf","TRUE","Belgaum",104
+"KA","Bellary.pdf","TRUE","Bellary",104
+"KA","Bidar.pdf","TRUE","Bidar",104
+"KA","Bijapur.pdf","TRUE","Bijapur",104
+"KA","Chamarajanagar.pdf","TRUE","Chamarajanagar",104
+"KA","Chikkaballapura.pdf","TRUE","Chikkaballapura",104
+"KA","Chikmagalur.pdf","TRUE","Chikmagalur",104
+"KA","Chitradurga.pdf","TRUE","Chitradurga",104
+"KA","Dakshina Kannada.pdf","TRUE","Dakshina Kannada",104
+"KA","Davanagere.pdf","TRUE","Davanagere",104
+"KA","Dharwad.pdf","TRUE","Dharwad",104
+"KA","Gadag.pdf","TRUE","Gadag",104
+"KA","Gulbarga.pdf","TRUE","Gulbarga",104
+"KA","Hassan.pdf","TRUE","Hassan",104
+"KA","Haveri.pdf","TRUE","Haveri",104
+"KA","Kodagu.pdf","TRUE","Kodagu",104
+"KA","Kolar.pdf","TRUE","Kolar",104
+"KA","Koppal.pdf","TRUE","Koppal",104
+"KA","Mandya.pdf","TRUE","Mandya",104
+"KA","Mysore.pdf","TRUE","Mysore",104
+"KA","Raichur.pdf","TRUE","Raichur",104
+"KA","Ramanagara.pdf","TRUE","Ramanagara",104
+"KA","Shimoga.pdf","TRUE","Shimoga",104
+"KA","Tumkur.pdf","TRUE","Tumkur",104
+"KA","Udupi.pdf","TRUE","Udupi",104
+"KA","Uttara Kannada.pdf","TRUE","Uttara Kannada",104
+"KA","Yadgir.pdf","TRUE","Yadgir",104
+"KL","Alappuzha.pdf","TRUE","Alappuzha",104
+"KL","Ernakulam.pdf","TRUE","Ernakulam",104
+"KL","Idukki.pdf","TRUE","Idukki",104
+"KL","Kannur.pdf","TRUE","Kannur",104
+"KL","Kasaragod.pdf","TRUE","Kasaragod",104
+"KL","Kollam.pdf","TRUE","Kollam",104
+"KL","Kottayam.pdf","TRUE","Kottayam",104
+"KL","Kozhikode.pdf","TRUE","Kozhikode",104
+"KL","Malappuram.pdf","TRUE","Malappuram",104
+"KL","Palakkad.pdf","TRUE","Palakkad",104
+"KL","Pathanamthitta.pdf","TRUE","Pathanamthitta",104
+"KL","Thiruvananthapuram.pdf","TRUE","Thiruvananthapuram",104
+"KL","Thrissur.pdf","TRUE","Thrissur",104
+"KL","Wayanad.pdf","TRUE","Wayanad",104
 "LH","Kargil.pdf","TRUE","Kargil",104
 "LH","Leh (Ladakh).pdf","TRUE","Leh (Ladakh)",104
 "MH","Ahmednagar.pdf","TRUE","Ahmednagar",104
 "MH","Akola.pdf","TRUE","Akola",104
 "MH","Amravati.pdf","TRUE","Amravati",104
+"MH","Aurangabad.pdf","TRUE","Aurangabad",104
 "MH","Bid.pdf","TRUE","Bid",104
 "MH","Bhandara.pdf","TRUE","Bhandara",104
+"MH","Buldana.pdf","TRUE","Buldana",104
 "MH","Chandrapur.pdf","TRUE","Chandrapur",104
 "MH","Gadchiroli.pdf","TRUE","Gadchiroli",104
 "MH","Gondiya.pdf","TRUE","Gondiya",104
@@ -218,6 +259,7 @@
 "MN","Imphal West.pdf","TRUE","Imphal West",104
 "MN","Senapati.pdf","TRUE","Senapati",104
 "MN","Tamenglong.pdf","TRUE","Tamenglong",104
+"MN","Thoubal.pdf","TRUE","Thoubal",104
 "MN","Ukhrul.pdf","TRUE","Ukhrul",104
 "ML","East Khasi Hills.pdf","TRUE","East Khasi Hills",104
 "ML","Ribhoi.pdf","TRUE","Ribhoi",104
@@ -257,6 +299,7 @@
 "TG","Khammam.pdf","TRUE","Khammam",104
 "TG","Komaram Bheem Asifabad.pdf","TRUE","Komaram Bheem Asifabad",104
 "TG","Mahabubabad.pdf","TRUE","Mahabubabad",104
+"TG","Mahabubnagar.pdf","TRUE","Mahabubnagar",104
 "TG","Mancherial.pdf","TRUE","Mancherial",104
 "TG","Medak.pdf","TRUE","Medak",104
 "TG","Medchal-Malkajgiri.pdf","TRUE","Medchal-Malkajgiri",104
@@ -289,10 +332,11 @@
 "WB","Murshidabad.pdf","TRUE","Murshidabad",104
 "WB","Nadia.pdf","TRUE","Nadia",104
 "WB","North Twenty Four Parganas.pdf","TRUE","North Twenty Four Parganas",104
+"WB","Paschim Medinipur.pdf","TRUE","Paschim Medinipur",104
+"WB","Purba Barddhaman.pdf","TRUE","Purba Barddhaman",104
+"WB","Paschim Barddhaman.pdf","TRUE","Paschim Barddhaman",104
 "WB","Purba Medinipur.pdf","TRUE","Purba Medinipur",104
 "WB","Puruliya.pdf","TRUE","Puruliya",104
 "WB","South Twenty Four Parganas.pdf","TRUE","South Twenty Four Parganas",104
 "WB","Uttar Dinajpur.pdf","TRUE","Uttar Dinajpur",104
 "GJ","Kheda.pdf","TRUE","Kheda",105
-"BR","Aurangabad.pdf","TRUE","Aurangabad",208
-"MH","Aurangabad.pdf","TRUE","Aurangabad",208
