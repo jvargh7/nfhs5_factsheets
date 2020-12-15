@@ -1,342 +1,342 @@
-"state","district_file","status","district_name","nrecords"
-"HP","Kangra.pdf","TRUE","Kangra",101
-"HP","Chamba.pdf","TRUE","Chamba",103
-"MH","Dhule.pdf","TRUE","Dhule",103
-"HP","Hamirpur.pdf","TRUE","Hamirpur",104
-"HP","Kullu.pdf","TRUE","Kullu",104
-"HP","Lahul and Spiti.pdf","TRUE","Lahul and Spiti",104
-"HP","Mandi.pdf","TRUE","Mandi",104
-"HP","Bilaspur.pdf","TRUE","Bilaspur",104
-"HP","Una.pdf","TRUE","Una",104
-"MH","Palghar.pdf","TRUE","Palghar",104
-"ML","East Garo Hills.pdf","TRUE","East Garo Hills",104
-"ML","East Jaintia Hills.pdf","TRUE","East Jaintia Hills",104
-"ML","North Garo Hills.pdf","TRUE","North Garo Hills",104
-"ML","South West Garo Hills.pdf","TRUE","South West Garo Hills",104
-"ML","South West Khasi Hills.pdf","TRUE","South West Khasi Hills",104
-"ML","West Jaintia Hills.pdf","TRUE","West Jaintia Hills",104
-"ML","West Khasi Hills.pdf","TRUE","West Khasi Hills",104
-"TR","Gomati.pdf","TRUE","Gomati",104
-"TR","Khowai.pdf","TRUE","Khowai",104
-"TR","North Tripura.pdf","TRUE","North Tripura",104
-"TR","Sepahijala.pdf","TRUE","Sepahijala",104
-"TR","South Tripura.pdf","TRUE","South Tripura",104
-"TR","Unakoti.pdf","TRUE","Unakoti",104
-"TR","West Tripura.pdf","TRUE","West Tripura",104
-"HP","Kinnaur.pdf","TRUE","Kinnaur",104
-"HP","Shimla.pdf","TRUE","Shimla",104
-"ML","West Garo Hills.pdf","TRUE","West Garo Hills",104
-"HP","Sirmaur.pdf","TRUE","Sirmaur",104
-"HP","Solan.pdf","TRUE","Solan",104
-"AN","Nicobars.pdf","TRUE","Nicobars",104
-"AN","North & Middle Andaman.pdf","TRUE","North & Middle Andaman",104
-"AN","South Andaman.pdf","TRUE","South Andaman",104
-"AP","Anantapur.pdf","TRUE","Anantapur",104
-"AP","Chittoor.pdf","TRUE","Chittoor",104
-"AP","East Godavari.pdf","TRUE","East Godavari",104
-"AP","Guntur.pdf","TRUE","Guntur",104
-"AP","Krishna.pdf","TRUE","Krishna",104
-"AP","Kurnool.pdf","TRUE","Kurnool",104
-"AP","Prakasam.pdf","TRUE","Prakasam",104
-"AP","Sri Potti Sriramulu Nellore.pdf","TRUE","Sri Potti Sriramulu Nellore",104
-"AP","Srikakulam.pdf","TRUE","Srikakulam",104
-"AP","Visakhapatnam.pdf","TRUE","Visakhapatnam",104
-"AP","Vizianagaram.pdf","TRUE","Vizianagaram",104
-"AP","West Godavari.pdf","TRUE","West Godavari",104
-"AP","Y.S.R..pdf","TRUE","Y.S.R.",104
-"AS","Baksa.pdf","TRUE","Baksa",104
-"AS","Barpeta.pdf","TRUE","Barpeta",104
-"AS","Biswanath.pdf","TRUE","Biswanath",104
-"AS","Bongaigaon.pdf","TRUE","Bongaigaon",104
-"AS","Cachar.pdf","TRUE","Cachar",104
-"AS","Charaideo.pdf","TRUE","Charaideo",104
-"AS","Chirang.pdf","TRUE","Chirang",104
-"AS","Darrang.pdf","TRUE","Darrang",104
-"AS","Dhemaji.pdf","TRUE","Dhemaji",104
-"AS","Dhubri.pdf","TRUE","Dhubri",104
-"AS","Dibrugarh.pdf","TRUE","Dibrugarh",104
-"AS","Dima Hasao.pdf","TRUE","Dima Hasao",104
-"AS","Goalpara.pdf","TRUE","Goalpara",104
-"AS","Golaghat.pdf","TRUE","Golaghat",104
-"AS","Hailakandi.pdf","TRUE","Hailakandi",104
-"AS","Hojai.pdf","TRUE","Hojai",104
-"AS","Jorhat.pdf","TRUE","Jorhat",104
-"AS","Kamrup.pdf","TRUE","Kamrup",104
-"AS","Kamrup Metropolitan.pdf","TRUE","Kamrup Metropolitan",104
-"AS","Karbi Anglong.pdf","TRUE","Karbi Anglong",104
-"AS","Karimganj.pdf","TRUE","Karimganj",104
-"AS","Kokrajhar.pdf","TRUE","Kokrajhar",104
-"AS","Lakhimpur.pdf","TRUE","Lakhimpur",104
-"AS","Majuli.pdf","TRUE","Majuli",104
-"AS","Morigaon.pdf","TRUE","Morigaon",104
-"AS","Nagaon.pdf","TRUE","Nagaon",104
-"AS","Nalbari.pdf","TRUE","Nalbari",104
-"AS","Sivasagar.pdf","TRUE","Sivasagar",104
-"AS","Sonitpur.pdf","TRUE","Sonitpur",104
-"AS","South Salmara Mancachar.pdf","TRUE","South Salmara Mancachar",104
-"AS","Tinsukia.pdf","TRUE","Tinsukia",104
-"AS","Udalguri.pdf","TRUE","Udalguri",104
-"AS","West Karbi Anglong.pdf","TRUE","West Karbi Anglong",104
-"BR","Araria.pdf","TRUE","Araria",104
-"BR","Arwal.pdf","TRUE","Arwal",104
-"BR","Aurangabad.pdf","TRUE","Aurangabad",104
-"BR","Banka.pdf","TRUE","Banka",104
-"BR","Begusarai.pdf","TRUE","Begusarai",104
-"BR","Bhagalpur.pdf","TRUE","Bhagalpur",104
-"BR","Bhojpur.pdf","TRUE","Bhojpur",104
-"BR","Buxar.pdf","TRUE","Buxar",104
-"BR","Darbhanga.pdf","TRUE","Darbhanga",104
-"BR","Gaya.pdf","TRUE","Gaya",104
-"BR","Gopalganj.pdf","TRUE","Gopalganj",104
-"BR","Jamui.pdf","TRUE","Jamui",104
-"BR","Jehanabad.pdf","TRUE","Jehanabad",104
-"BR","Kaimur (Bhabua).pdf","TRUE","Kaimur (Bhabua)",104
-"BR","Katihar.pdf","TRUE","Katihar",104
-"BR","Khagaria.pdf","TRUE","Khagaria",104
-"BR","Kishanganj.pdf","TRUE","Kishanganj",104
-"BR","Lakhisarai.pdf","TRUE","Lakhisarai",104
-"BR","Madhepura.pdf","TRUE","Madhepura",104
-"BR","Madhubani.pdf","TRUE","Madhubani",104
-"BR","Munger.pdf","TRUE","Munger",104
-"BR","Muzaffarpur.pdf","TRUE","Muzaffarpur",104
-"BR","Nalanda.pdf","TRUE","Nalanda",104
-"BR","Nawada.pdf","TRUE","Nawada",104
-"BR","Pashchim Champaran.pdf","TRUE","Pashchim Champaran",104
-"BR","Patna.pdf","TRUE","Patna",104
-"BR","Purba Champaran.pdf","TRUE","Purba Champaran",104
-"BR","Purnia.pdf","TRUE","Purnia",104
-"BR","Rohtas.pdf","TRUE","Rohtas",104
-"BR","Saharsa.pdf","TRUE","Saharsa",104
-"BR","Samastipur.pdf","TRUE","Samastipur",104
-"BR","Saran.pdf","TRUE","Saran",104
-"BR","Sheikhpura.pdf","TRUE","Sheikhpura",104
-"BR","Sheohar.pdf","TRUE","Sheohar",104
-"BR","Sitamarhi.pdf","TRUE","Sitamarhi",104
-"BR","Siwan.pdf","TRUE","Siwan",104
-"BR","Supaul.pdf","TRUE","Supaul",104
-"BR","Vaishali.pdf","TRUE","Vaishali",104
-"DD","Dadra & Nagar Haveli.pdf","TRUE","Dadra & Nagar Haveli",104
-"DD","Daman.pdf","TRUE","Daman",104
-"DD","Diu.pdf","TRUE","Diu",104
-"GA","North Goa.pdf","TRUE","North Goa",104
-"GA","South Goa.pdf","TRUE","South Goa",104
-"GJ","Ahmedabad.pdf","TRUE","Ahmedabad",104
-"GJ","Amreli.pdf","TRUE","Amreli",104
-"GJ","Anand.pdf","TRUE","Anand",104
-"GJ","Aravali.pdf","TRUE","Aravali",104
-"GJ","Banaskantha.pdf","TRUE","Banaskantha",104
-"GJ","Bharuch.pdf","TRUE","Bharuch",104
-"GJ","Bhavnagar.pdf","TRUE","Bhavnagar",104
-"GJ","Botad.pdf","TRUE","Botad",104
-"GJ","Chhota Udaipur.pdf","TRUE","Chhota Udaipur",104
-"GJ","Dahod.pdf","TRUE","Dahod",104
-"GJ","Devbhumi Dwarka.pdf","TRUE","Devbhumi Dwarka",104
-"GJ","Gandhinagar.pdf","TRUE","Gandhinagar",104
-"GJ","Gir Somnath.pdf","TRUE","Gir Somnath",104
-"GJ","Jamnagar.pdf","TRUE","Jamnagar",104
-"GJ","Junagadh.pdf","TRUE","Junagadh",104
-"GJ","Kachchh.pdf","TRUE","Kachchh",104
-"GJ","Mahesana.pdf","TRUE","Mahesana",104
-"GJ","Mahisagar.pdf","TRUE","Mahisagar",104
-"GJ","Morbi.pdf","TRUE","Morbi",104
-"GJ","Narmada.pdf","TRUE","Narmada",104
-"GJ","Navsari.pdf","TRUE","Navsari",104
-"GJ","Panchmahal.pdf","TRUE","Panchmahal",104
-"GJ","Patan.pdf","TRUE","Patan",104
-"GJ","Porbandar.pdf","TRUE","Porbandar",104
-"GJ","Rajkot.pdf","TRUE","Rajkot",104
-"GJ","Sabarkantha.pdf","TRUE","Sabarkantha",104
-"GJ","Surat.pdf","TRUE","Surat",104
-"GJ","Surendranagar.pdf","TRUE","Surendranagar",104
-"GJ","Tapi.pdf","TRUE","Tapi",104
-"GJ","The Dangs.pdf","TRUE","The Dangs",104
-"GJ","Vadodara.pdf","TRUE","Vadodara",104
-"GJ","Valsad.pdf","TRUE","Valsad",104
-"JK","Anantnag.pdf","TRUE","Anantnag",104
-"JK","Badgam.pdf","TRUE","Badgam",104
-"JK","Bandipore.pdf","TRUE","Bandipore",104
-"JK","Baramula.pdf","TRUE","Baramula",104
-"JK","Doda.pdf","TRUE","Doda",104
-"JK","Ganderbal.pdf","TRUE","Ganderbal",104
-"JK","Jammu.pdf","TRUE","Jammu",104
-"JK","Kathua.pdf","TRUE","Kathua",104
-"JK","Kishtwar.pdf","TRUE","Kishtwar",104
-"JK","Kulgam.pdf","TRUE","Kulgam",104
-"JK","Kupwara.pdf","TRUE","Kupwara",104
-"JK","Pulwama.pdf","TRUE","Pulwama",104
-"JK","Punch.pdf","TRUE","Punch",104
-"JK","Rajouri.pdf","TRUE","Rajouri",104
-"JK","Ramban.pdf","TRUE","Ramban",104
-"JK","Reasi.pdf","TRUE","Reasi",104
-"JK","Samba.pdf","TRUE","Samba",104
-"JK","Shupiyan.pdf","TRUE","Shupiyan",104
-"JK","Srinagar.pdf","TRUE","Srinagar",104
-"JK","Udhampur.pdf","TRUE","Udhampur",104
-"KA","Bagalkot.pdf","TRUE","Bagalkot",104
-"KA","Bangalore.pdf","TRUE","Bangalore",104
-"KA","Bangalore Rural.pdf","TRUE","Bangalore Rural",104
-"KA","Belgaum.pdf","TRUE","Belgaum",104
-"KA","Bellary.pdf","TRUE","Bellary",104
-"KA","Bidar.pdf","TRUE","Bidar",104
-"KA","Bijapur.pdf","TRUE","Bijapur",104
-"KA","Chamarajanagar.pdf","TRUE","Chamarajanagar",104
-"KA","Chikkaballapura.pdf","TRUE","Chikkaballapura",104
-"KA","Chikmagalur.pdf","TRUE","Chikmagalur",104
-"KA","Chitradurga.pdf","TRUE","Chitradurga",104
-"KA","Dakshina Kannada.pdf","TRUE","Dakshina Kannada",104
-"KA","Davanagere.pdf","TRUE","Davanagere",104
-"KA","Dharwad.pdf","TRUE","Dharwad",104
-"KA","Gadag.pdf","TRUE","Gadag",104
-"KA","Gulbarga.pdf","TRUE","Gulbarga",104
-"KA","Hassan.pdf","TRUE","Hassan",104
-"KA","Haveri.pdf","TRUE","Haveri",104
-"KA","Kodagu.pdf","TRUE","Kodagu",104
-"KA","Kolar.pdf","TRUE","Kolar",104
-"KA","Koppal.pdf","TRUE","Koppal",104
-"KA","Mandya.pdf","TRUE","Mandya",104
-"KA","Mysore.pdf","TRUE","Mysore",104
-"KA","Raichur.pdf","TRUE","Raichur",104
-"KA","Ramanagara.pdf","TRUE","Ramanagara",104
-"KA","Shimoga.pdf","TRUE","Shimoga",104
-"KA","Tumkur.pdf","TRUE","Tumkur",104
-"KA","Udupi.pdf","TRUE","Udupi",104
-"KA","Uttara Kannada.pdf","TRUE","Uttara Kannada",104
-"KA","Yadgir.pdf","TRUE","Yadgir",104
-"KL","Alappuzha.pdf","TRUE","Alappuzha",104
-"KL","Ernakulam.pdf","TRUE","Ernakulam",104
-"KL","Idukki.pdf","TRUE","Idukki",104
-"KL","Kannur.pdf","TRUE","Kannur",104
-"KL","Kasaragod.pdf","TRUE","Kasaragod",104
-"KL","Kollam.pdf","TRUE","Kollam",104
-"KL","Kottayam.pdf","TRUE","Kottayam",104
-"KL","Kozhikode.pdf","TRUE","Kozhikode",104
-"KL","Malappuram.pdf","TRUE","Malappuram",104
-"KL","Palakkad.pdf","TRUE","Palakkad",104
-"KL","Pathanamthitta.pdf","TRUE","Pathanamthitta",104
-"KL","Thiruvananthapuram.pdf","TRUE","Thiruvananthapuram",104
-"KL","Thrissur.pdf","TRUE","Thrissur",104
-"KL","Wayanad.pdf","TRUE","Wayanad",104
-"LH","Kargil.pdf","TRUE","Kargil",104
-"LH","Leh (Ladakh).pdf","TRUE","Leh (Ladakh)",104
-"MH","Ahmednagar.pdf","TRUE","Ahmednagar",104
-"MH","Akola.pdf","TRUE","Akola",104
-"MH","Amravati.pdf","TRUE","Amravati",104
-"MH","Aurangabad.pdf","TRUE","Aurangabad",104
-"MH","Bid.pdf","TRUE","Bid",104
-"MH","Bhandara.pdf","TRUE","Bhandara",104
-"MH","Buldana.pdf","TRUE","Buldana",104
-"MH","Chandrapur.pdf","TRUE","Chandrapur",104
-"MH","Gadchiroli.pdf","TRUE","Gadchiroli",104
-"MH","Gondiya.pdf","TRUE","Gondiya",104
-"MH","Hingoli.pdf","TRUE","Hingoli",104
-"MH","Jalgaon.pdf","TRUE","Jalgaon",104
-"MH","Jalna.pdf","TRUE","Jalna",104
-"MH","Kolhapur.pdf","TRUE","Kolhapur",104
-"MH","Latur.pdf","TRUE","Latur",104
-"MH","Mumbai.pdf","TRUE","Mumbai",104
-"MH","Mumbai Suburban.pdf","TRUE","Mumbai Suburban",104
-"MH","Nagpur.pdf","TRUE","Nagpur",104
-"MH","Nanded.pdf","TRUE","Nanded",104
-"MH","Nandurbar.pdf","TRUE","Nandurbar",104
-"MH","Nashik.pdf","TRUE","Nashik",104
-"MH","Osmanabad.pdf","TRUE","Osmanabad",104
-"MH","Parbhani.pdf","TRUE","Parbhani",104
-"MH","Pune.pdf","TRUE","Pune",104
-"MH","Raigarh.pdf","TRUE","Raigarh",104
-"MH","Ratnagiri.pdf","TRUE","Ratnagiri",104
-"MH","Sangli.pdf","TRUE","Sangli",104
-"MH","Satara.pdf","TRUE","Satara",104
-"MH","Sindhudurg.pdf","TRUE","Sindhudurg",104
-"MH","Solapur.pdf","TRUE","Solapur",104
-"MH","Wardha.pdf","TRUE","Wardha",104
-"MH","Washim.pdf","TRUE","Washim",104
-"MH","Yavatmal.pdf","TRUE","Yavatmal",104
-"MN","Bishnupur.pdf","TRUE","Bishnupur",104
-"MN","Chandel.pdf","TRUE","Chandel",104
-"MN","Churachandpur.pdf","TRUE","Churachandpur",104
-"MN","Imphal East.pdf","TRUE","Imphal East",104
-"MN","Imphal West.pdf","TRUE","Imphal West",104
-"MN","Senapati.pdf","TRUE","Senapati",104
-"MN","Tamenglong.pdf","TRUE","Tamenglong",104
-"MN","Thoubal.pdf","TRUE","Thoubal",104
-"MN","Ukhrul.pdf","TRUE","Ukhrul",104
-"ML","East Khasi Hills.pdf","TRUE","East Khasi Hills",104
-"ML","Ribhoi.pdf","TRUE","Ribhoi",104
-"ML","South Garo Hills.pdf","TRUE","South Garo Hills",104
-"MZ","Aizawl.pdf","TRUE","Aizawl",104
-"MZ","Champhai.pdf","TRUE","Champhai",104
-"MZ","Kolasib.pdf","TRUE","Kolasib",104
-"MZ","Lawngtlai.pdf","TRUE","Lawngtlai",104
-"MZ","Lunglei.pdf","TRUE","Lunglei",104
-"MZ","Mamit.pdf","TRUE","Mamit",104
-"MZ","Saiha.pdf","TRUE","Saiha",104
-"MZ","Serchhip.pdf","TRUE","Serchhip",104
-"NL","Dimapur.pdf","TRUE","Dimapur",104
-"NL","Kiphire.pdf","TRUE","Kiphire",104
-"NL","Kohima.pdf","TRUE","Kohima",104
-"NL","Longleng.pdf","TRUE","Longleng",104
-"NL","Mokokchung.pdf","TRUE","Mokokchung",104
-"NL","Mon.pdf","TRUE","Mon",104
-"NL","Peren.pdf","TRUE","Peren",104
-"NL","Phek.pdf","TRUE","Phek",104
-"NL","Tuensang.pdf","TRUE","Tuensang",104
-"NL","Wokha.pdf","TRUE","Wokha",104
-"NL","Zunheboto.pdf","TRUE","Zunheboto",104
-"SK","East District.pdf","TRUE","East District",104
-"SK","North District.pdf","TRUE","North District",104
-"SK","South District.pdf","TRUE","South District",104
-"SK","West District.pdf","TRUE","West District",104
-"TG","Adilabad.pdf","TRUE","Adilabad",104
-"TG","Bhadradri Kothagudem.pdf","TRUE","Bhadradri Kothagudem",104
-"TG","Hyderabad.pdf","TRUE","Hyderabad",104
-"TG","Jagitial.pdf","TRUE","Jagitial",104
-"TG","Jangoan.pdf","TRUE","Jangoan",104
-"TG","Jayashankar Bhupalapally.pdf","TRUE","Jayashankar Bhupalapally",104
-"TG","Jogulamba Gadwal.pdf","TRUE","Jogulamba Gadwal",104
-"TG","Kamareddy.pdf","TRUE","Kamareddy",104
-"TG","Karimnagar.pdf","TRUE","Karimnagar",104
-"TG","Khammam.pdf","TRUE","Khammam",104
-"TG","Komaram Bheem Asifabad.pdf","TRUE","Komaram Bheem Asifabad",104
-"TG","Mahabubabad.pdf","TRUE","Mahabubabad",104
-"TG","Mahabubnagar.pdf","TRUE","Mahabubnagar",104
-"TG","Mancherial.pdf","TRUE","Mancherial",104
-"TG","Medak.pdf","TRUE","Medak",104
-"TG","Medchal-Malkajgiri.pdf","TRUE","Medchal-Malkajgiri",104
-"TG","Nagarkurnool.pdf","TRUE","Nagarkurnool",104
-"TG","Nalgonda.pdf","TRUE","Nalgonda",104
-"TG","Nirmal.pdf","TRUE","Nirmal",104
-"TG","Nizamabad.pdf","TRUE","Nizamabad",104
-"TG","Peddapalli.pdf","TRUE","Peddapalli",104
-"TG","Rajanna Sircilla.pdf","TRUE","Rajanna Sircilla",104
-"TG","Ranga Reddy.pdf","TRUE","Ranga Reddy",104
-"TG","Sangareddy.pdf","TRUE","Sangareddy",104
-"TG","Siddipet.pdf","TRUE","Siddipet",104
-"TG","Suryapet.pdf","TRUE","Suryapet",104
-"TG","Vikarabad.pdf","TRUE","Vikarabad",104
-"TG","Wanaparthy.pdf","TRUE","Wanaparthy",104
-"TG","Warangal Rural.pdf","TRUE","Warangal Rural",104
-"TG","Warangal Urban.pdf","TRUE","Warangal Urban",104
-"TG","Yadadri Bhuvanagiri.pdf","TRUE","Yadadri Bhuvanagiri",104
-"TR","Dhalai.pdf","TRUE","Dhalai",104
-"WB","Bankura.pdf","TRUE","Bankura",104
-"WB","Birbhum.pdf","TRUE","Birbhum",104
-"WB","Dakshin Dinajpur.pdf","TRUE","Dakshin Dinajpur",104
-"WB","Darjeeling.pdf","TRUE","Darjeeling",104
-"WB","Haora.pdf","TRUE","Haora",104
-"WB","Hugli.pdf","TRUE","Hugli",104
-"WB","Jalpaiguri.pdf","TRUE","Jalpaiguri",104
-"WB","Koch Bihar.pdf","TRUE","Koch Bihar",104
-"WB","Kolkata.pdf","TRUE","Kolkata",104
-"WB","Maldah.pdf","TRUE","Maldah",104
-"WB","Murshidabad.pdf","TRUE","Murshidabad",104
-"WB","Nadia.pdf","TRUE","Nadia",104
-"WB","North Twenty Four Parganas.pdf","TRUE","North Twenty Four Parganas",104
-"WB","Paschim Medinipur.pdf","TRUE","Paschim Medinipur",104
-"WB","Purba Barddhaman.pdf","TRUE","Purba Barddhaman",104
-"WB","Paschim Barddhaman.pdf","TRUE","Paschim Barddhaman",104
-"WB","Purba Medinipur.pdf","TRUE","Purba Medinipur",104
-"WB","Puruliya.pdf","TRUE","Puruliya",104
-"WB","South Twenty Four Parganas.pdf","TRUE","South Twenty Four Parganas",104
-"WB","Uttar Dinajpur.pdf","TRUE","Uttar Dinajpur",104
-"GJ","Kheda.pdf","TRUE","Kheda",105
-"MH","Thane.pdf","TRUE","Thane",106
+"state","district_name","version","nrecords","district_file","status"
+"HP","Kangra",2020-12-15 13:11:00,101,"Kangra.pdf","TRUE"
+"HP","Chamba",2020-12-15 13:11:00,103,"Chamba.pdf","TRUE"
+"MH","Dhule",2020-12-15 13:11:00,103,"Dhule.pdf","TRUE"
+"HP","Hamirpur",2020-12-15 13:11:00,104,"Hamirpur.pdf","TRUE"
+"HP","Kullu",2020-12-15 13:11:00,104,"Kullu.pdf","TRUE"
+"HP","Lahul and Spiti",2020-12-15 13:11:00,104,"Lahul and Spiti.pdf","TRUE"
+"HP","Mandi",2020-12-15 13:11:00,104,"Mandi.pdf","TRUE"
+"HP","Bilaspur",2020-12-15 13:11:00,104,"Bilaspur.pdf","TRUE"
+"HP","Una",2020-12-15 13:11:00,104,"Una.pdf","TRUE"
+"MH","Palghar",2020-12-15 13:11:00,104,"Palghar.pdf","TRUE"
+"ML","East Garo Hills",2020-12-15 13:11:00,104,"East Garo Hills.pdf","TRUE"
+"ML","East Jaintia Hills",2020-12-15 13:11:00,104,"East Jaintia Hills.pdf","TRUE"
+"ML","North Garo Hills",2020-12-15 13:11:00,104,"North Garo Hills.pdf","TRUE"
+"ML","South West Garo Hills",2020-12-15 13:11:00,104,"South West Garo Hills.pdf","TRUE"
+"ML","South West Khasi Hills",2020-12-15 13:11:00,104,"South West Khasi Hills.pdf","TRUE"
+"ML","West Jaintia Hills",2020-12-15 13:11:00,104,"West Jaintia Hills.pdf","TRUE"
+"ML","West Khasi Hills",2020-12-15 13:11:00,104,"West Khasi Hills.pdf","TRUE"
+"TR","Gomati",2020-12-15 13:11:00,104,"Gomati.pdf","TRUE"
+"TR","Khowai",2020-12-15 13:11:00,104,"Khowai.pdf","TRUE"
+"TR","North Tripura",2020-12-15 13:11:00,104,"North Tripura.pdf","TRUE"
+"TR","Sepahijala",2020-12-15 13:11:00,104,"Sepahijala.pdf","TRUE"
+"TR","South Tripura",2020-12-15 13:11:00,104,"South Tripura.pdf","TRUE"
+"TR","Unakoti",2020-12-15 13:11:00,104,"Unakoti.pdf","TRUE"
+"TR","West Tripura",2020-12-15 13:11:00,104,"West Tripura.pdf","TRUE"
+"HP","Kinnaur",2020-12-15 13:11:00,104,"Kinnaur.pdf","TRUE"
+"HP","Shimla",2020-12-15 13:11:00,104,"Shimla.pdf","TRUE"
+"ML","West Garo Hills",2020-12-15 13:11:00,104,"West Garo Hills.pdf","TRUE"
+"HP","Sirmaur",2020-12-15 13:11:00,104,"Sirmaur.pdf","TRUE"
+"HP","Solan",2020-12-15 13:11:00,104,"Solan.pdf","TRUE"
+"AN","Nicobars",2020-12-15 13:11:00,104,"Nicobars.pdf","TRUE"
+"AN","North & Middle Andaman",2020-12-15 13:11:00,104,"North & Middle Andaman.pdf","TRUE"
+"AN","South Andaman",2020-12-15 13:11:00,104,"South Andaman.pdf","TRUE"
+"AP","Anantapur",2020-12-15 13:11:00,104,"Anantapur.pdf","TRUE"
+"AP","Chittoor",2020-12-15 13:11:00,104,"Chittoor.pdf","TRUE"
+"AP","East Godavari",2020-12-15 13:11:00,104,"East Godavari.pdf","TRUE"
+"AP","Guntur",2020-12-15 13:11:00,104,"Guntur.pdf","TRUE"
+"AP","Krishna",2020-12-15 13:11:00,104,"Krishna.pdf","TRUE"
+"AP","Kurnool",2020-12-15 13:11:00,104,"Kurnool.pdf","TRUE"
+"AP","Prakasam",2020-12-15 13:11:00,104,"Prakasam.pdf","TRUE"
+"AP","Sri Potti Sriramulu Nellore",2020-12-15 13:11:00,104,"Sri Potti Sriramulu Nellore.pdf","TRUE"
+"AP","Srikakulam",2020-12-15 13:11:00,104,"Srikakulam.pdf","TRUE"
+"AP","Visakhapatnam",2020-12-15 13:11:00,104,"Visakhapatnam.pdf","TRUE"
+"AP","Vizianagaram",2020-12-15 13:11:00,104,"Vizianagaram.pdf","TRUE"
+"AP","West Godavari",2020-12-15 13:11:00,104,"West Godavari.pdf","TRUE"
+"AP","Y.S.R.",2020-12-15 13:11:00,104,"Y.S.R..pdf","TRUE"
+"AS","Baksa",2020-12-15 13:11:00,104,"Baksa.pdf","TRUE"
+"AS","Barpeta",2020-12-15 13:11:00,104,"Barpeta.pdf","TRUE"
+"AS","Biswanath",2020-12-15 13:11:00,104,"Biswanath.pdf","TRUE"
+"AS","Bongaigaon",2020-12-15 13:11:00,104,"Bongaigaon.pdf","TRUE"
+"AS","Cachar",2020-12-15 13:11:00,104,"Cachar.pdf","TRUE"
+"AS","Charaideo",2020-12-15 13:11:00,104,"Charaideo.pdf","TRUE"
+"AS","Chirang",2020-12-15 13:11:00,104,"Chirang.pdf","TRUE"
+"AS","Darrang",2020-12-15 13:11:00,104,"Darrang.pdf","TRUE"
+"AS","Dhemaji",2020-12-15 13:11:00,104,"Dhemaji.pdf","TRUE"
+"AS","Dhubri",2020-12-15 13:11:00,104,"Dhubri.pdf","TRUE"
+"AS","Dibrugarh",2020-12-15 13:11:00,104,"Dibrugarh.pdf","TRUE"
+"AS","Dima Hasao",2020-12-15 13:11:00,104,"Dima Hasao.pdf","TRUE"
+"AS","Goalpara",2020-12-15 13:11:00,104,"Goalpara.pdf","TRUE"
+"AS","Golaghat",2020-12-15 13:11:00,104,"Golaghat.pdf","TRUE"
+"AS","Hailakandi",2020-12-15 13:11:00,104,"Hailakandi.pdf","TRUE"
+"AS","Hojai",2020-12-15 13:11:00,104,"Hojai.pdf","TRUE"
+"AS","Jorhat",2020-12-15 13:11:00,104,"Jorhat.pdf","TRUE"
+"AS","Kamrup",2020-12-15 13:11:00,104,"Kamrup.pdf","TRUE"
+"AS","Kamrup Metropolitan",2020-12-15 13:11:00,104,"Kamrup Metropolitan.pdf","TRUE"
+"AS","Karbi Anglong",2020-12-15 13:11:00,104,"Karbi Anglong.pdf","TRUE"
+"AS","Karimganj",2020-12-15 13:11:00,104,"Karimganj.pdf","TRUE"
+"AS","Kokrajhar",2020-12-15 13:11:00,104,"Kokrajhar.pdf","TRUE"
+"AS","Lakhimpur",2020-12-15 13:11:00,104,"Lakhimpur.pdf","TRUE"
+"AS","Majuli",2020-12-15 13:11:00,104,"Majuli.pdf","TRUE"
+"AS","Morigaon",2020-12-15 13:11:00,104,"Morigaon.pdf","TRUE"
+"AS","Nagaon",2020-12-15 13:11:00,104,"Nagaon.pdf","TRUE"
+"AS","Nalbari",2020-12-15 13:11:00,104,"Nalbari.pdf","TRUE"
+"AS","Sivasagar",2020-12-15 13:11:00,104,"Sivasagar.pdf","TRUE"
+"AS","Sonitpur",2020-12-15 13:11:00,104,"Sonitpur.pdf","TRUE"
+"AS","South Salmara Mancachar",2020-12-15 13:11:00,104,"South Salmara Mancachar.pdf","TRUE"
+"AS","Tinsukia",2020-12-15 13:11:00,104,"Tinsukia.pdf","TRUE"
+"AS","Udalguri",2020-12-15 13:11:00,104,"Udalguri.pdf","TRUE"
+"AS","West Karbi Anglong",2020-12-15 13:11:00,104,"West Karbi Anglong.pdf","TRUE"
+"BR","Araria",2020-12-15 13:11:00,104,"Araria.pdf","TRUE"
+"BR","Arwal",2020-12-15 13:11:00,104,"Arwal.pdf","TRUE"
+"BR","Aurangabad",2020-12-15 13:11:00,104,"Aurangabad.pdf","TRUE"
+"BR","Banka",2020-12-15 13:11:00,104,"Banka.pdf","TRUE"
+"BR","Begusarai",2020-12-15 13:11:00,104,"Begusarai.pdf","TRUE"
+"BR","Bhagalpur",2020-12-15 13:11:00,104,"Bhagalpur.pdf","TRUE"
+"BR","Bhojpur",2020-12-15 13:11:00,104,"Bhojpur.pdf","TRUE"
+"BR","Buxar",2020-12-15 13:11:00,104,"Buxar.pdf","TRUE"
+"BR","Darbhanga",2020-12-15 13:11:00,104,"Darbhanga.pdf","TRUE"
+"BR","Gaya",2020-12-15 13:11:00,104,"Gaya.pdf","TRUE"
+"BR","Gopalganj",2020-12-15 13:11:00,104,"Gopalganj.pdf","TRUE"
+"BR","Jamui",2020-12-15 13:11:00,104,"Jamui.pdf","TRUE"
+"BR","Jehanabad",2020-12-15 13:11:00,104,"Jehanabad.pdf","TRUE"
+"BR","Kaimur (Bhabua)",2020-12-15 13:11:00,104,"Kaimur (Bhabua).pdf","TRUE"
+"BR","Katihar",2020-12-15 13:11:00,104,"Katihar.pdf","TRUE"
+"BR","Khagaria",2020-12-15 13:11:00,104,"Khagaria.pdf","TRUE"
+"BR","Kishanganj",2020-12-15 13:11:00,104,"Kishanganj.pdf","TRUE"
+"BR","Lakhisarai",2020-12-15 13:11:00,104,"Lakhisarai.pdf","TRUE"
+"BR","Madhepura",2020-12-15 13:11:00,104,"Madhepura.pdf","TRUE"
+"BR","Madhubani",2020-12-15 13:11:00,104,"Madhubani.pdf","TRUE"
+"BR","Munger",2020-12-15 13:11:00,104,"Munger.pdf","TRUE"
+"BR","Muzaffarpur",2020-12-15 13:11:00,104,"Muzaffarpur.pdf","TRUE"
+"BR","Nalanda",2020-12-15 13:11:00,104,"Nalanda.pdf","TRUE"
+"BR","Nawada",2020-12-15 13:11:00,104,"Nawada.pdf","TRUE"
+"BR","Pashchim Champaran",2020-12-15 13:11:00,104,"Pashchim Champaran.pdf","TRUE"
+"BR","Patna",2020-12-15 13:11:00,104,"Patna.pdf","TRUE"
+"BR","Purba Champaran",2020-12-15 13:11:00,104,"Purba Champaran.pdf","TRUE"
+"BR","Purnia",2020-12-15 13:11:00,104,"Purnia.pdf","TRUE"
+"BR","Rohtas",2020-12-15 13:11:00,104,"Rohtas.pdf","TRUE"
+"BR","Saharsa",2020-12-15 13:11:00,104,"Saharsa.pdf","TRUE"
+"BR","Samastipur",2020-12-15 13:11:00,104,"Samastipur.pdf","TRUE"
+"BR","Saran",2020-12-15 13:11:00,104,"Saran.pdf","TRUE"
+"BR","Sheikhpura",2020-12-15 13:11:00,104,"Sheikhpura.pdf","TRUE"
+"BR","Sheohar",2020-12-15 13:11:00,104,"Sheohar.pdf","TRUE"
+"BR","Sitamarhi",2020-12-15 13:11:00,104,"Sitamarhi.pdf","TRUE"
+"BR","Siwan",2020-12-15 13:11:00,104,"Siwan.pdf","TRUE"
+"BR","Supaul",2020-12-15 13:11:00,104,"Supaul.pdf","TRUE"
+"BR","Vaishali",2020-12-15 13:11:00,104,"Vaishali.pdf","TRUE"
+"DD","Dadra & Nagar Haveli",2020-12-15 13:11:00,104,"Dadra & Nagar Haveli.pdf","TRUE"
+"DD","Daman",2020-12-15 13:11:00,104,"Daman.pdf","TRUE"
+"DD","Diu",2020-12-15 13:11:00,104,"Diu.pdf","TRUE"
+"GA","North Goa",2020-12-15 13:11:00,104,"North Goa.pdf","TRUE"
+"GA","South Goa",2020-12-15 13:11:00,104,"South Goa.pdf","TRUE"
+"GJ","Ahmedabad",2020-12-15 13:11:00,104,"Ahmedabad.pdf","TRUE"
+"GJ","Amreli",2020-12-15 13:11:00,104,"Amreli.pdf","TRUE"
+"GJ","Anand",2020-12-15 13:11:00,104,"Anand.pdf","TRUE"
+"GJ","Aravali",2020-12-15 13:11:00,104,"Aravali.pdf","TRUE"
+"GJ","Banaskantha",2020-12-15 13:11:00,104,"Banaskantha.pdf","TRUE"
+"GJ","Bharuch",2020-12-15 13:11:00,104,"Bharuch.pdf","TRUE"
+"GJ","Bhavnagar",2020-12-15 13:11:00,104,"Bhavnagar.pdf","TRUE"
+"GJ","Botad",2020-12-15 13:11:00,104,"Botad.pdf","TRUE"
+"GJ","Chhota Udaipur",2020-12-15 13:11:00,104,"Chhota Udaipur.pdf","TRUE"
+"GJ","Dahod",2020-12-15 13:11:00,104,"Dahod.pdf","TRUE"
+"GJ","Devbhumi Dwarka",2020-12-15 13:11:00,104,"Devbhumi Dwarka.pdf","TRUE"
+"GJ","Gandhinagar",2020-12-15 13:11:00,104,"Gandhinagar.pdf","TRUE"
+"GJ","Gir Somnath",2020-12-15 13:11:00,104,"Gir Somnath.pdf","TRUE"
+"GJ","Jamnagar",2020-12-15 13:11:00,104,"Jamnagar.pdf","TRUE"
+"GJ","Junagadh",2020-12-15 13:11:00,104,"Junagadh.pdf","TRUE"
+"GJ","Kachchh",2020-12-15 13:11:00,104,"Kachchh.pdf","TRUE"
+"GJ","Mahesana",2020-12-15 13:11:00,104,"Mahesana.pdf","TRUE"
+"GJ","Mahisagar",2020-12-15 13:11:00,104,"Mahisagar.pdf","TRUE"
+"GJ","Morbi",2020-12-15 13:11:00,104,"Morbi.pdf","TRUE"
+"GJ","Narmada",2020-12-15 13:11:00,104,"Narmada.pdf","TRUE"
+"GJ","Navsari",2020-12-15 13:11:00,104,"Navsari.pdf","TRUE"
+"GJ","Panchmahal",2020-12-15 13:11:00,104,"Panchmahal.pdf","TRUE"
+"GJ","Patan",2020-12-15 13:11:00,104,"Patan.pdf","TRUE"
+"GJ","Porbandar",2020-12-15 13:11:00,104,"Porbandar.pdf","TRUE"
+"GJ","Rajkot",2020-12-15 13:11:00,104,"Rajkot.pdf","TRUE"
+"GJ","Sabarkantha",2020-12-15 13:11:00,104,"Sabarkantha.pdf","TRUE"
+"GJ","Surat",2020-12-15 13:11:00,104,"Surat.pdf","TRUE"
+"GJ","Surendranagar",2020-12-15 13:11:00,104,"Surendranagar.pdf","TRUE"
+"GJ","Tapi",2020-12-15 13:11:00,104,"Tapi.pdf","TRUE"
+"GJ","The Dangs",2020-12-15 13:11:00,104,"The Dangs.pdf","TRUE"
+"GJ","Vadodara",2020-12-15 13:11:00,104,"Vadodara.pdf","TRUE"
+"GJ","Valsad",2020-12-15 13:11:00,104,"Valsad.pdf","TRUE"
+"JK","Anantnag",2020-12-15 13:11:00,104,"Anantnag.pdf","TRUE"
+"JK","Badgam",2020-12-15 13:11:00,104,"Badgam.pdf","TRUE"
+"JK","Bandipore",2020-12-15 13:11:00,104,"Bandipore.pdf","TRUE"
+"JK","Baramula",2020-12-15 13:11:00,104,"Baramula.pdf","TRUE"
+"JK","Doda",2020-12-15 13:11:00,104,"Doda.pdf","TRUE"
+"JK","Ganderbal",2020-12-15 13:11:00,104,"Ganderbal.pdf","TRUE"
+"JK","Jammu",2020-12-15 13:11:00,104,"Jammu.pdf","TRUE"
+"JK","Kathua",2020-12-15 13:11:00,104,"Kathua.pdf","TRUE"
+"JK","Kishtwar",2020-12-15 13:11:00,104,"Kishtwar.pdf","TRUE"
+"JK","Kulgam",2020-12-15 13:11:00,104,"Kulgam.pdf","TRUE"
+"JK","Kupwara",2020-12-15 13:11:00,104,"Kupwara.pdf","TRUE"
+"JK","Pulwama",2020-12-15 13:11:00,104,"Pulwama.pdf","TRUE"
+"JK","Punch",2020-12-15 13:11:00,104,"Punch.pdf","TRUE"
+"JK","Rajouri",2020-12-15 13:11:00,104,"Rajouri.pdf","TRUE"
+"JK","Ramban",2020-12-15 13:11:00,104,"Ramban.pdf","TRUE"
+"JK","Reasi",2020-12-15 13:11:00,104,"Reasi.pdf","TRUE"
+"JK","Samba",2020-12-15 13:11:00,104,"Samba.pdf","TRUE"
+"JK","Shupiyan",2020-12-15 13:11:00,104,"Shupiyan.pdf","TRUE"
+"JK","Srinagar",2020-12-15 13:11:00,104,"Srinagar.pdf","TRUE"
+"JK","Udhampur",2020-12-15 13:11:00,104,"Udhampur.pdf","TRUE"
+"KA","Bagalkot",2020-12-15 13:11:00,104,"Bagalkot.pdf","TRUE"
+"KA","Bangalore",2020-12-15 13:11:00,104,"Bangalore.pdf","TRUE"
+"KA","Bangalore Rural",2020-12-15 13:11:00,104,"Bangalore Rural.pdf","TRUE"
+"KA","Belgaum",2020-12-15 13:11:00,104,"Belgaum.pdf","TRUE"
+"KA","Bellary",2020-12-15 13:11:00,104,"Bellary.pdf","TRUE"
+"KA","Bidar",2020-12-15 13:11:00,104,"Bidar.pdf","TRUE"
+"KA","Bijapur",2020-12-15 13:11:00,104,"Bijapur.pdf","TRUE"
+"KA","Chamarajanagar",2020-12-15 13:11:00,104,"Chamarajanagar.pdf","TRUE"
+"KA","Chikkaballapura",2020-12-15 13:11:00,104,"Chikkaballapura.pdf","TRUE"
+"KA","Chikmagalur",2020-12-15 13:11:00,104,"Chikmagalur.pdf","TRUE"
+"KA","Chitradurga",2020-12-15 13:11:00,104,"Chitradurga.pdf","TRUE"
+"KA","Dakshina Kannada",2020-12-15 13:11:00,104,"Dakshina Kannada.pdf","TRUE"
+"KA","Davanagere",2020-12-15 13:11:00,104,"Davanagere.pdf","TRUE"
+"KA","Dharwad",2020-12-15 13:11:00,104,"Dharwad.pdf","TRUE"
+"KA","Gadag",2020-12-15 13:11:00,104,"Gadag.pdf","TRUE"
+"KA","Gulbarga",2020-12-15 13:11:00,104,"Gulbarga.pdf","TRUE"
+"KA","Hassan",2020-12-15 13:11:00,104,"Hassan.pdf","TRUE"
+"KA","Haveri",2020-12-15 13:11:00,104,"Haveri.pdf","TRUE"
+"KA","Kodagu",2020-12-15 13:11:00,104,"Kodagu.pdf","TRUE"
+"KA","Kolar",2020-12-15 13:11:00,104,"Kolar.pdf","TRUE"
+"KA","Koppal",2020-12-15 13:11:00,104,"Koppal.pdf","TRUE"
+"KA","Mandya",2020-12-15 13:11:00,104,"Mandya.pdf","TRUE"
+"KA","Mysore",2020-12-15 13:11:00,104,"Mysore.pdf","TRUE"
+"KA","Raichur",2020-12-15 13:11:00,104,"Raichur.pdf","TRUE"
+"KA","Ramanagara",2020-12-15 13:11:00,104,"Ramanagara.pdf","TRUE"
+"KA","Shimoga",2020-12-15 13:11:00,104,"Shimoga.pdf","TRUE"
+"KA","Tumkur",2020-12-15 13:11:00,104,"Tumkur.pdf","TRUE"
+"KA","Udupi",2020-12-15 13:11:00,104,"Udupi.pdf","TRUE"
+"KA","Uttara Kannada",2020-12-15 13:11:00,104,"Uttara Kannada.pdf","TRUE"
+"KA","Yadgir",2020-12-15 13:11:00,104,"Yadgir.pdf","TRUE"
+"KL","Alappuzha",2020-12-15 13:11:00,104,"Alappuzha.pdf","TRUE"
+"KL","Ernakulam",2020-12-15 13:11:00,104,"Ernakulam.pdf","TRUE"
+"KL","Idukki",2020-12-15 13:11:00,104,"Idukki.pdf","TRUE"
+"KL","Kannur",2020-12-15 13:11:00,104,"Kannur.pdf","TRUE"
+"KL","Kasaragod",2020-12-15 13:11:00,104,"Kasaragod.pdf","TRUE"
+"KL","Kollam",2020-12-15 13:11:00,104,"Kollam.pdf","TRUE"
+"KL","Kottayam",2020-12-15 13:11:00,104,"Kottayam.pdf","TRUE"
+"KL","Kozhikode",2020-12-15 13:11:00,104,"Kozhikode.pdf","TRUE"
+"KL","Malappuram",2020-12-15 13:11:00,104,"Malappuram.pdf","TRUE"
+"KL","Palakkad",2020-12-15 13:11:00,104,"Palakkad.pdf","TRUE"
+"KL","Pathanamthitta",2020-12-15 13:11:00,104,"Pathanamthitta.pdf","TRUE"
+"KL","Thiruvananthapuram",2020-12-15 13:11:00,104,"Thiruvananthapuram.pdf","TRUE"
+"KL","Thrissur",2020-12-15 13:11:00,104,"Thrissur.pdf","TRUE"
+"KL","Wayanad",2020-12-15 13:11:00,104,"Wayanad.pdf","TRUE"
+"LH","Kargil",2020-12-15 13:11:00,104,"Kargil.pdf","TRUE"
+"LH","Leh (Ladakh)",2020-12-15 13:11:00,104,"Leh (Ladakh).pdf","TRUE"
+"MH","Ahmednagar",2020-12-15 13:11:00,104,"Ahmednagar.pdf","TRUE"
+"MH","Akola",2020-12-15 13:11:00,104,"Akola.pdf","TRUE"
+"MH","Amravati",2020-12-15 13:11:00,104,"Amravati.pdf","TRUE"
+"MH","Aurangabad",2020-12-15 13:11:00,104,"Aurangabad.pdf","TRUE"
+"MH","Bid",2020-12-15 13:11:00,104,"Bid.pdf","TRUE"
+"MH","Bhandara",2020-12-15 13:11:00,104,"Bhandara.pdf","TRUE"
+"MH","Buldana",2020-12-15 13:11:00,104,"Buldana.pdf","TRUE"
+"MH","Chandrapur",2020-12-15 13:11:00,104,"Chandrapur.pdf","TRUE"
+"MH","Gadchiroli",2020-12-15 13:11:00,104,"Gadchiroli.pdf","TRUE"
+"MH","Gondiya",2020-12-15 13:11:00,104,"Gondiya.pdf","TRUE"
+"MH","Hingoli",2020-12-15 13:11:00,104,"Hingoli.pdf","TRUE"
+"MH","Jalgaon",2020-12-15 13:11:00,104,"Jalgaon.pdf","TRUE"
+"MH","Jalna",2020-12-15 13:11:00,104,"Jalna.pdf","TRUE"
+"MH","Kolhapur",2020-12-15 13:11:00,104,"Kolhapur.pdf","TRUE"
+"MH","Latur",2020-12-15 13:11:00,104,"Latur.pdf","TRUE"
+"MH","Mumbai",2020-12-15 13:11:00,104,"Mumbai.pdf","TRUE"
+"MH","Mumbai Suburban",2020-12-15 13:11:00,104,"Mumbai Suburban.pdf","TRUE"
+"MH","Nagpur",2020-12-15 13:11:00,104,"Nagpur.pdf","TRUE"
+"MH","Nanded",2020-12-15 13:11:00,104,"Nanded.pdf","TRUE"
+"MH","Nandurbar",2020-12-15 13:11:00,104,"Nandurbar.pdf","TRUE"
+"MH","Nashik",2020-12-15 13:11:00,104,"Nashik.pdf","TRUE"
+"MH","Osmanabad",2020-12-15 13:11:00,104,"Osmanabad.pdf","TRUE"
+"MH","Parbhani",2020-12-15 13:11:00,104,"Parbhani.pdf","TRUE"
+"MH","Pune",2020-12-15 13:11:00,104,"Pune.pdf","TRUE"
+"MH","Raigarh",2020-12-15 13:11:00,104,"Raigarh.pdf","TRUE"
+"MH","Ratnagiri",2020-12-15 13:11:00,104,"Ratnagiri.pdf","TRUE"
+"MH","Sangli",2020-12-15 13:11:00,104,"Sangli.pdf","TRUE"
+"MH","Satara",2020-12-15 13:11:00,104,"Satara.pdf","TRUE"
+"MH","Sindhudurg",2020-12-15 13:11:00,104,"Sindhudurg.pdf","TRUE"
+"MH","Solapur",2020-12-15 13:11:00,104,"Solapur.pdf","TRUE"
+"MH","Wardha",2020-12-15 13:11:00,104,"Wardha.pdf","TRUE"
+"MH","Washim",2020-12-15 13:11:00,104,"Washim.pdf","TRUE"
+"MH","Yavatmal",2020-12-15 13:11:00,104,"Yavatmal.pdf","TRUE"
+"MN","Bishnupur",2020-12-15 13:11:00,104,"Bishnupur.pdf","TRUE"
+"MN","Chandel",2020-12-15 13:11:00,104,"Chandel.pdf","TRUE"
+"MN","Churachandpur",2020-12-15 13:11:00,104,"Churachandpur.pdf","TRUE"
+"MN","Imphal East",2020-12-15 13:11:00,104,"Imphal East.pdf","TRUE"
+"MN","Imphal West",2020-12-15 13:11:00,104,"Imphal West.pdf","TRUE"
+"MN","Senapati",2020-12-15 13:11:00,104,"Senapati.pdf","TRUE"
+"MN","Tamenglong",2020-12-15 13:11:00,104,"Tamenglong.pdf","TRUE"
+"MN","Thoubal",2020-12-15 13:11:00,104,"Thoubal.pdf","TRUE"
+"MN","Ukhrul",2020-12-15 13:11:00,104,"Ukhrul.pdf","TRUE"
+"ML","East Khasi Hills",2020-12-15 13:11:00,104,"East Khasi Hills.pdf","TRUE"
+"ML","Ribhoi",2020-12-15 13:11:00,104,"Ribhoi.pdf","TRUE"
+"ML","South Garo Hills",2020-12-15 13:11:00,104,"South Garo Hills.pdf","TRUE"
+"MZ","Aizawl",2020-12-15 13:11:00,104,"Aizawl.pdf","TRUE"
+"MZ","Champhai",2020-12-15 13:11:00,104,"Champhai.pdf","TRUE"
+"MZ","Kolasib",2020-12-15 13:11:00,104,"Kolasib.pdf","TRUE"
+"MZ","Lawngtlai",2020-12-15 13:11:00,104,"Lawngtlai.pdf","TRUE"
+"MZ","Lunglei",2020-12-15 13:11:00,104,"Lunglei.pdf","TRUE"
+"MZ","Mamit",2020-12-15 13:11:00,104,"Mamit.pdf","TRUE"
+"MZ","Saiha",2020-12-15 13:11:00,104,"Saiha.pdf","TRUE"
+"MZ","Serchhip",2020-12-15 13:11:00,104,"Serchhip.pdf","TRUE"
+"NL","Dimapur",2020-12-15 13:11:00,104,"Dimapur.pdf","TRUE"
+"NL","Kiphire",2020-12-15 13:11:00,104,"Kiphire.pdf","TRUE"
+"NL","Kohima",2020-12-15 13:11:00,104,"Kohima.pdf","TRUE"
+"NL","Longleng",2020-12-15 13:11:00,104,"Longleng.pdf","TRUE"
+"NL","Mokokchung",2020-12-15 13:11:00,104,"Mokokchung.pdf","TRUE"
+"NL","Mon",2020-12-15 13:11:00,104,"Mon.pdf","TRUE"
+"NL","Peren",2020-12-15 13:11:00,104,"Peren.pdf","TRUE"
+"NL","Phek",2020-12-15 13:11:00,104,"Phek.pdf","TRUE"
+"NL","Tuensang",2020-12-15 13:11:00,104,"Tuensang.pdf","TRUE"
+"NL","Wokha",2020-12-15 13:11:00,104,"Wokha.pdf","TRUE"
+"NL","Zunheboto",2020-12-15 13:11:00,104,"Zunheboto.pdf","TRUE"
+"SK","East District",2020-12-15 13:11:00,104,"East District.pdf","TRUE"
+"SK","North District",2020-12-15 13:11:00,104,"North District.pdf","TRUE"
+"SK","South District",2020-12-15 13:11:00,104,"South District.pdf","TRUE"
+"SK","West District",2020-12-15 13:11:00,104,"West District.pdf","TRUE"
+"TG","Adilabad",2020-12-15 13:11:00,104,"Adilabad.pdf","TRUE"
+"TG","Bhadradri Kothagudem",2020-12-15 13:11:00,104,"Bhadradri Kothagudem.pdf","TRUE"
+"TG","Hyderabad",2020-12-15 13:11:00,104,"Hyderabad.pdf","TRUE"
+"TG","Jagitial",2020-12-15 13:11:00,104,"Jagitial.pdf","TRUE"
+"TG","Jangoan",2020-12-15 13:11:00,104,"Jangoan.pdf","TRUE"
+"TG","Jayashankar Bhupalapally",2020-12-15 13:11:00,104,"Jayashankar Bhupalapally.pdf","TRUE"
+"TG","Jogulamba Gadwal",2020-12-15 13:11:00,104,"Jogulamba Gadwal.pdf","TRUE"
+"TG","Kamareddy",2020-12-15 13:11:00,104,"Kamareddy.pdf","TRUE"
+"TG","Karimnagar",2020-12-15 13:11:00,104,"Karimnagar.pdf","TRUE"
+"TG","Khammam",2020-12-15 13:11:00,104,"Khammam.pdf","TRUE"
+"TG","Komaram Bheem Asifabad",2020-12-15 13:11:00,104,"Komaram Bheem Asifabad.pdf","TRUE"
+"TG","Mahabubabad",2020-12-15 13:11:00,104,"Mahabubabad.pdf","TRUE"
+"TG","Mahabubnagar",2020-12-15 13:11:00,104,"Mahabubnagar.pdf","TRUE"
+"TG","Mancherial",2020-12-15 13:11:00,104,"Mancherial.pdf","TRUE"
+"TG","Medak",2020-12-15 13:11:00,104,"Medak.pdf","TRUE"
+"TG","Medchal-Malkajgiri",2020-12-15 13:11:00,104,"Medchal-Malkajgiri.pdf","TRUE"
+"TG","Nagarkurnool",2020-12-15 13:11:00,104,"Nagarkurnool.pdf","TRUE"
+"TG","Nalgonda",2020-12-15 13:11:00,104,"Nalgonda.pdf","TRUE"
+"TG","Nirmal",2020-12-15 13:11:00,104,"Nirmal.pdf","TRUE"
+"TG","Nizamabad",2020-12-15 13:11:00,104,"Nizamabad.pdf","TRUE"
+"TG","Peddapalli",2020-12-15 13:11:00,104,"Peddapalli.pdf","TRUE"
+"TG","Rajanna Sircilla",2020-12-15 13:11:00,104,"Rajanna Sircilla.pdf","TRUE"
+"TG","Ranga Reddy",2020-12-15 13:11:00,104,"Ranga Reddy.pdf","TRUE"
+"TG","Sangareddy",2020-12-15 13:11:00,104,"Sangareddy.pdf","TRUE"
+"TG","Siddipet",2020-12-15 13:11:00,104,"Siddipet.pdf","TRUE"
+"TG","Suryapet",2020-12-15 13:11:00,104,"Suryapet.pdf","TRUE"
+"TG","Vikarabad",2020-12-15 13:11:00,104,"Vikarabad.pdf","TRUE"
+"TG","Wanaparthy",2020-12-15 13:11:00,104,"Wanaparthy.pdf","TRUE"
+"TG","Warangal Rural",2020-12-15 13:11:00,104,"Warangal Rural.pdf","TRUE"
+"TG","Warangal Urban",2020-12-15 13:11:00,104,"Warangal Urban.pdf","TRUE"
+"TG","Yadadri Bhuvanagiri",2020-12-15 13:11:00,104,"Yadadri Bhuvanagiri.pdf","TRUE"
+"TR","Dhalai",2020-12-15 13:11:00,104,"Dhalai.pdf","TRUE"
+"WB","Bankura",2020-12-15 13:11:00,104,"Bankura.pdf","TRUE"
+"WB","Birbhum",2020-12-15 13:11:00,104,"Birbhum.pdf","TRUE"
+"WB","Dakshin Dinajpur",2020-12-15 13:11:00,104,"Dakshin Dinajpur.pdf","TRUE"
+"WB","Darjeeling",2020-12-15 13:11:00,104,"Darjeeling.pdf","TRUE"
+"WB","Haora",2020-12-15 13:11:00,104,"Haora.pdf","TRUE"
+"WB","Hugli",2020-12-15 13:11:00,104,"Hugli.pdf","TRUE"
+"WB","Jalpaiguri",2020-12-15 13:11:00,104,"Jalpaiguri.pdf","TRUE"
+"WB","Koch Bihar",2020-12-15 13:11:00,104,"Koch Bihar.pdf","TRUE"
+"WB","Kolkata",2020-12-15 13:11:00,104,"Kolkata.pdf","TRUE"
+"WB","Maldah",2020-12-15 13:11:00,104,"Maldah.pdf","TRUE"
+"WB","Murshidabad",2020-12-15 13:11:00,104,"Murshidabad.pdf","TRUE"
+"WB","Nadia",2020-12-15 13:11:00,104,"Nadia.pdf","TRUE"
+"WB","North Twenty Four Parganas",2020-12-15 13:11:00,104,"North Twenty Four Parganas.pdf","TRUE"
+"WB","Paschim Medinipur",2020-12-15 13:11:00,104,"Paschim Medinipur.pdf","TRUE"
+"WB","Purba Barddhaman",2020-12-15 13:11:00,104,"Purba Barddhaman.pdf","TRUE"
+"WB","Paschim Barddhaman",2020-12-15 13:11:00,104,"Paschim Barddhaman.pdf","TRUE"
+"WB","Purba Medinipur",2020-12-15 13:11:00,104,"Purba Medinipur.pdf","TRUE"
+"WB","Puruliya",2020-12-15 13:11:00,104,"Puruliya.pdf","TRUE"
+"WB","South Twenty Four Parganas",2020-12-15 13:11:00,104,"South Twenty Four Parganas.pdf","TRUE"
+"WB","Uttar Dinajpur",2020-12-15 13:11:00,104,"Uttar Dinajpur.pdf","TRUE"
+"GJ","Kheda",2020-12-15 13:11:00,105,"Kheda.pdf","TRUE"
+"MH","Thane",2020-12-15 15:14:11,106,"Thane.pdf","TRUE"

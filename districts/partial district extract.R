@@ -71,10 +71,12 @@ partial_MH = map(13:14,
                  .f = function(f){
                    a = 45.48; #TOP
                    b = 33.25; #LEFT
-                   c = 521.64; #WIDTH
+                   c = c(521.64,535.32); #WIDTH (#Palghar and Thane have different width)
                    D = c(446.3,510.6,603.34); #HEIGHT
-                   area = list(c(a,b,a+D[1],b+c), c(a,b,a+D[2],b+c),c(a,b,a+D[3],b+c));
-                   
+                   area = list(c(a,b,a+D[1],b+c[f-12]), 
+                                c(a,b,a+D[2],b+c[f-12]),
+                                c(a,b,a+D[3],b+c[f-12])); 
+
                    
                    
                    state = partial_obs$state[f];
@@ -93,11 +95,28 @@ partial_MH = map(13:14,
                                   district = district_name)
                          
                        });
+                   
+                   
+                   
                    return(tab)
                    
                    
                  }) %>% 
-  bind_rows(.)
+  bind_rows(.) %>% 
+  mutate(issue = case_when(is.na(NFHS5) & (!is.na(NFHS4)|!is.na(Flag_NFHS4)) ~ 1,
+                           TRUE ~ 0)) %>% 
+  mutate(Flag_NFHS5 = case_when(issue == 1 ~ Flag_NFHS4,
+                                TRUE ~ Flag_NFHS5),
+         
+         NFHS5 = case_when(issue == 1 ~ NFHS4,
+                           TRUE ~ NFHS5),
+         NFHS4 = case_when(issue == 1 ~ NA_real_,
+                           TRUE ~ NFHS4),
+         Flag_NFHS4 = case_when(issue == 1 ~ "",
+                           TRUE ~ Flag_NFHS4),
+         
+         ) %>% 
+  dplyr::select(-issue)
 
 # ML partial --------------
 partial_ML = map(15:22,
@@ -173,6 +192,7 @@ write.csv(partial_MH,paste0("districts/csv_output/partial_MH.csv"),row.names = F
 write.csv(partial_ML,paste0("districts/csv_output/partial_ML.csv"),row.names = FALSE)
 write.csv(partial_TR,paste0("districts/csv_output/partial_TR.csv"),row.names = FALSE)
 
+library(haven)
 write_dta(partial_HP,paste0("districts/stata_output/partial_HP.dta"),version=12)
 write_dta(partial_MH,paste0("districts/stata_output/partial_MH.dta"),version=12)
 write_dta(partial_ML,paste0("districts/stata_output/partial_ML.dta"),version=12)
