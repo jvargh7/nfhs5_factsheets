@@ -272,7 +272,7 @@ incorrect_match <- c("NFHS-5_FCTS/WB/Paschin Medinipur.pdf",
 
 # WB = 21, BR = 4, GA = 6, GJ = 7, MN = 14, TG = 19, MH = 13
 # TR = , ML = 15, HP = 
-for(d in state_url[11]){
+for(d in state_url){
   
   s_url = paste0("http://rchiips.org/nfhs/",d)
   
@@ -362,6 +362,7 @@ for(d in state_url){
   
 }
 
+# Check district status - 1
 district_obs = district_obs %>% 
   mutate(nrecords = apply(.,1,function(x) district_df[district_df$district == x["district_name"],] %>% nrow(.))) %>% 
   mutate(nrecords = case_when(district_name == "Aurangabad" ~ 104,
