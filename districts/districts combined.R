@@ -19,7 +19,7 @@ corrected_status = district_obs %>%
   arrange(nrecords,status) 
 
 
-write.csv(district_obs,paste0("districts/corrected district status.csv"),row.names = FALSE)
+write.csv(corrected_status,paste0("districts/corrected district status.csv"),row.names = FALSE)
 
 write.csv(district_df, paste0("NFHS-5 District Factsheets.csv"),row.names=FALSE)
 write_dta(district_df, paste0("NFHS-5 District Factsheets.dta"),version = 12)

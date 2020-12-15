@@ -1,34 +1,33 @@
 "state","district_file","status","district_name","nrecords"
-"HP","Hamirpur.pdf","TRUE","Hamirpur",1
-"HP","Kullu.pdf","TRUE","Kullu",1
-"HP","Lahul and Spiti.pdf","TRUE","Lahul and Spiti",1
-"HP","Mandi.pdf","TRUE","Mandi",1
-"HP","Bilaspur.pdf","TRUE","Bilaspur",4
-"HP","Una.pdf","TRUE","Una",9
-"HP","Chamba.pdf","TRUE","Chamba",23
-"MH","Palghar.pdf","TRUE","Palghar",31
-"MH","Thane.pdf","TRUE","Thane",31
-"ML","East Garo Hills.pdf","TRUE","East Garo Hills",31
-"ML","East Jaintia Hills.pdf","TRUE","East Jaintia Hills",31
-"ML","North Garo Hills.pdf","TRUE","North Garo Hills",31
-"ML","South West Garo Hills.pdf","TRUE","South West Garo Hills",31
-"ML","South West Khasi Hills.pdf","TRUE","South West Khasi Hills",31
-"ML","West Jaintia Hills.pdf","TRUE","West Jaintia Hills",31
-"ML","West Khasi Hills.pdf","TRUE","West Khasi Hills",31
-"TR","Gomati.pdf","TRUE","Gomati",31
-"TR","Khowai.pdf","TRUE","Khowai",31
-"TR","North Tripura.pdf","TRUE","North Tripura",31
-"TR","Sepahijala.pdf","TRUE","Sepahijala",31
-"TR","South Tripura.pdf","TRUE","South Tripura",31
-"TR","Unakoti.pdf","TRUE","Unakoti",31
-"TR","West Tripura.pdf","TRUE","West Tripura",31
-"HP","Kangra.pdf","TRUE","Kangra",34
-"HP","Kinnaur.pdf","TRUE","Kinnaur",34
-"HP","Shimla.pdf","TRUE","Shimla",34
-"ML","West Garo Hills.pdf","TRUE","West Garo Hills",39
-"HP","Sirmaur.pdf","TRUE","Sirmaur",66
-"HP","Solan.pdf","TRUE","Solan",72
+"HP","Kangra.pdf","TRUE","Kangra",101
+"HP","Chamba.pdf","TRUE","Chamba",103
 "MH","Dhule.pdf","TRUE","Dhule",103
+"HP","Hamirpur.pdf","TRUE","Hamirpur",104
+"HP","Kullu.pdf","TRUE","Kullu",104
+"HP","Lahul and Spiti.pdf","TRUE","Lahul and Spiti",104
+"HP","Mandi.pdf","TRUE","Mandi",104
+"HP","Bilaspur.pdf","TRUE","Bilaspur",104
+"HP","Una.pdf","TRUE","Una",104
+"MH","Palghar.pdf","TRUE","Palghar",104
+"ML","East Garo Hills.pdf","TRUE","East Garo Hills",104
+"ML","East Jaintia Hills.pdf","TRUE","East Jaintia Hills",104
+"ML","North Garo Hills.pdf","TRUE","North Garo Hills",104
+"ML","South West Garo Hills.pdf","TRUE","South West Garo Hills",104
+"ML","South West Khasi Hills.pdf","TRUE","South West Khasi Hills",104
+"ML","West Jaintia Hills.pdf","TRUE","West Jaintia Hills",104
+"ML","West Khasi Hills.pdf","TRUE","West Khasi Hills",104
+"TR","Gomati.pdf","TRUE","Gomati",104
+"TR","Khowai.pdf","TRUE","Khowai",104
+"TR","North Tripura.pdf","TRUE","North Tripura",104
+"TR","Sepahijala.pdf","TRUE","Sepahijala",104
+"TR","South Tripura.pdf","TRUE","South Tripura",104
+"TR","Unakoti.pdf","TRUE","Unakoti",104
+"TR","West Tripura.pdf","TRUE","West Tripura",104
+"HP","Kinnaur.pdf","TRUE","Kinnaur",104
+"HP","Shimla.pdf","TRUE","Shimla",104
+"ML","West Garo Hills.pdf","TRUE","West Garo Hills",104
+"HP","Sirmaur.pdf","TRUE","Sirmaur",104
+"HP","Solan.pdf","TRUE","Solan",104
 "AN","Nicobars.pdf","TRUE","Nicobars",104
 "AN","North & Middle Andaman.pdf","TRUE","North & Middle Andaman",104
 "AN","South Andaman.pdf","TRUE","South Andaman",104
@@ -340,3 +339,4 @@
 "WB","South Twenty Four Parganas.pdf","TRUE","South Twenty Four Parganas",104
 "WB","Uttar Dinajpur.pdf","TRUE","Uttar Dinajpur",104
 "GJ","Kheda.pdf","TRUE","Kheda",105
+"MH","Thane.pdf","TRUE","Thane",106
