@@ -1,4 +1,4 @@
-## nfhs5_factsheets
+## Parsed summary sheets from NFHS-5 Phase 1 States and Districts v1.3
 NFHS-5 (2019-20) factsheets are now available.   
 - States: http://rchiips.org/nfhs/factsheet_NFHS-5.shtml    
 - Districts: http://rchiips.org/nfhs/districtfactsheet_NFHS-5.shtml   
@@ -25,3 +25,4 @@ https://github.com/jvargh7/nfhs5_factsheets/archive/main.zip
 1. Kerala and Karnataka are presently displaying 2019-20 factsheets       
 2. Kasaragod (KL) is available as of now.  
 3. Extraction for some districts in Himachal Pradesh, Maharashtra, Meghalaya and Tripura  have been completed using '~districts/partial district extract.R'. The updated status for those which have been extracted separately is provided in 'corrected district status.csv'. I am retaining 'district status.csv' since it is the primary check for the main run.  
+
