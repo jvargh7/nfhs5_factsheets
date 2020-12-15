@@ -103,6 +103,15 @@ partial_MH = map(13:14,
                    
                  }) %>% 
   bind_rows(.) %>% 
+  mutate(flag_lead = case_when(lead(Indicator) %in% c("pressure (%)") ~ 1,
+                               TRUE ~ 0)) %>% 
+  mutate(Indicator = case_when(flag_lead == 1 ~ paste0(Indicator,lead(Indicator)),
+                               TRUE ~ Indicator),
+         NFHS5 = case_when(flag_lead == 1 ~ lead(NFHS5),
+                           TRUE ~ NFHS5),
+         NFHS4 = case_when(flag_lead == 1 ~ lead(NFHS4),
+                           TRUE ~ NFHS4)) %>% 
+  dplyr::filter(!Indicator %in% c("pressure (%)"))  %>% 
   mutate(issue = case_when(is.na(NFHS5) & (!is.na(NFHS4)|!is.na(Flag_NFHS4)) ~ 1,
                            TRUE ~ 0)) %>% 
   mutate(Flag_NFHS5 = case_when(issue == 1 ~ Flag_NFHS4,
@@ -113,10 +122,10 @@ partial_MH = map(13:14,
          NFHS4 = case_when(issue == 1 ~ NA_real_,
                            TRUE ~ NFHS4),
          Flag_NFHS4 = case_when(issue == 1 ~ "",
-                           TRUE ~ Flag_NFHS4),
+                                TRUE ~ Flag_NFHS4),
          
-         ) %>% 
-  dplyr::select(-issue)
+  ) %>% 
+  dplyr::select(-issue,-flag_lead)
 
 # ML partial --------------
 partial_ML = map(15:22,

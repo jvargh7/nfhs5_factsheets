@@ -1,5 +1,6 @@
 "state","district_name","version","nrecords","district_file","status"
 "HP","Kangra",2020-12-15 13:11:00,101,"Kangra.pdf","TRUE"
+"MH","Thane",2020-12-15 17:21:18,102,"Thane.pdf","TRUE"
 "HP","Chamba",2020-12-15 13:11:00,103,"Chamba.pdf","TRUE"
 "MH","Dhule",2020-12-15 13:11:00,103,"Dhule.pdf","TRUE"
 "HP","Hamirpur",2020-12-15 13:11:00,104,"Hamirpur.pdf","TRUE"
@@ -339,4 +340,3 @@
 "WB","South Twenty Four Parganas",2020-12-15 13:11:00,104,"South Twenty Four Parganas.pdf","TRUE"
 "WB","Uttar Dinajpur",2020-12-15 13:11:00,104,"Uttar Dinajpur.pdf","TRUE"
 "GJ","Kheda",2020-12-15 13:11:00,105,"Kheda.pdf","TRUE"
-"MH","Thane",2020-12-15 15:14:11,106,"Thane.pdf","TRUE"
