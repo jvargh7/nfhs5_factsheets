@@ -7,7 +7,7 @@ NFHS-5 (2019-20) factsheets are now available.
 2. The present version of district data has also not been cross-checked extensively. Please use with caution. Also, do let me know if you find any errors.     
 3. The factsheets display some numbers within parentheses. **The parentheses have been removed, but the comments are included as flags.**      
 4. Some indicators names include notes. The footnote number in the name has been kept, but the notes have been lost. Please refer to the original PDFs for them.   
-5. **Indicators that are missing in the PDFs are written with a * or na. They have been missing in the extracted files.**       
+5. **Missing values in the original PDFs are either na (not available) or "\*" (inadequate sample size).In the extracted files, they are set to missing.**       
 
 ## Link to download for non-git users
 https://github.com/jvargh7/nfhs5_factsheets/archive/main.zip
