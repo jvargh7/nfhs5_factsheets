@@ -116,6 +116,12 @@ corrected_status = district_obs %>%
   mutate(version = lubridate::ymd_hms("2020-12-15 13:11:00",tz="EST")) %>% 
   dplyr::select(state,district_name,version,nrecords,district_file,status) %>% 
   mutate(version = case_when(district_name == "Thane" & state == "MH" ~ Sys.time(),
+                             district_name == "Kangra" & state == "HP" ~ Sys.time(),
+                             district_name == "Chamba" & state == "HP" ~ Sys.time(),
+                             district_name == "Wardha" & state == "MH" ~ Sys.time(),
+                             district_name == "Dhule" & state == "MH" ~ Sys.time(),
+                             district_name == "Raigarh" & state == "MH" ~ Sys.time(),
+                             district_name == "Mahisagar" & state == "GJ" ~ Sys.time(),
                              TRUE ~ version))
 
 write.csv(corrected_status,paste0("districts/corrected district status.csv"),row.names = FALSE)
