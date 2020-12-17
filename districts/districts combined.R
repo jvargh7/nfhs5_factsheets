@@ -96,9 +96,16 @@ district_df <- district_df %>%
                                Indicator == "72. Total children age 6-23 months receiving an adequate diet16, 17 (%)" ~ "72. Total children age 6-23 months receiving an adequate diet16, 17  (%)",
                                Indicator == "98.Ever undergone a screening test for cervical cancer (%)" ~ "98. Ever undergone a screening test for cervical cancer (%)",
                                Indicator == "99.Ever undergone a breast examination for breast cancer (%)" ~ "99. Ever undergone a breast examination for breast cancer (%)",
+                               Indicator == "97. Elevated blood pressure (Systolic Ã¢â€°Â¥140 mm of Hg and/or Diastolic Ã¢â€°Â¥90 mm of Hg) or taking medicine to control blood pressure" ~ "97. Elevated blood pressure (Systolic Ã¢â€°Â¥140 mm of Hg and/or Diastolic Ã¢â€°Â¥90 mm of Hg) or taking medicine to control blood pressure (%)",
+                               Indicator == "94. Elevated blood pressure (Systolic Ã¢â€°Â¥140 mm of Hg and/or Diastolic Ã¢â€°Â¥90 mm of Hg) or taking medicine to control blood pressure" ~ "94. Elevated blood pressure (Systolic Ã¢â€°Â¥140 mm of Hg and/or Diastolic Ã¢â€°Â¥90 mm of Hg) or taking medicine to control blood pressure (%)",
+                               Indicator == " 16. Women age 20-24 years married before age 18 years (%)" ~ "16. Women age 20-24 years married before age 18 years (%)",
+                               Indicator == " 42. Institutional births (%)" ~ "42. Institutional births (%)",
+                               Indicator == " 61. Prevalence of diarrhoea in the 2 weeks preceding the survey (%)" ~ "61. Prevalence of diarrhoea in the 2 weeks preceding the survey (%)",
                                TRUE ~ Indicator))
 
-district_df[c(33889,33892),"Indicator"] <- "97. Elevated blood pressure (Systolic Ã¢â€°Â¥140 mm of Hg and/or Diastolic Ã¢â€°Â¥90 mm of Hg) or taking medicine to control blood pressure"
+district_df[c(33889),"Indicator"] <- "94. Elevated blood pressure (Systolic Ã¢â€°Â¥140 mm of Hg and/or Diastolic Ã¢â€°Â¥90 mm of Hg) or taking medicine to control blood pressure (%)"
+district_df[c(33892),"Indicator"] <- "97. Elevated blood pressure (Systolic Ã¢â€°Â¥140 mm of Hg and/or Diastolic Ã¢â€°Â¥90 mm of Hg) or taking medicine to control blood pressure (%)"
+
 
 
 corrected_status = district_obs %>% 

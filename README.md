@@ -16,13 +16,15 @@ https://github.com/jvargh7/nfhs5_factsheets/archive/main.zip
 
 ~**districts/corrected district status.csv** shows the current status of different districts. 
 
-1. There are known conversion issues for some symbols (e.g. $\ge$ (greater than or equal to) is converted to â‰¥)      
-2. Minor errors in terms of number of records during extraction of Kheda (GJ), Kangra (HP), Chamba (HP), Dhule (MH), Thane (MH)   
+1. There are known conversion issues for some symbols (e.g. $\ge$ (greater than or equal to) is converted to â‰¥)       
+2. Retained fact sheet order for Wardha (MH) and Mahisagar (GJ). Issue #4 raised by @nfra.    
+
 
 
 ## Resolved issues since last update
 
 1. Kerala and Karnataka are presently displaying 2019-20 factsheets       
 2. Kasaragod (KL) is available as of now.  
-3. Extraction for some districts in Himachal Pradesh, Maharashtra, Meghalaya and Tripura  have been completed using '~districts/partial district extract.R'. The updated status for those which have been extracted separately is provided in 'corrected district status.csv'. I am retaining 'district status.csv' since it is the primary check for the main run.  
+3. Extraction for some districts in Himachal Pradesh, Maharashtra, Meghalaya and Tripura  have been completed using '~districts/partial district extract.R'. The updated status for those which have been extracted separately is provided in 'corrected district status.csv'. I am retaining 'district status.csv' since it is the primary check for the main run.    
+4. Minor errors in terms of number of records during extraction of Kheda (GJ), Kangra (HP), Chamba (HP), Dhule (MH), Thane (MH)   
 
