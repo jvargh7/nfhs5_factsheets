@@ -1,4 +1,4 @@
-Acknowledgements: Aashish Gupta (Twitter: @aashishg_), Sai Ankit Parashar (Twitter: @ankitp654), Pratap Vardhan (@pratapvardhan) and Shivani Patel (Twitter: @shivania0115).
+Acknowledgements: Aashish Gupta (Twitter: @aashishg_), Sai Ankit Parashar (Twitter: @ankitp654), Pratap Vardhan (@pratapvardhan), Nathan Franz (@nfra) and Shivani Patel (Twitter: @shivania0115).
 
 ## Parsed summary sheets from NFHS-5 Phase 1 States and Districts v1.3
 NFHS-5 (2019-20) factsheets are now available.   
