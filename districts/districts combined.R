@@ -107,21 +107,21 @@ district_df[c(33889),"Indicator"] <- "94. Elevated blood pressure (Systolic Ã¢
 district_df[c(33892),"Indicator"] <- "97. Elevated blood pressure (Systolic Ã¢â€°Â¥140 mm of Hg and/or Diastolic Ã¢â€°Â¥90 mm of Hg) or taking medicine to control blood pressure (%)"
 
 
-
-corrected_status = district_obs %>% 
+corrected_status <- read.csv(paste0("districts/corrected district status.csv"),row.names = FALSE)
+corrected_status = corrected_status %>% 
   mutate(nrecords = apply(.,1,function(x) district_df[district_df$district == x["district_name"],] %>% nrow(.))) %>% 
   mutate(nrecords = case_when(district_name == "Aurangabad" ~ 104,
                               TRUE ~ as.numeric(nrecords))) %>% 
   arrange(nrecords,status) %>% 
   mutate(version = lubridate::ymd_hms("2020-12-15 13:11:00",tz="EST")) %>% 
   dplyr::select(state,district_name,version,nrecords,district_file,status) %>% 
-  mutate(version = case_when(district_name == "Thane" & state == "MH" ~ Sys.time(),
-                             district_name == "Kangra" & state == "HP" ~ Sys.time(),
-                             district_name == "Chamba" & state == "HP" ~ Sys.time(),
-                             district_name == "Wardha" & state == "MH" ~ Sys.time(),
-                             district_name == "Dhule" & state == "MH" ~ Sys.time(),
-                             district_name == "Raigarh" & state == "MH" ~ Sys.time(),
-                             district_name == "Mahisagar" & state == "GJ" ~ Sys.time(),
+  mutate(version = case_when(district_name == "Thane" & state == "MH" ~ lubridate::ymd_hms("2020-12-16 23:20:00",tz="EST"),
+                             district_name == "Kangra" & state == "HP" ~ lubridate::ymd_hms("2020-12-16 23:20:00",tz="EST"),
+                             district_name == "Chamba" & state == "HP" ~ lubridate::ymd_hms("2020-12-16 23:20:00",tz="EST"),
+                             district_name == "Wardha" & state == "MH" ~ lubridate::ymd_hms("2020-12-16 23:20:00",tz="EST"),
+                             district_name == "Dhule" & state == "MH" ~ lubridate::ymd_hms("2020-12-16 23:20:00",tz="EST"),
+                             district_name == "Raigarh" & state == "MH" ~ lubridate::ymd_hms("2020-12-16 23:20:00",tz="EST"),
+                             district_name == "Mahisagar" & state == "GJ" ~ lubridate::ymd_hms("2020-12-16 23:20:00",tz="EST"),
                              TRUE ~ version))
 
 write.csv(corrected_status,paste0("districts/corrected district status.csv"),row.names = FALSE)

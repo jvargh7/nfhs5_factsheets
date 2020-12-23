@@ -2,37 +2,50 @@ data_path <- "C:/Cloud/OneDrive - Emory University/data/NFHS"
 # https://cran.r-project.org/web/packages/tabulizer/vignettes/tabulizer.html
 library(tabulizer)
 
-nfhs5_data <- extract_tables(paste0(data_path,"/NFHS-5 State Factsheet Compendium_Phase-I.pdf"),
+nfhs5_data <- extract_tables(paste0(data_path,"/NFHS5 Factsheets/NFHS-5 State Factsheet Compendium_Phase-I.pdf"),
                              guess = TRUE, output = "data.frame")
 
 
-states = c("Andhra Pradesh",
-           "Assam",
-           "Bihar",
-           "Goa",
-           "Gujarat",
-           "Himachal Pradesh",
-           "Karnataka",
-           "Kerala",
-           "Maharashtra",
-           "Manipur",
-           "Meghalaya",
-           "Mizoram",
-           "Nagaland",
-           "Sikkim",
-           "Telangana",
-           "Tripura",
-           "West Bengal",
-           "Andaman & Nicobar Islands",
-           "Dadra & Nagar Haveli and Daman & Diu",
-           "Jammu & Kashmir",
-           "Ladakh",
-           "Lakshadweep"
-           )
+# ML Page 4 -----------
+a = 46.20; #TOP
+b = 26.64; #LEFT
+c = 548.76; #WIDTH
+D = 371.93; #HEIGHT
+area = list(c(a,b,a+D[1],b+c))
 
-# nfhs5_data[[17]] <- NULL
-# nfhs5_data[[65]] <- NULL
-# nfhs5_data[[44]] <- NULL
+ML_111to131 <- extract_tables(paste0(data_path,"/NFHS5 Factsheets/NFHS-5 State Factsheet Compendium_Phase-I.pdf"),pages = 98,
+                              guess = FALSE,area = area, output = "data.frame")
+nfhs5_data[[61]] <- ML_111to131[[1]]
+
+states = c(
+  "Andaman & Nicobar Islands",
+  "Andhra Pradesh",
+  "Assam",
+  "Bihar",
+  "Dadra & Nagar Haveli and Daman & Diu",
+  "Goa",
+  "Gujarat",
+  "Himachal Pradesh",
+  "Jammu & Kashmir",
+  "Karnataka",
+  "Kerala",
+  "Lakshadweep",
+  "Ladakh",
+  "Maharashtra",
+  "Meghalaya",
+  "Manipur",
+  "Mizoram",
+  "Nagaland",
+  "Sikkim",
+  "Telangana",
+  "Tripura",
+  "West Bengal"
+)
+
+nfhs5_data[[1]] <- NULL
+nfhs5_data[[85]] <- NULL #Element 86
+
+
 nfhs5_tables <- map(nfhs5_data,.f=function(x){
   
   if(ncol(x) == 4){
@@ -42,7 +55,7 @@ nfhs5_tables <- map(nfhs5_data,.f=function(x){
     names(x) <- c("Indicator","NFHS5","NFHS4")
   }
   return(x)
-  }) %>% 
+}) %>% 
   bind_rows(.) %>% 
   separate(col = NFHS5,into = c("Urban","Rural","Total"),sep = " +") %>% 
   dplyr::filter(!(Indicator %in% c("Indicators",
@@ -70,13 +83,13 @@ nfhs5_tables <- map(nfhs5_data,.f=function(x){
                                    "Women's Empowerment (women age 15-49 years)",
                                    "Gender Based Violence (age 18-49 years)",
                                    "Tobacco Use and Alcohol Consumption among Adults (age 15 years and above)"
-                                   ) | Urban %in% c("Urban","NFHS-5"))) %>% 
+  ) | Urban %in% c("Urban","NFHS-5"))) %>% 
   mutate(urban_blank = case_when(Urban == "" ~ 1,
-                           TRUE ~ 0),
+                                 TRUE ~ 0),
          prev_urban_blank = case_when(dplyr::lag(Urban) == "" ~ 1,
                                       TRUE ~ 0),
          Indicator = case_when(urban_blank == 1 ~ paste0(Indicator," ",lead(Indicator,1)),
-                           TRUE ~ Indicator),
+                               TRUE ~ Indicator),
          Urban = case_when(urban_blank == 1 ~ lead(Urban,1),
                            TRUE ~ Urban),
          Rural = case_when(urban_blank == 1 ~ lead(Rural,1),
@@ -87,7 +100,7 @@ nfhs5_tables <- map(nfhs5_data,.f=function(x){
                            TRUE ~ Blank),
          NFHS4 = case_when(urban_blank == 1 ~ lead(NFHS4,1),
                            TRUE ~ NFHS4)    
-         ) %>%
+  ) %>%
   dplyr::filter(prev_urban_blank == 0) %>% 
   mutate(Total = case_when(is.na(Total) ~ Blank,
                            TRUE ~ Total)) %>% 
@@ -101,12 +114,12 @@ nfhs5_tables <- map(nfhs5_data,.f=function(x){
   dplyr::select(Indicator:NFHS4) %>% 
   mutate(state_index = case_when(str_detect(Indicator,"1. Female population") ~ 1,
                                  TRUE ~ 0)
-         ) %>% 
+  ) %>% 
   mutate(state = states[cumsum(state_index)]) %>% 
   dplyr::select(-state_index) %>% 
   mutate(Flag_Urban = case_when(str_detect(Urban,"\\(") ~ "Based on 25-49 unweighted cases",
                                 str_detect(Urban,"\\*") ~ "Percentage not shown; based on fewer than 25 unweighted cases",
-                                           TRUE ~ ""),
+                                TRUE ~ ""),
          Flag_Rural = case_when(str_detect(Rural,"\\(") ~ "Based on 25-49 unweighted cases",
                                 str_detect(Rural,"\\*") ~ "Percentage not shown; based on fewer than 25 unweighted cases",
                                 TRUE ~ ""),
@@ -116,14 +129,16 @@ nfhs5_tables <- map(nfhs5_data,.f=function(x){
          Flag_NFHS4 = case_when(str_detect(NFHS4,"\\(") ~ "Based on 25-49 unweighted cases",
                                 str_detect(NFHS4,"\\*") ~ "Percentage not shown; based on fewer than 25 unweighted cases",
                                 TRUE ~ ""),
-         ) %>% 
+  ) %>% 
   mutate_at(vars(Urban:NFHS4), 
             function(x) {y = case_when(
-    str_detect(x,"\\(") ~ as.numeric(str_replace_all(x,"[\\(|\\)]","")),
-    str_detect(x,",") ~ str_replace(x,",","") %>% as.numeric(),
-    x %in% c("n.a","*") ~ NA_real_,
-    TRUE ~ as.numeric(x));
-  return(y)}
+              str_detect(x,"\\(") ~ as.numeric(str_replace_all(x,"[\\(|\\)]","")),
+              str_detect(x,",") ~ str_replace(x,",","") %>% as.numeric(),
+              x %in% c("n.a","*") ~ NA_real_,
+              TRUE ~ as.numeric(x));
+            return(y)}
   )
 
+write.csv(nfhs5_tables,"NFHS-5 State Factsheets.csv")
+write_dta(nfhs5_tables,"NFHS-5 State Factsheets.dta",version=12)
 
