@@ -29,6 +29,6 @@ https://github.com/jvargh7/nfhs5_factsheets/archive/main.zip
 2. Kasaragod (KL) is available as of now.  
 3. Extraction for some districts in Himachal Pradesh, Maharashtra, Meghalaya and Tripura  have been completed using '~districts/partial district extract.R'. The updated status for those which have been extracted separately is provided in 'corrected district status.csv'. I am retaining 'district status.csv' since it is the primary check for the main run.    
 4. Minor errors in terms of number of records during extraction of Kheda (GJ), Kangra (HP), Chamba (HP), Dhule (MH), Thane (MH)    
-5. Thanks to @pratapvardhan for identifying that IIPS released a new set of State factsheets. These have now been parsed.   
+5. Thanks to @pratapvardhan for identifying that IIPS released a new set of State and District factsheets. These have now been parsed. Main change is that Vitamin A supplementation status indicator has been revised to 9-35 mo from 9-59 mo.      
 
 

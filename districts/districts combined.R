@@ -1,32 +1,22 @@
 partial_HP <- read_dta(paste0("districts/stata_output/partial_HP.dta"))
-partial_MH <- read_dta(paste0("districts/stata_output/partial_MH.dta"))
-partial_ML <- read_dta(paste0("districts/stata_output/partial_ML.dta"))
-partial_TR <- read_dta(paste0("districts/stata_output/partial_TR.dta"))
-
 
 # Check district status
 district_df = district_df %>% 
   dplyr::filter(!district %in% partial_obs$district_name) %>% 
-  bind_rows(partial_HP,
-            partial_MH,
-            partial_ML,
-            partial_TR)
+  bind_rows(partial_HP
+            )
 
-
+# Checks
+View(district_df %>% 
+       group_by(Indicator) %>% 
+       tally())
 
 
 # Manual edits suggested by @nfra ----------------
 
 # Incorrect indicator names
-district_df[c(11461,23108),"Indicator"] <- "21. Any method6 (%)"
-district_df[c(11469,23116),"Indicator"] <- "29. Total unmet need7 (%)"
-district_df[c(22561),"Indicator"] <- "97. Elevated blood pressure (Systolic Ã¢â€°Â¥140 mm of Hg and/or Diastolic Ã¢â€°Â¥90 mm of Hg) or taking medicine to control blood pressure"
-district_df[c(22562),"Indicator"] <- "98.Ever undergone a screening test for cervical cancer (%)"
-district_df[c(33834),"Indicator"] <- "38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%)"
-district_df[c(33862),"Indicator"] <- "66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%)"
-district_df[c(33223),"Indicator"] <- "49. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%)"
-district_df[c(33224),"Indicator"] <- "50. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%)"
-district_df[c(33240),"Indicator"] <- "67. Children under age 3 years breastfed within one hour of birth15 (%)"
+district_df[c(11461,23316),"Indicator"] <- "21. Any method6 (%)"
+district_df[c(11469,23324),"Indicator"] <- "29. Total unmet need7 (%)"
 district_df[c(20798),"Indicator"] <- "102. Men age 15 years and above who use any kind of tobacco (%)"
 
 # Manual fix of missing items
@@ -37,13 +27,6 @@ kangra_31 = data.frame(Indicator = "31. Current users ever told about side effec
                        Flag_NFHS4 = "Based on 25-49 unweighted cases",
                        state = "HP",
                        district = "Kangra")
-kangra_66 = data.frame(Indicator = "66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%)",
-                       NFHS5 = 72.4,
-                       NFHS4 = NA,
-                       Flag_NFHS5 = "Based on 25-49 unweighted cases",
-                       Flag_NFHS4 = NA,
-                       state = "HP",
-                       district = "Kangra")
 kangra_104 <- data.frame(Indicator = "104. Men age 15 years and above who consume alcohol (%)",
                          NFHS5 = 34.1,
                          NFHS4 = NA,
@@ -51,7 +34,7 @@ kangra_104 <- data.frame(Indicator = "104. Men age 15 years and above who consum
                          Flag_NFHS4 = NA,
                          state = "HP",
                          district = "Kangra")
-
+# 
 chamba_31 <- data.frame(Indicator = "31. Current users ever told about side effects of current method8 (%)",
                         NFHS5 = 71.7,
                         NFHS4 = NA,
@@ -68,25 +51,15 @@ dhule_101 <- data.frame(Indicator = "101. Women age 15 years and above who use a
                         state = "MH",
                         district = "Dhule")
 
-thane_103to104 <- data.frame(Indicator = c("103. Women age 15 years and above who consume alcohol (%)",
-                                           "104. Men age 15 years and above who consume alcohol (%)"),
-                             
-                             NFHS5 = c(0.4,15.6),
-                             NFHS4 = c(NA,NA),
-                             Flag_NFHS5 = c(NA,NA),
-                             Flag_NFHS4 = c(NA,NA),
-                             state = "MH",
-                             district = "Thane")
-
 # Removing Kheda row
   
 district_df <- bind_rows(district_df,
                          kangra_31,
-                         kangra_66,
+                         # kangra_66,
                          kangra_104,
                          chamba_31,
-                         dhule_101,
-                         thane_103to104
+                         dhule_101
+                         # thane_103to104
                          ) %>% 
   dplyr::filter(!(district == "Kheda"&state == "GJ"&Indicator ==""))
 
@@ -103,11 +76,14 @@ district_df <- district_df %>%
                                Indicator == " 61. Prevalence of diarrhoea in the 2 weeks preceding the survey (%)" ~ "61. Prevalence of diarrhoea in the 2 weeks preceding the survey (%)",
                                TRUE ~ Indicator))
 
-district_df[c(33889),"Indicator"] <- "94. Elevated blood pressure (Systolic Ã¢â€°Â¥140 mm of Hg and/or Diastolic Ã¢â€°Â¥90 mm of Hg) or taking medicine to control blood pressure (%)"
-district_df[c(33892),"Indicator"] <- "97. Elevated blood pressure (Systolic Ã¢â€°Â¥140 mm of Hg and/or Diastolic Ã¢â€°Â¥90 mm of Hg) or taking medicine to control blood pressure (%)"
 
 
-corrected_status <- read.csv(paste0("districts/corrected district status.csv"),row.names = FALSE)
+corrected_status <- read.csv(paste0("districts/corrected district status.csv")) %>% 
+  mutate_at(vars(starts_with("district_")),~as.character(.)) %>% 
+  mutate(district_name = case_when(district_name == "Nicobars" ~ "Nicobar",
+                                   TRUE ~ district_name),
+         district_file = case_when(district_file == "Nicobars.pdf" ~ "Nicobar.pdf",
+                                   TRUE ~ district_file))
 corrected_status = corrected_status %>% 
   mutate(nrecords = apply(.,1,function(x) district_df[district_df$district == x["district_name"],] %>% nrow(.))) %>% 
   mutate(nrecords = case_when(district_name == "Aurangabad" ~ 104,
@@ -122,7 +98,9 @@ corrected_status = corrected_status %>%
                              district_name == "Dhule" & state == "MH" ~ lubridate::ymd_hms("2020-12-16 23:20:00",tz="EST"),
                              district_name == "Raigarh" & state == "MH" ~ lubridate::ymd_hms("2020-12-16 23:20:00",tz="EST"),
                              district_name == "Mahisagar" & state == "GJ" ~ lubridate::ymd_hms("2020-12-16 23:20:00",tz="EST"),
-                             TRUE ~ version))
+                             TRUE ~ version)) %>% 
+  mutate(version = Sys.time()) %>% 
+  arrange(state,district_name)
 
 write.csv(corrected_status,paste0("districts/corrected district status.csv"),row.names = FALSE)
 

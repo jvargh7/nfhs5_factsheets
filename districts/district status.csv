@@ -1,35 +1,18 @@
 "state","district_file","status","district_name","nrecords"
 "HP","Hamirpur.pdf","TRUE","Hamirpur",1
+"HP","Kangra.pdf","TRUE","Kangra",1
 "HP","Kullu.pdf","TRUE","Kullu",1
 "HP","Lahul and Spiti.pdf","TRUE","Lahul and Spiti",1
 "HP","Mandi.pdf","TRUE","Mandi",1
 "HP","Bilaspur.pdf","TRUE","Bilaspur",4
 "HP","Una.pdf","TRUE","Una",9
 "HP","Chamba.pdf","TRUE","Chamba",23
-"MH","Palghar.pdf","TRUE","Palghar",31
-"MH","Thane.pdf","TRUE","Thane",31
-"ML","East Garo Hills.pdf","TRUE","East Garo Hills",31
-"ML","East Jaintia Hills.pdf","TRUE","East Jaintia Hills",31
-"ML","North Garo Hills.pdf","TRUE","North Garo Hills",31
-"ML","South West Garo Hills.pdf","TRUE","South West Garo Hills",31
-"ML","South West Khasi Hills.pdf","TRUE","South West Khasi Hills",31
-"ML","West Jaintia Hills.pdf","TRUE","West Jaintia Hills",31
-"ML","West Khasi Hills.pdf","TRUE","West Khasi Hills",31
-"TR","Gomati.pdf","TRUE","Gomati",31
-"TR","Khowai.pdf","TRUE","Khowai",31
-"TR","North Tripura.pdf","TRUE","North Tripura",31
-"TR","Sepahijala.pdf","TRUE","Sepahijala",31
-"TR","South Tripura.pdf","TRUE","South Tripura",31
-"TR","Unakoti.pdf","TRUE","Unakoti",31
-"TR","West Tripura.pdf","TRUE","West Tripura",31
-"HP","Kangra.pdf","TRUE","Kangra",34
 "HP","Kinnaur.pdf","TRUE","Kinnaur",34
 "HP","Shimla.pdf","TRUE","Shimla",34
-"ML","West Garo Hills.pdf","TRUE","West Garo Hills",39
 "HP","Sirmaur.pdf","TRUE","Sirmaur",66
 "HP","Solan.pdf","TRUE","Solan",72
 "MH","Dhule.pdf","TRUE","Dhule",103
-"AN","Nicobars.pdf","TRUE","Nicobars",104
+"AN","Nicobar.pdf","TRUE","Nicobar",104
 "AN","North & Middle Andaman.pdf","TRUE","North & Middle Andaman",104
 "AN","South Andaman.pdf","TRUE","South Andaman",104
 "AP","Anantapur.pdf","TRUE","Anantapur",104
@@ -241,6 +224,7 @@
 "MH","Nandurbar.pdf","TRUE","Nandurbar",104
 "MH","Nashik.pdf","TRUE","Nashik",104
 "MH","Osmanabad.pdf","TRUE","Osmanabad",104
+"MH","Palghar.pdf","TRUE","Palghar",104
 "MH","Parbhani.pdf","TRUE","Parbhani",104
 "MH","Pune.pdf","TRUE","Pune",104
 "MH","Raigarh.pdf","TRUE","Raigarh",104
@@ -249,6 +233,7 @@
 "MH","Satara.pdf","TRUE","Satara",104
 "MH","Sindhudurg.pdf","TRUE","Sindhudurg",104
 "MH","Solapur.pdf","TRUE","Solapur",104
+"MH","Thane.pdf","TRUE","Thane",104
 "MH","Wardha.pdf","TRUE","Wardha",104
 "MH","Washim.pdf","TRUE","Washim",104
 "MH","Yavatmal.pdf","TRUE","Yavatmal",104
@@ -261,9 +246,17 @@
 "MN","Tamenglong.pdf","TRUE","Tamenglong",104
 "MN","Thoubal.pdf","TRUE","Thoubal",104
 "MN","Ukhrul.pdf","TRUE","Ukhrul",104
+"ML","East Garo Hills.pdf","TRUE","East Garo Hills",104
+"ML","East Jaintia Hills.pdf","TRUE","East Jaintia Hills",104
 "ML","East Khasi Hills.pdf","TRUE","East Khasi Hills",104
+"ML","North Garo Hills.pdf","TRUE","North Garo Hills",104
 "ML","Ribhoi.pdf","TRUE","Ribhoi",104
 "ML","South Garo Hills.pdf","TRUE","South Garo Hills",104
+"ML","South West Garo Hills.pdf","TRUE","South West Garo Hills",104
+"ML","South West Khasi Hills.pdf","TRUE","South West Khasi Hills",104
+"ML","West Garo Hills.pdf","TRUE","West Garo Hills",104
+"ML","West Jaintia Hills.pdf","TRUE","West Jaintia Hills",104
+"ML","West Khasi Hills.pdf","TRUE","West Khasi Hills",104
 "MZ","Aizawl.pdf","TRUE","Aizawl",104
 "MZ","Champhai.pdf","TRUE","Champhai",104
 "MZ","Kolasib.pdf","TRUE","Kolasib",104
@@ -319,6 +312,13 @@
 "TG","Warangal Urban.pdf","TRUE","Warangal Urban",104
 "TG","Yadadri Bhuvanagiri.pdf","TRUE","Yadadri Bhuvanagiri",104
 "TR","Dhalai.pdf","TRUE","Dhalai",104
+"TR","Gomati.pdf","TRUE","Gomati",104
+"TR","Khowai.pdf","TRUE","Khowai",104
+"TR","North Tripura.pdf","TRUE","North Tripura",104
+"TR","Sepahijala.pdf","TRUE","Sepahijala",104
+"TR","South Tripura.pdf","TRUE","South Tripura",104
+"TR","Unakoti.pdf","TRUE","Unakoti",104
+"TR","West Tripura.pdf","TRUE","West Tripura",104
 "WB","Bankura.pdf","TRUE","Bankura",104
 "WB","Birbhum.pdf","TRUE","Birbhum",104
 "WB","Dakshin Dinajpur.pdf","TRUE","Dakshin Dinajpur",104
@@ -332,9 +332,9 @@
 "WB","Murshidabad.pdf","TRUE","Murshidabad",104
 "WB","Nadia.pdf","TRUE","Nadia",104
 "WB","North Twenty Four Parganas.pdf","TRUE","North Twenty Four Parganas",104
+"WB","Paschim Barddhaman.pdf","TRUE","Paschim Barddhaman",104
 "WB","Paschim Medinipur.pdf","TRUE","Paschim Medinipur",104
 "WB","Purba Barddhaman.pdf","TRUE","Purba Barddhaman",104
-"WB","Paschim Barddhaman.pdf","TRUE","Paschim Barddhaman",104
 "WB","Purba Medinipur.pdf","TRUE","Purba Medinipur",104
 "WB","Puruliya.pdf","TRUE","Puruliya",104
 "WB","South Twenty Four Parganas.pdf","TRUE","South Twenty Four Parganas",104

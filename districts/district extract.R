@@ -249,29 +249,16 @@ dir.create("districts/csv_output")
 dir.create("districts/stata_output")
 
 # Ad-hoc corrections by Aashish
-ad_hoc <- c("NFHS-5_FCTS/WB/Paschim Medinipur.pdf",
-  "NFHS-5_FCTS/BR/Buxar.pdf",
-  "NFHS-5_FCTS/GA/South Goa.pdf",
-  "NFHS-5_FCTS/WB/Purba Barddhaman.pdf",
-  "NFHS-5_FCTS/WB/Paschim Barddhaman.pdf",
-  "NFHS-5_FCTS/GJ/Devbhumi Dwarka.pdf",
-  "NFHS-5_FCTS/MN/Thoubal.pdf",
-  "NFHS-5_FCTS/GJ/Mahesana.pdf",
-  "NFHS-5_FCTS/TG/Mahabubnagar.pdf",
+ad_hoc <- c(
+   "NFHS-5_FCTS/MN/Thoubal.pdf",
   "NFHS-5_FCTS/MH/Buldana.pdf"
   )
-
-incorrect_match <- c("NFHS-5_FCTS/WB/Paschin Medinipur.pdf",
-            "NFHS-5_FCTS/BR/Buxer.pdf",
-            "NFHS-5_FCTS/GA/South  Goa.pdf",
-            "NFHS-5_FCTS/WB/Purba Barddhaman .pdf",
-            "NFHS-5_FCTS/WB/Paschim Barddhaman .pdf",
-            "NFHS-5_FCTS/GJ/Devbhumi Dwarka .pdf",
+# 
+incorrect_match <- c(
             "NFHS-5_FCTS/MN/Toubal.pdf",
-            "NFHS-5_FCTS/GJ/Mehesana.pdf",
-            "NFHS-5_FCTS/TG/Mahbubnagar.pdf",
-            "NFHS-5_FCTS/MH/Buldhana.pdf")
-
+            "NFHS-5_FCTS/MH/Buldhana.pdf"
+)
+# 
 # WB = 21, BR = 4, GA = 6, GJ = 7, MN = 14, TG = 19, MH = 13
 # TR = , ML = 15, HP = 
 for(d in state_url){
@@ -297,10 +284,10 @@ for(d in state_url){
   district_urls <- district_urls[-1]
   
   # file downloads - Run this if you want to download all files and extract at the same time
-  temp_status <- district_fcts(district_urls)
+  # temp_status <- district_fcts(district_urls)
   
   # Does file exist? - Comment the next line out if you are running district_fcts()
-  # temp_status <- detect_fcts(district_urls)
+  temp_status <- detect_fcts(district_urls)
   
   temp_status <- temp_status %>% 
     map_dfr(.,.f= function(x){data.frame(state = x[1],
