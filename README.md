@@ -1,3 +1,6 @@
+### Link to download for non-git users
+https://github.com/jvargh7/nfhs5_factsheets/archive/main.zip  
+
 ## November 2021: Parsed summary sheets from NFHS-5 Phase 2 Compendium - States and Districts
 
 NFHS-5 (2019-20) factsheets are now available for all states.   
@@ -29,9 +32,6 @@ Acknowledgements: Aashish Gupta (Twitter: @aashishg_), Sai Ankit Parashar (Twitt
 NFHS-5 (2019-20) factsheets are now available.   
 - States: http://rchiips.org/nfhs/factsheet_NFHS-5.shtml    
 - Districts: http://rchiips.org/nfhs/districtfactsheet_NFHS-5.shtml   
-   
 
-## Link to download for non-git users
-https://github.com/jvargh7/nfhs5_factsheets/archive/main.zip  
 
 
