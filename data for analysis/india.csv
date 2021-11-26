@@ -1,0 +1,132 @@
+"state","Indicator","Urban","Rural","Total","NFHS4","Flag_Urban","Flag_Rural","Flag_Total","Flag_NFHS4"
+"INDIA","1. Female population age 6 years and above who ever attended school (%)",82.5,66.8,71.8,68.8,NA,NA,NA,NA
+"INDIA","2. Population below age 15 years (%)",23.1,28.1,26.5,28.6,NA,NA,NA,NA
+"INDIA","3. Sex ratio of the total population (females per 1,000 males)",985,1037,1020,991,NA,NA,NA,NA
+"INDIA","4. Sex ratio at birth for children born in the last five years (females per 1,000 males)",924,931,929,919,NA,NA,NA,NA
+"INDIA","5. Children under age 5 years whose birth was registered with the civil authority (%)",93.3,87.5,89.1,79.7,NA,NA,NA,NA
+"INDIA","6. Deaths in the last 3 years registered with the civil authority (%)",83.2,65.8,70.8,NA,NA,NA,NA,NA
+"INDIA","7. Population living in households with electricity (%)",99.1,95.7,96.8,88,NA,NA,NA,NA
+"INDIA","8. Population living in households with an improved drinking-water source1 (%)",98.7,94.6,95.9,94.4,NA,NA,NA,NA
+"INDIA","9. Population living in households that use an improved sanitation facility2 (%)",81.5,64.9,70.2,48.5,NA,NA,NA,NA
+"INDIA","10. Households using clean fuel for cooking3 (%)",89.7,43.2,58.6,43.8,NA,NA,NA,NA
+"INDIA","11. Households using iodized salt (%)",96.9,93,94.3,93.1,NA,NA,NA,NA
+"INDIA","12. Households with any usual member covered under a health insurance/financing scheme (%)",38.1,42.4,41,28.7,NA,NA,NA,NA
+"INDIA","13. Children age 5 years who attended pre-primary school during the school year 2019-20 (%)",18.1,12,13.6,NA,NA,NA,NA,NA
+"INDIA","14. Women who are literate4 (%)",83,65.9,71.5,NA,NA,NA,NA,NA
+"INDIA","15. Men who are literate4 (%)",89.6,81.5,84.4,NA,NA,NA,NA,NA
+"INDIA","16. Women with 10 or more years of schooling (%)",56.3,33.7,41,35.7,NA,NA,NA,NA
+"INDIA","17. Men with 10 or more years of schooling (%)",62.1,43.7,50.2,47.1,NA,NA,NA,NA
+"INDIA","18. Women who have ever used the internet (%)",51.8,24.6,33.3,NA,NA,NA,NA,NA
+"INDIA","19. Men who have ever used the internet (%)",72.5,48.7,57.1,NA,NA,NA,NA,NA
+"INDIA","20. Women age 20-24 years married before age 18 years (%)",14.7,27,23.3,26.8,NA,NA,NA,NA
+"INDIA","21. Men age 25-29 years married before age 21 years (%)",11.3,21.1,17.7,20.3,NA,NA,NA,NA
+"INDIA","22. Total fertility rate (children per woman)",1.6,2.1,2,2.2,NA,NA,NA,NA
+"INDIA","23. Women age 15-19 years who were already mothers or pregnant at the time of the survey (%)",3.8,7.9,6.8,7.9,NA,NA,NA,NA
+"INDIA","24. Adolescent fertility rate for women age 15-19 years5",27,49,43,51,NA,NA,NA,NA
+"INDIA","25. Neonatal mortality rate (NNMR)",18,27.5,24.9,29.5,NA,NA,NA,NA
+"INDIA","26. Infant mortality rate (IMR)",26.6,38.4,35.2,40.7,NA,NA,NA,NA
+"INDIA","27. Under-five mortality rate (U5MR)",31.5,45.7,41.9,49.7,NA,NA,NA,NA
+"INDIA","28. Any method6 (%)",69.3,65.6,66.7,53.5,NA,NA,NA,NA
+"INDIA","29. Any modern method6 (%)",58.5,55.5,56.5,47.8,NA,NA,NA,NA
+"INDIA","30. Female sterilization (%)",36.3,38.7,37.9,36,NA,NA,NA,NA
+"INDIA","31. Male sterilization (%)",0.2,0.3,0.3,0.3,NA,NA,NA,NA
+"INDIA","32. IUD/PPIUD (%)",2.7,1.8,2.1,1.5,NA,NA,NA,NA
+"INDIA","33. Pill (%)",4.4,5.4,5.1,4.1,NA,NA,NA,NA
+"INDIA","34. Condom (%)",13.6,7.6,9.5,5.6,NA,NA,NA,NA
+"INDIA","35. Injectables (%)",0.4,0.6,0.6,0.2,NA,NA,NA,NA
+"INDIA","36. Total unmet need7 (%)",8.4,9.9,9.4,12.9,NA,NA,NA,NA
+"INDIA","37. Unmet need for spacing7 (%)",3.6,4.3,4,5.7,NA,NA,NA,NA
+"INDIA","38. Health worker ever talked to female non-users about family planning (%)",23,24.3,23.9,17.7,NA,NA,NA,NA
+"INDIA","39. Current users ever told about side effects of current method8 (%)",64.7,61.5,62.4,46.6,NA,NA,NA,NA
+"INDIA","40. Mothers who had an antenatal check-up in the first trimester (%)",75.5,67.9,70,58.6,NA,NA,NA,NA
+"INDIA","41. Mothers who had at least 4 antenatal care visits (%)",68.1,54.2,58.1,51.2,NA,NA,NA,NA
+"INDIA","42. Mothers whose last birth was protected against neonatal tetanus9 (%)",92.7,91.7,92,89,NA,NA,NA,NA
+"INDIA","43. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%)",54,40.2,44.1,30.3,NA,NA,NA,NA
+"INDIA","44. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%)",34.4,22.7,26,14.4,NA,NA,NA,NA
+"INDIA","45. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%)",94.9,96.3,95.9,89.3,NA,NA,NA,NA
+"INDIA","46. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%)",84.6,75.4,78,62.4,NA,NA,NA,NA
+"INDIA","47. Average out-of-pocket expenditure per delivery in a public health facility (Rs.)",3385,2770,2916,3197,NA,NA,NA,NA
+"INDIA","48. Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%)",3.8,4.3,4.2,2.5,NA,NA,NA,NA
+"INDIA","49. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 days of delivery (%)",85.7,76.5,79.1,NA,NA,NA,NA,NA
+"INDIA","50. Institutional births (%)",93.8,86.7,88.6,78.9,NA,NA,NA,NA
+"INDIA","51. Institutional births in public facility (%)",52.6,65.3,61.9,52.1,NA,NA,NA,NA
+"INDIA","52. Home births that were conducted by skilled health personnel10 (%)",2.1,3.7,3.2,4.3,NA,NA,NA,NA
+"INDIA","53. Births attended by skilled health personnel10 (%)",94,87.8,89.4,81.4,NA,NA,NA,NA
+"INDIA","54. Births delivered by caesarean section (%)",32.3,17.6,21.5,17.2,NA,NA,NA,NA
+"INDIA","55. Births in a private health facility that were delivered by caesarean section (%)",49.3,46,47.4,40.9,NA,NA,NA,NA
+"INDIA","56. Births in a public health facility that were delivered by caesarean section (%)",22.7,11.9,14.3,11.9,NA,NA,NA,NA
+"INDIA","57. Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall11 (%)",75.5,76.8,76.4,62,NA,NA,NA,NA
+"INDIA","58. Children age 12-23 months fully vaccinated based on information from vaccination card only12 (%)",83.3,84,83.8,77.9,NA,NA,NA,NA
+"INDIA","59. Children age 12-23 months who have received BCG (%)",94.7,95.4,95.2,91.9,NA,NA,NA,NA
+"INDIA","60. Children age 12-23 months who have received 3 doses of polio vaccine13 (%)",79.2,80.9,80.5,72.8,NA,NA,NA,NA
+"INDIA","61. Children age 12-23 months who have received 3 doses of penta or DPT vaccine (%)",86,87,86.7,78.4,NA,NA,NA,NA
+"INDIA","62. Children age 12-23 months who have received the first dose of measles-containing vaccine (MCV) (%)",87.1,88.1,87.9,81.1,NA,NA,NA,NA
+"INDIA","63. Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%)",30.4,32.4,31.9,NA,NA,NA,NA,NA
+"INDIA","64. Children age 12-23 months who have received 3 doses of rotavirus vaccine14 (%)",34.9,37,36.4,NA,NA,NA,NA,NA
+"INDIA","65. Children age 12-23 months who have received 3 doses of penta or hepatitis B vaccine (%)",83,84.2,83.9,62.8,NA,NA,NA,NA
+"INDIA","66. Children age 9-35 months who received a vitamin A dose in the last 6 months (%)",71.8,71,71.2,64.5,NA,NA,NA,NA
+"INDIA","67. Children age 12-23 months who received most of their vaccinations in a public health facility (%)",87.7,97,94.5,90.7,NA,NA,NA,NA
+"INDIA","68. Children age 12-23 months who received most of their vaccinations in a private health facility (%)",11.1,1.6,4.2,7.2,NA,NA,NA,NA
+"INDIA","69. Prevalence of diarrhoea in the 2 weeks preceding the survey (%)",6.2,7.7,7.3,9.2,NA,NA,NA,NA
+"INDIA","70. Children with diarrhoea in the 2 weeks preceding the survey who received oral rehydration salts (ORS) (%)",62.5,60.1,60.6,50.6,NA,NA,NA,NA
+"INDIA","71. Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%)",31.5,30.3,30.5,20.3,NA,NA,NA,NA
+"INDIA","72. Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%)",72.2,68,68.9,67.9,NA,NA,NA,NA
+"INDIA","73. Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%)",2.3,3,2.8,2.7,NA,NA,NA,NA
+"INDIA","74. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health provider (%)",72.7,67.8,69,73.2,NA,NA,NA,NA
+"INDIA","75. Children under age 3 years breastfed within one hour of birth15 (%)",44.7,40.7,41.8,41.6,NA,NA,NA,NA
+"INDIA","76. Children under age 6 months exclusively breastfed16 (%)",59.6,65.1,63.7,54.9,NA,NA,NA,NA
+"INDIA","77. Children age 6-8 months receiving solid or semi-solid food and breastmilk16 (%)",52,43.9,45.9,42.7,NA,NA,NA,NA
+"INDIA","78. Breastfeeding children age 6-23 months receiving an adequate diet16, 17 (%)",11.8,10.8,11.1,8.7,NA,NA,NA,NA
+"INDIA","79. Non-breastfeeding children age 6-23 months receiving an adequate diet16, 17 (%)",14.2,12,12.7,14.3,NA,NA,NA,NA
+"INDIA","80. Total children age 6-23 months receiving an adequate diet16, 17 (%)",12.3,11,11.3,9.6,NA,NA,NA,NA
+"INDIA","81. Children under 5 years who are stunted (height-for-age)18 (%)",30.1,37.3,35.5,38.4,NA,NA,NA,NA
+"INDIA","82. Children under 5 years who are wasted (weight-for-height)18 (%)",18.5,19.5,19.3,21,NA,NA,NA,NA
+"INDIA","83. Children under 5 years who are severely wasted (weight-for-height)19 (%)",7.6,7.7,7.7,7.5,NA,NA,NA,NA
+"INDIA","84. Children under 5 years who are underweight (weight-for-age)18 (%)",27.3,33.8,32.1,35.8,NA,NA,NA,NA
+"INDIA","85. Children under 5 years who are overweight (weight-for-height)20 (%)",4.2,3.2,3.4,2.1,NA,NA,NA,NA
+"INDIA","86. Women whose Body Mass Index (BMI) is below normal (BMI <18.5 kg/m2)21 (%)",13.2,21.2,18.7,22.9,NA,NA,NA,NA
+"INDIA","87. Men whose Body Mass Index (BMI) is below normal (BMI <18.5 kg/m2) (%)",13,17.8,16.2,20.2,NA,NA,NA,NA
+"INDIA","88. Women who are overweight or obese (BMI >25.0 kg/m2)21 (%)",33.2,19.7,24,20.6,NA,NA,NA,NA
+"INDIA","89. Men who are overweight or obese (BMI >25.0 kg/m2) (%)",29.8,19.3,22.9,18.9,NA,NA,NA,NA
+"INDIA","90. Women who have high risk waist-to-hip ratio (>0.85) (%)",59.9,55.2,56.7,NA,NA,NA,NA,NA
+"INDIA","91. Men who have high risk waist-to-hip ratio (>0.90) (%)",50.1,46.4,47.7,NA,NA,NA,NA,NA
+"INDIA","92. Children age 6-59 months who are anaemic (<11.0 g/dl)22 (%)",64.2,68.3,67.1,58.6,NA,NA,NA,NA
+"INDIA","93. Non-pregnant women age 15-49 years who are anaemic (<12.0 g/dl)22 (%)",54.1,58.7,57.2,53.2,NA,NA,NA,NA
+"INDIA","94. Pregnant women age 15-49 years who are anaemic (<11.0 g/dl)22 (%)",45.7,54.3,52.2,50.4,NA,NA,NA,NA
+"INDIA","95. All women age 15-49 years who are anaemic22 (%)",53.8,58.5,57,53.1,NA,NA,NA,NA
+"INDIA","96. All women age 15-19 years who are anaemic22 (%)",56.5,60.2,59.1,54.1,NA,NA,NA,NA
+"INDIA","97. Men age 15-49 years who are anaemic (<13.0 g/dl)22 (%)",20.4,27.4,25,22.7,NA,NA,NA,NA
+"INDIA","98. Men age 15-19 years who are anaemic (<13.0 g/dl)22 (%)",25,33.9,31.1,29.2,NA,NA,NA,NA
+"INDIA","99. Blood sugar level - high (141-160 mg/dl)23 (%)",6.7,5.9,6.1,NA,NA,NA,NA,NA
+"INDIA","100. Blood sugar level - very high (>160 mg/dl)23 (%)",8,5.5,6.3,NA,NA,NA,NA,NA
+"INDIA","101. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%)",16.3,12.3,13.5,NA,NA,NA,NA,NA
+"INDIA","102. Blood sugar level - high (141-160 mg/dl)23 (%)",7.8,7,7.3,NA,NA,NA,NA,NA
+"INDIA","103. Blood sugar level - very high (>160 mg/dl)23 (%)",8.5,6.5,7.2,NA,NA,NA,NA,NA
+"INDIA","104. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%)",17.9,14.5,15.6,NA,NA,NA,NA,NA
+"INDIA","105. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%)",13.6,11.9,12.4,NA,NA,NA,NA,NA
+"INDIA","106. Moderately or severely elevated blood pressure (Systolic >160 mm of Hg and/or Diastolic >100 mm of Hg) (%)",5.2,5.2,5.2,NA,NA,NA,NA,NA
+"INDIA","107. Elevated blood pressure (Systolic >140 mm of Hg and/or Diastolic >90 mm of Hg) or taking medicine to control blood pressure (%)",23.6,20.2,21.3,NA,NA,NA,NA,NA
+"INDIA","108. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%)",17.1,15,15.7,NA,NA,NA,NA,NA
+"INDIA","109. Moderately or severely elevated blood pressure (Systolic >160 mm of Hg and/or Diastolic >100 mm of Hg) (%)",5.9,5.5,5.7,NA,NA,NA,NA,NA
+"INDIA","110. Elevated blood pressure (Systolic >140 mm of Hg and/or Diastolic >90 mm of Hg) or taking medicine to control blood pressure (%)",26.6,22.7,24,NA,NA,NA,NA,NA
+"INDIA","111. Ever undergone a screening test for cervical cancer (%)",2.2,1.7,1.9,NA,NA,NA,NA,NA
+"INDIA","112. Ever undergone a breast examination for breast cancer (%)",1.2,0.7,0.9,NA,NA,NA,NA,NA
+"INDIA","113. Ever undergone an oral cavity examination for oral cancer (%)",1.2,0.8,0.9,NA,NA,NA,NA,NA
+"INDIA","114. Ever undergone an oral cavity examination for oral cancer (%)",1,1.3,1.2,NA,NA,NA,NA,NA
+"INDIA","115. Women who have comprehensive knowledge24 of HIV/AIDS (%)",28.6,18.2,21.6,20.9,NA,NA,NA,NA
+"INDIA","116. Men who have comprehensive knowledge24 of HIV/AIDS (%)",37.5,27.1,30.7,32.5,NA,NA,NA,NA
+"INDIA","117. Women who know that consistent condom use can reduce the chance of getting HIV/AIDS (%)",76.1,64.7,68.4,54.9,NA,NA,NA,NA
+"INDIA","118. Men who know that consistent condom use can reduce the chance of getting HIV/AIDS (%)",86.4,79.6,82,77.4,NA,NA,NA,NA
+"INDIA","119. Currently married women who usually participate in three household decisions25 (%)",91,87.7,88.7,84,NA,NA,NA,NA
+"INDIA","120. Women who worked in the last 12 months and were paid in cash (%)",25,25.6,25.4,24.6,NA,NA,NA,NA
+"INDIA","121. Women owning a house and/or land (alone or jointly with others) (%)",38.3,45.7,43.3,38.4,NA,NA,NA,NA
+"INDIA","122. Women having a bank or savings account that they themselves use (%)",80.9,77.4,78.6,53,NA,NA,NA,NA
+"INDIA","123. Women having a mobile phone that they themselves use (%)",69.4,46.6,54,45.9,NA,NA,NA,NA
+"INDIA","124. Women age 15-24 years who use hygienic methods of protection during their menstrual period26 (%)",89.4,72.3,77.3,57.6,NA,NA,NA,NA
+"INDIA","125. Ever-married women age 18-49 years who have ever experienced spousal violence27 (%)",24.2,31.6,29.3,31.2,NA,NA,NA,NA
+"INDIA","126. Ever-married women age 18-49 years who have experienced physical violence during any pregnancy (%)",2.5,3.4,3.1,3.9,NA,NA,NA,NA
+"INDIA","127. Young women age 18-29 years who experienced sexual violence by age 18 (%)",1.1,1.6,1.5,1.5,NA,NA,NA,NA
+"INDIA","128. Women age 15 years and above who use any kind of tobacco (%)",5.4,10.5,8.9,NA,NA,NA,NA,NA
+"INDIA","129. Men age 15 years and above who use any kind of tobacco (%)",28.8,42.7,38,NA,NA,NA,NA,NA
+"INDIA","130. Women age 15 years and above who consume alcohol (%)",0.6,1.6,1.3,NA,NA,NA,NA,NA
+"INDIA","131. Men age 15 years and above who consume alcohol (%)",16.5,19.9,18.8,NA,NA,NA,NA,NA
