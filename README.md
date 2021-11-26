@@ -8,7 +8,7 @@ NFHS-5 (2019-20) factsheets are now available for all states.
 
 I have updated the folder structure as follows:   
 **1. code**: Contains all scripts for both Phase 1 and Phase 2 extracts.   
-**2. data for analysis**: This contains the consolidated datasets for India, States, Districts in .csv and .dta formats. 
+**2. data for analysis**: This contains the consolidated datasets for India, States, Districts in .csv and .dta formats.    
 2.1 india.csv is from 'phase 2 release/NFHS-5 Phase 2 State Factsheets'.     
 2.2 states.csv is from 'phase 1 release/NFHS-5 Phase 1 State Factsheets' and 'phase 2 release/NFHS-5 Phase 2 State Factsheets'.        
 2.3 (PENDING) districts.csv is from 'NFHS-5 Phase 2 State Factsheets' only since these contain all States and UTs
@@ -30,24 +30,6 @@ NFHS-5 (2019-20) factsheets are now available.
    
 
 ## Link to download for non-git users
-https://github.com/jvargh7/nfhs5_factsheets/archive/main.zip
-
-## Known issues with district parsing
-
-~**districts/corrected district status.csv** shows the current status of different districts. 
-
-1. There are known conversion issues for some symbols (e.g. $\ge$ (greater than or equal to) is converted to â‰¥)       
-2. Retained fact sheet order for Wardha (MH) and Mahisagar (GJ). Issue #4 raised by @nfra.    
-
-
-
-## Resolved issues since last update
-
-1. Kerala and Karnataka are presently displaying 2019-20 factsheets       
-2. Kasaragod (KL) is available as of now.  
-3. Extraction for some districts in Himachal Pradesh, Maharashtra, Meghalaya and Tripura  have been completed using '~districts/partial district extract.R'. The updated status for those which have been extracted separately is provided in 'corrected district status.csv'. I am retaining 'district status.csv' since it is the primary check for the main run.    
-4. Minor errors in terms of number of records during extraction of Kheda (GJ), Kangra (HP), Chamba (HP), Dhule (MH), Thane (MH)    
-5. Thanks to @pratapvardhan for identifying that IIPS released a new set of State and District factsheets. These have now been parsed. Main change is that Vitamin A supplementation status indicator has been revised to 9-35 mo from 9-59 mo.    
-6. Updated Raigarh's indicator 98 after correcting indicator description.    
+https://github.com/jvargh7/nfhs5_factsheets/archive/main.zip  
 
 
