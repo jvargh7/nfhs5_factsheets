@@ -1,6 +1,8 @@
 ### Link to download for non-git users
 https://github.com/jvargh7/nfhs5_factsheets/archive/main.zip  
 
+NOTE: The present datasets under **data for analysis** and **phase 2 release** have not been cross-checked extensively. Please use with caution. Also, do let me know if you find any errors using the **ISSUES** section (*preferably*) or email me at **jvargh7@emory.edu** .      
+
 ## November 2021: Parsed summary sheets from NFHS-5 Phase 2 Compendium - States and Districts
 
 NFHS-5 (2019-20) factsheets are now available for all states.   
@@ -20,11 +22,10 @@ I have updated the folder structure as follows:
 4. **phase 2 release**: The extracts from Phase 2 release only.     
 
 ### Notes on November 2021 release
-1. There is definitely a possibility of errors during both PDF extraction and text preprocessing steps. Please do some eye-ball checks before using the data. Also, the code (R script) is available for you to edit.   
-2. The present versions of **data for analysis** have not been cross-checked extensively. Please use with caution. Also, do let me know if you find any errors using the *ISSUES* section (**preferably**) or email me at **jvargh7@emory.edu** .     
-3. The factsheets display some numbers within parentheses. **The parentheses have been removed, but the comments are included as flags.**      
-4. Some indicators names include notes. The footnote number in the name has been kept, but the notes have been lost. Please refer to the original PDFs for them.   
-5. **Missing values in the original PDFs are either na (not available) or "\*" (inadequate sample size).In the extracted files, they are set to missing.**    
+1. There is definitely a possibility of errors during both PDF extraction and text preprocessing steps. Please do some eye-ball checks before using the data. Also, the code (R script) is available for you to edit.     
+2. The factsheets display some numbers within parentheses. **The parentheses have been removed, but the comments are included as flags.**      
+3. Some indicators names include notes. The footnote number in the name has been kept, but the notes have been lost. Please refer to the original PDFs for them.   
+4. **Missing values in the original PDFs are either na (not available) or "\*" (inadequate sample size).In the extracted files, they are set to missing.**    
 
 
 ## December 2020: Parsed summary sheets from NFHS-5 Phase 1 States and Districts v2.1
