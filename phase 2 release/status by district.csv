@@ -1,0 +1,701 @@
+state,district,n
+Himachal Pradesh,Kangra,102
+Himachal Pradesh,Chamba,103
+Maharashtra,Dhule,103
+Uttar Pradesh,Balrampur,103
+Andaman Nicobar Islands,Nicobar,104
+Andaman Nicobar Islands,North  & Middle Andaman,104
+Andaman Nicobar Islands,South Andaman,104
+Andhra Pradesh,Anantapur,104
+Andhra Pradesh,Chittoor,104
+Andhra Pradesh,East Godavari,104
+Andhra Pradesh,Guntur,104
+Andhra Pradesh,Krishna,104
+Andhra Pradesh,Kurnool,104
+Andhra Pradesh,Prakasam,104
+Andhra Pradesh,Sri Potti Sriramulu Nellore,104
+Andhra Pradesh,Srikakulam,104
+Andhra Pradesh,Visakhapatnam,104
+Andhra Pradesh,Vizianagaram,104
+Andhra Pradesh,West Godavari,104
+Andhra Pradesh,Y.S.R.,104
+Arunachal Pradesh,Anjaw,104
+Arunachal Pradesh,Changlang,104
+Arunachal Pradesh,Dibang Valley,104
+Arunachal Pradesh,East Kameng,104
+Arunachal Pradesh,East Siang,104
+Arunachal Pradesh,Kra Daadi,104
+Arunachal Pradesh,Kurung Kumey,104
+Arunachal Pradesh,Lohit,104
+Arunachal Pradesh,Longding,104
+Arunachal Pradesh,Lower Dibang Valley,104
+Arunachal Pradesh,Lower Subansiri,104
+Arunachal Pradesh,Namsai,104
+Arunachal Pradesh,Papum Pare,104
+Arunachal Pradesh,Siang,104
+Arunachal Pradesh,Tawang,104
+Arunachal Pradesh,Tirap,104
+Arunachal Pradesh,Upper Siang,104
+Arunachal Pradesh,Upper Subansiri,104
+Arunachal Pradesh,West Kameng,104
+Arunachal Pradesh,West Siang,104
+Assam,Baksa,104
+Assam,Barpeta,104
+Assam,Biswanath,104
+Assam,Bongaigaon,104
+Assam,Cachar,104
+Assam,Charaideo,104
+Assam,Chirang,104
+Assam,Darrang,104
+Assam,Dhemaji,104
+Assam,Dhubri,104
+Assam,Dibrugarh,104
+Assam,Dima Hasao,104
+Assam,Goalpara,104
+Assam,Golaghat,104
+Assam,Hailakandi,104
+Assam,Hojai,104
+Assam,Jorhat,104
+Assam,Kamrup,104
+Assam,Kamrup Metropolitan,104
+Assam,Karbi Anglong,104
+Assam,Karimganj,104
+Assam,Kokrajhar,104
+Assam,Lakhimpur,104
+Assam,Majuli,104
+Assam,Morigaon,104
+Assam,Nagaon,104
+Assam,Nalbari,104
+Assam,Sivasagar,104
+Assam,Sonitpur,104
+Assam,South Salmara Mancachar,104
+Assam,Tinsukia,104
+Assam,Udalguri,104
+Assam,West Karbi Anglong,104
+Bihar,Araria,104
+Bihar,Arwal,104
+Bihar,Aurangabad,104
+Bihar,Banka,104
+Bihar,Begusarai,104
+Bihar,Bhagalpur,104
+Bihar,Bhojpur,104
+Bihar,Buxer,104
+Bihar,Darbhanga,104
+Bihar,Gaya,104
+Bihar,Gopalganj,104
+Bihar,Jamui,104
+Bihar,Jehanabad,104
+Bihar,Kaimur (Bhabua),104
+Bihar,Katihar,104
+Bihar,Khagaria,104
+Bihar,Kishanganj,104
+Bihar,Lakhisarai,104
+Bihar,Madhepura,104
+Bihar,Madhubani,104
+Bihar,Munger,104
+Bihar,Muzaffarpur,104
+Bihar,Nalanda,104
+Bihar,Nawada,104
+Bihar,Pashchim Champaran,104
+Bihar,Patna,104
+Bihar,Purba Champaran,104
+Bihar,Purnia,104
+Bihar,Rohtas,104
+Bihar,Saharsa,104
+Bihar,Samastipur,104
+Bihar,Saran,104
+Bihar,Sheikhpura,104
+Bihar,Sheohar,104
+Bihar,Sitamarhi,104
+Bihar,Siwan,104
+Bihar,Supaul,104
+Bihar,Vaishali,104
+Chhattisgarh,Balod,104
+Chhattisgarh,Baloda Bazar,104
+Chhattisgarh,Balrampur,104
+Chhattisgarh,Bastar,104
+Chhattisgarh,Bemetara,104
+Chhattisgarh,Bijapur,104
+Chhattisgarh,Bilaspur,104
+Chhattisgarh,Dantewada,104
+Chhattisgarh,Dhamtari,104
+Chhattisgarh,Durg,104
+Chhattisgarh,Gariyaband,104
+Chhattisgarh,Janjgir - Champa,104
+Chhattisgarh,Jashpur,104
+Chhattisgarh,Kabeerdham,104
+Chhattisgarh,Kodagaon,104
+Chhattisgarh,Korba,104
+Chhattisgarh,Koriya,104
+Chhattisgarh,Mahasamund,104
+Chhattisgarh,Mungeli,104
+Chhattisgarh,Narayanpur,104
+Chhattisgarh,Raigarh,104
+Chhattisgarh,Raipur,104
+Chhattisgarh,Rajnandgaon,104
+Chhattisgarh,Sukma,104
+Chhattisgarh,Surajpur,104
+Chhattisgarh,Surguja,104
+Chhattisgarh,Uttar Bastar Kanker,104
+Dadra Nagar Haveli Daman Diu,Dadra & Nagar Haveli,104
+Dadra Nagar Haveli Daman Diu,Daman,104
+Dadra Nagar Haveli Daman Diu,Diu,104
+Goa,North Goa,104
+Goa,South Goa,104
+Gujarat,Ahmedabad,104
+Gujarat,Amreli,104
+Gujarat,Anand,104
+Gujarat,Aravali,104
+Gujarat,Banaskantha,104
+Gujarat,Bharuch,104
+Gujarat,Bhavnagar,104
+Gujarat,Botad,104
+Gujarat,Chhota Udaipur,104
+Gujarat,Dahod,104
+Gujarat,Devbhumi Dwarka,104
+Gujarat,Gandhinagar,104
+Gujarat,Gir Somnath,104
+Gujarat,Jamnagar,104
+Gujarat,Junagadh,104
+Gujarat,Kachchh,104
+Gujarat,Kheda,104
+Gujarat,Mahesana,104
+Gujarat,Mahisagar,104
+Gujarat,Morbi,104
+Gujarat,Narmada,104
+Gujarat,Navsari,104
+Gujarat,Panchmahal,104
+Gujarat,Patan,104
+Gujarat,Porbandar,104
+Gujarat,Rajkot,104
+Gujarat,Sabarkantha,104
+Gujarat,Surat,104
+Gujarat,Surendranagar,104
+Gujarat,Tapi,104
+Gujarat,The Dangs,104
+Gujarat,Vadodara,104
+Gujarat,Valsad,104
+Haryana,Ambala,104
+Haryana,Bhiwani,104
+Haryana,Charkhi Dadri,104
+Haryana,Faridabad,104
+Haryana,Fatehabad,104
+Haryana,Gurgaon,104
+Haryana,Hisar,104
+Haryana,Jhajjar,104
+Haryana,Jind,104
+Haryana,Kaithal,104
+Haryana,Karnal,104
+Haryana,Kurukshetra,104
+Haryana,Mahendragarh,104
+Haryana,Mewat,104
+Haryana,Palwal,104
+Haryana,Panchkula,104
+Haryana,Panipat,104
+Haryana,Rewari,104
+Haryana,Rohtak,104
+Haryana,Sirsa,104
+Haryana,Sonipat,104
+Haryana,Yamunanagar,104
+Himachal Pradesh,Bilaspur,104
+Himachal Pradesh,Hamirpur,104
+Himachal Pradesh,Kinnaur,104
+Himachal Pradesh,Kullu,104
+Himachal Pradesh,Lahul and Spiti,104
+Himachal Pradesh,Mandi,104
+Himachal Pradesh,Shimla,104
+Himachal Pradesh,Sirmaur,104
+Himachal Pradesh,Solan,104
+Himachal Pradesh,Una,104
+Jammu Kashmir,Anantnag,104
+Jammu Kashmir,Badgam,104
+Jammu Kashmir,Bandipore,104
+Jammu Kashmir,Baramula,104
+Jammu Kashmir,Doda,104
+Jammu Kashmir,Ganderbal,104
+Jammu Kashmir,Jammu,104
+Jammu Kashmir,Kathua,104
+Jammu Kashmir,Kishtwar,104
+Jammu Kashmir,Kulgam,104
+Jammu Kashmir,Kupwara,104
+Jammu Kashmir,Pulwama,104
+Jammu Kashmir,Punch,104
+Jammu Kashmir,Rajouri,104
+Jammu Kashmir,Ramban,104
+Jammu Kashmir,Reasi,104
+Jammu Kashmir,Samba,104
+Jammu Kashmir,Shupiyan,104
+Jammu Kashmir,Srinagar,104
+Jammu Kashmir,Udhampur,104
+Jharkhand,Bokaro,104
+Jharkhand,Chatra,104
+Jharkhand,Deoghar,104
+Jharkhand,Dhanbad,104
+Jharkhand,Dumka,104
+Jharkhand,Garhwa,104
+Jharkhand,Giridih,104
+Jharkhand,Godda,104
+Jharkhand,Gumla,104
+Jharkhand,Hazaribagh,104
+Jharkhand,Jamtara,104
+Jharkhand,Khunti,104
+Jharkhand,Kodarma,104
+Jharkhand,Latehar,104
+Jharkhand,Lohardaga,104
+Jharkhand,Pakur,104
+Jharkhand,Palamu,104
+Jharkhand,Pashchimi Singhbhum,104
+Jharkhand,Purbi Singhbhum,104
+Jharkhand,Ramgarh,104
+Jharkhand,Ranchi,104
+Jharkhand,Sahibganj,104
+Jharkhand,Saraikela-Kharsawan,104
+Jharkhand,Simdega,104
+Karnataka,Bagalkot,104
+Karnataka,Bangalore,104
+Karnataka,Bangalore Rural,104
+Karnataka,Belgaum,104
+Karnataka,Bellary,104
+Karnataka,Bidar,104
+Karnataka,Bijapur,104
+Karnataka,Chamarajanagar,104
+Karnataka,Chikkaballapura,104
+Karnataka,Chikmagalur,104
+Karnataka,Chitradurga,104
+Karnataka,Dakshina Kannada,104
+Karnataka,Davanagere,104
+Karnataka,Dharwad,104
+Karnataka,Gadag,104
+Karnataka,Gulbarga,104
+Karnataka,Hassan,104
+Karnataka,Haveri,104
+Karnataka,Kodagu,104
+Karnataka,Kolar,104
+Karnataka,Koppal,104
+Karnataka,Mandya,104
+Karnataka,Mysore,104
+Karnataka,Raichur,104
+Karnataka,Ramanagara,104
+Karnataka,Shimoga,104
+Karnataka,Tumkur,104
+Karnataka,Udupi,104
+Karnataka,Uttara Kannada,104
+Karnataka,Yadgir,104
+Kerala,Alappuzha,104
+Kerala,Ernakulam,104
+Kerala,Idukki,104
+Kerala,Kannur,104
+Kerala,Kasaragod,104
+Kerala,Kollam,104
+Kerala,Kottayam,104
+Kerala,Kozhikode,104
+Kerala,Malappuram,104
+Kerala,Palakkad,104
+Kerala,Pathanamthitta,104
+Kerala,Thiruvananthapuram,104
+Kerala,Thrissur,104
+Kerala,Wayanad,104
+Ladakh,Kargil,104
+Ladakh,Leh(Ladakh),104
+Madhya Pradesh,Agar Malwa,104
+Madhya Pradesh,Alirajpur,104
+Madhya Pradesh,Anuppur,104
+Madhya Pradesh,Ashoknagar,104
+Madhya Pradesh,Balaghat,104
+Madhya Pradesh,Barwani,104
+Madhya Pradesh,Betul,104
+Madhya Pradesh,Bhind,104
+Madhya Pradesh,Bhopal,104
+Madhya Pradesh,Burhanpur,104
+Madhya Pradesh,Chhatarpur,104
+Madhya Pradesh,Chhindwara,104
+Madhya Pradesh,Damoh,104
+Madhya Pradesh,Datia,104
+Madhya Pradesh,Dewas,104
+Madhya Pradesh,Dhar,104
+Madhya Pradesh,Dindori,104
+Madhya Pradesh,Guna,104
+Madhya Pradesh,Gwalior,104
+Madhya Pradesh,Harda,104
+Madhya Pradesh,Hoshangabad,104
+Madhya Pradesh,Indore,104
+Madhya Pradesh,Jabalpur,104
+Madhya Pradesh,Jhabua,104
+Madhya Pradesh,Katni,104
+Madhya Pradesh,Khandwa (East Nimar),104
+Madhya Pradesh,Khargone (West Nimar),104
+Madhya Pradesh,Mandla,104
+Madhya Pradesh,Mandsaur,104
+Madhya Pradesh,Morena,104
+Madhya Pradesh,Narsimhapur,104
+Madhya Pradesh,Neemuch,104
+Madhya Pradesh,Panna,104
+Madhya Pradesh,Raisen,104
+Madhya Pradesh,Rajgarh,104
+Madhya Pradesh,Ratlam,104
+Madhya Pradesh,Rewa,104
+Madhya Pradesh,Sagar,104
+Madhya Pradesh,Satna,104
+Madhya Pradesh,Sehore,104
+Madhya Pradesh,Seoni,104
+Madhya Pradesh,Shahdol,104
+Madhya Pradesh,Shajapur,104
+Madhya Pradesh,Sheopur,104
+Madhya Pradesh,Shivpuri,104
+Madhya Pradesh,Sidhi,104
+Maharashtra,Ahmadnagar,104
+Maharashtra,Akola,104
+Maharashtra,Amravati,104
+Maharashtra,Aurangabad,104
+Maharashtra,Bhandara,104
+Maharashtra,Bid,104
+Maharashtra,Buldana,104
+Maharashtra,Chandrapur,104
+Maharashtra,Gadchiroli,104
+Maharashtra,Gondiya,104
+Maharashtra,Hingoli,104
+Maharashtra,Jalgaon,104
+Maharashtra,Jalna,104
+Maharashtra,Kolhapur,104
+Maharashtra,Latur,104
+Maharashtra,Mumbai,104
+Maharashtra,Mumbai Suburban,104
+Maharashtra,Nagpur,104
+Maharashtra,Nanded,104
+Maharashtra,Nandurbar,104
+Maharashtra,Nashik,104
+Maharashtra,Osmanabad,104
+Maharashtra,Palghar,104
+Maharashtra,Parbhani,104
+Maharashtra,Pune,104
+Maharashtra,Raigarh,104
+Maharashtra,Ratnagiri,104
+Maharashtra,Sangli,104
+Maharashtra,Satara,104
+Maharashtra,Sindhudurg,104
+Maharashtra,Solapur,104
+Maharashtra,Thane,104
+Maharashtra,Wardha,104
+Maharashtra,Washim,104
+Maharashtra,Yavatmal,104
+Manipur,Bishnupur,104
+Manipur,Chandel,104
+Manipur,Churachandpur,104
+Manipur,Imphal East,104
+Manipur,Imphal West,104
+Manipur,Senapati,104
+Manipur,Tamenglong,104
+Manipur,Thoubal,104
+Manipur,Ukhrul,104
+Meghalaya,East Garo Hills,104
+Meghalaya,East Jantia Hills,104
+Meghalaya,East Khasi Hills,104
+Meghalaya,North Garo Hills,104
+Meghalaya,Ribhoi,104
+Meghalaya,South Garo Hills,104
+Meghalaya,South West Garo Hills,104
+Meghalaya,South West Khasi Hills,104
+Meghalaya,West Garo Hills,104
+Meghalaya,West Jaintia Hills,104
+Meghalaya,West Khasi Hills,104
+Mizoram,Aizawl,104
+Mizoram,Champhai,104
+Mizoram,Kolasib,104
+Mizoram,Lawngtlai,104
+Mizoram,Lunglei,104
+Mizoram,Mamit,104
+Mizoram,Saiha,104
+Mizoram,Serchhip,104
+Nagaland,Dimapur,104
+Nagaland,Kiphire,104
+Nagaland,Kohima,104
+Nagaland,Longleng,104
+Nagaland,Mokokchung,104
+Nagaland,Mon,104
+Nagaland,Peren,104
+Nagaland,Phek,104
+Nagaland,Tuensang,104
+Nagaland,Wokha,104
+Nagaland,Zunheboto,104
+NCT Delhi,Central,104
+NCT Delhi,East,104
+NCT Delhi,New Delhi,104
+NCT Delhi,North,104
+NCT Delhi,North East,104
+NCT Delhi,North West,104
+NCT Delhi,Shahdara,104
+NCT Delhi,South,104
+NCT Delhi,South East,104
+NCT Delhi,South West,104
+NCT Delhi,West,104
+Odisha,Anugul,104
+Odisha,Balangir,104
+Odisha,Baleshwar,104
+Odisha,Bargarh,104
+Odisha,Baudh,104
+Odisha,Bhadrak,104
+Odisha,Cuttack,104
+Odisha,Debagarh,104
+Odisha,Dhenkanal,104
+Odisha,Gajapati,104
+Odisha,Ganjam,104
+Odisha,Jagatsinghapur,104
+Odisha,Jajapur,104
+Odisha,Jharsuguda,104
+Odisha,Kalahandi,104
+Odisha,Kandhamal,104
+Odisha,Kendrapara,104
+Odisha,Kendujhar,104
+Odisha,Khordha,104
+Odisha,Koraput,104
+Odisha,Malkangiri,104
+Odisha,Mayurbhanj,104
+Odisha,Nabarangapur,104
+Odisha,Nayagarh,104
+Odisha,Nuapada,104
+Odisha,Puri,104
+Odisha,Rayagada,104
+Odisha,Sambalpur,104
+Odisha,Subarnapur,104
+Odisha,Sundargarh,104
+Puducherry,Karaikal,104
+Puducherry,Mahe,104
+Puducherry,Puducherry,104
+Puducherry,Yanam,104
+Punjab,Amritsar,104
+Punjab,Barnala,104
+Punjab,Bathinda,104
+Punjab,Faridkot,104
+Punjab,Fatehgarh Sahib,104
+Punjab,Fazilka,104
+Punjab,Firozpur,104
+Punjab,Gurdaspur,104
+Punjab,Hoshiarpur,104
+Punjab,Jalandhar,104
+Punjab,Kapurthala,104
+Punjab,Ludhiana,104
+Punjab,Mansa,104
+Punjab,Moga,104
+Punjab,Muktsar,104
+Punjab,Pathankot,104
+Punjab,Patiala,104
+Punjab,Rupnagar,104
+Punjab,Sahibzada Ajit Singh Nagar,104
+Punjab,Sangrur,104
+Punjab,Shahid Bhagat Singh Nagar,104
+Punjab,Tarn Taran,104
+Rajasthan,Ajmer,104
+Rajasthan,Alwar,104
+Rajasthan,Banswara,104
+Rajasthan,Baran,104
+Rajasthan,Barmer,104
+Rajasthan,Bharatpur,104
+Rajasthan,Bhilwara,104
+Rajasthan,Bikaner,104
+Rajasthan,Bundi,104
+Rajasthan,Chittaurgarh,104
+Rajasthan,Churu,104
+Rajasthan,Dausa,104
+Rajasthan,Dhaulpur,104
+Rajasthan,Dungarpur,104
+Rajasthan,Ganganagar,104
+Rajasthan,Hanumangarh,104
+Rajasthan,Jaipur,104
+Rajasthan,Jaisalmer,104
+Rajasthan,Jalor,104
+Rajasthan,Jhalawar,104
+Rajasthan,Jhunjhunun,104
+Rajasthan,Jodhpur,104
+Rajasthan,Karauli,104
+Rajasthan,Kota,104
+Rajasthan,Nagaur,104
+Rajasthan,Pali,104
+Rajasthan,Pratapgarh,104
+Rajasthan,Rajsamand,104
+Rajasthan,Sawai Madhopur,104
+Rajasthan,Sikar,104
+Rajasthan,Sirohi,104
+Rajasthan,Tonk,104
+Rajasthan,Udaipur,104
+Sikkim,East District,104
+Sikkim,North  District,104
+Sikkim,South District,104
+Sikkim,West District,104
+Tamil Nadu,Ariyalur,104
+Tamil Nadu,Chennai,104
+Tamil Nadu,Coimbatore,104
+Tamil Nadu,Cuddalore,104
+Tamil Nadu,Dharmapuri,104
+Tamil Nadu,Dindigul,104
+Tamil Nadu,Erode,104
+Tamil Nadu,Kancheepuram,104
+Tamil Nadu,Kanniyakumari,104
+Tamil Nadu,Karur,104
+Tamil Nadu,Krishnagiri,104
+Tamil Nadu,Madurai,104
+Tamil Nadu,Nagapattinam,104
+Tamil Nadu,Namakkal,104
+Tamil Nadu,Perambalur,104
+Tamil Nadu,Pudukkottai,104
+Tamil Nadu,Ramanathapuram,104
+Tamil Nadu,Salem,104
+Tamil Nadu,Sivaganga,104
+Tamil Nadu,Thanjavur,104
+Tamil Nadu,The Nilgiris,104
+Tamil Nadu,Theni,104
+Tamil Nadu,Thiruvallur,104
+Tamil Nadu,Thiruvarur,104
+Tamil Nadu,Thoothukkudi,104
+Tamil Nadu,Tiruchirappalli,104
+Tamil Nadu,Tirunelveli,104
+Tamil Nadu,Tiruppur,104
+Tamil Nadu,Tiruvannamalai,104
+Tamil Nadu,Vellore,104
+Tamil Nadu,Viluppuram,104
+Tamil Nadu,Virudhunagar,104
+Telangana,Adilabad,104
+Telangana,Bhadradri Kothagudem,104
+Telangana,Hyderabad,104
+Telangana,Jagitial,104
+Telangana,Jangoan,104
+Telangana,Jayashankar Bhupalapally,104
+Telangana,Jogulamba Gadwal,104
+Telangana,Kamareddy,104
+Telangana,Karimnagar,104
+Telangana,Khammam,104
+Telangana,Komaram Bheem Asifabad,104
+Telangana,Mahabubabad,104
+Telangana,Mahabubnagar,104
+Telangana,Mancherial,104
+Telangana,Medak,104
+Telangana,Medchal-Malkajgiri,104
+Telangana,Nagarkurnool,104
+Telangana,Nalgonda,104
+Telangana,Nirmal,104
+Telangana,Nizamabad,104
+Telangana,Peddapalli,104
+Telangana,Rajanna Sircilla,104
+Telangana,Ranga Reddy,104
+Telangana,Sangareddy,104
+Telangana,Siddipet,104
+Telangana,Suryapet,104
+Telangana,Vikarabad,104
+Telangana,Wanaparthy,104
+Telangana,Warangal Rural,104
+Telangana,Warangal Urban,104
+Telangana,Yadadri Bhuvanagiri,104
+Tripura,Dhalai,104
+Tripura,Gomati,104
+Tripura,Khowai,104
+Tripura,North Tripura,104
+Tripura,Sepahijala,104
+Tripura,South Tripura,104
+Tripura,Unakoti,104
+Tripura,West Tripura,104
+Uttar Pradesh,Agra,104
+Uttar Pradesh,Aligarh,104
+Uttar Pradesh,Ambedkar Nagar,104
+Uttar Pradesh,Amethi,104
+Uttar Pradesh,Auraiya,104
+Uttar Pradesh,Azamgarh,104
+Uttar Pradesh,Baghpat,104
+Uttar Pradesh,Bahraich,104
+Uttar Pradesh,Ballia,104
+Uttar Pradesh,Banda,104
+Uttar Pradesh,Bara Banki,104
+Uttar Pradesh,Bareilly,104
+Uttar Pradesh,Basti,104
+Uttar Pradesh,Bijnor,104
+Uttar Pradesh,Budaun,104
+Uttar Pradesh,Bulandshahr,104
+Uttar Pradesh,Chandauli,104
+Uttar Pradesh,Chitrakoot,104
+Uttar Pradesh,Deoria,104
+Uttar Pradesh,Etah,104
+Uttar Pradesh,Etawah,104
+Uttar Pradesh,Faizabad,104
+Uttar Pradesh,Farrukhabad,104
+Uttar Pradesh,Fatehpur,104
+Uttar Pradesh,Firozabad,104
+Uttar Pradesh,Gautam Buddha Nagar,104
+Uttar Pradesh,Ghaziabad,104
+Uttar Pradesh,Ghazipur,104
+Uttar Pradesh,Gonda,104
+Uttar Pradesh,Gorakhpur,104
+Uttar Pradesh,Hamirpur,104
+Uttar Pradesh,Hapur,104
+Uttar Pradesh,Hardoi,104
+Uttar Pradesh,Jalaun,104
+Uttar Pradesh,Jaunpur,104
+Uttar Pradesh,Jhansi,104
+Uttar Pradesh,Jyotiba Phule Nagar,104
+Uttar Pradesh,Kannauj,104
+Uttar Pradesh,Kanpur Dehat,104
+Uttar Pradesh,Kanpur Nagar,104
+Uttar Pradesh,Kanshiram Nagar,104
+Uttar Pradesh,Kaushambi,104
+Uttar Pradesh,Kheri,104
+Uttar Pradesh,Kushinagar,104
+Uttar Pradesh,Lalitpur,104
+Uttar Pradesh,Lucknow,104
+Uttar Pradesh,Mahamaya Nagar,104
+Uttar Pradesh,Mahoba,104
+Uttar Pradesh,Mahrajganj,104
+Uttar Pradesh,Mainpuri,104
+Uttar Pradesh,Mathura,104
+Uttar Pradesh,Mau,104
+Uttar Pradesh,Meerut,104
+Uttar Pradesh,Mirzapur,104
+Uttar Pradesh,Moradabad,104
+Uttar Pradesh,Muzaffarnagar,104
+Uttar Pradesh,Pilibhit,104
+Uttar Pradesh,Pratapgarh,104
+Uttar Pradesh,Prayagraj,104
+Uttar Pradesh,Rae Bareli,104
+Uttar Pradesh,Rampur,104
+Uttar Pradesh,Saharanpur,104
+Uttar Pradesh,Sambhal,104
+Uttar Pradesh,Sant Kabir Nagar,104
+Uttar Pradesh,Sant Ravidas Nagar (Bhadohi),104
+Uttar Pradesh,Shahjahanpur,104
+Uttar Pradesh,Shamli,104
+Uttar Pradesh,Shrawasti,104
+Uttar Pradesh,Siddharthnagar,104
+Uttar Pradesh,Sitapur,104
+Uttar Pradesh,Sonbhadra,104
+Uttar Pradesh,Sultanpur,104
+Uttar Pradesh,Unnao,104
+Uttar Pradesh,Varanasi,104
+Uttarakhand,Almora,104
+Uttarakhand,Bageshwar,104
+Uttarakhand,Chamoli,104
+Uttarakhand,Champawat,104
+Uttarakhand,Dehradun,104
+Uttarakhand,Hardwar,104
+Uttarakhand,Nainital,104
+Uttarakhand,Pauri Garhwal,104
+Uttarakhand,Pithoragarh,104
+Uttarakhand,Rudraprayag,104
+Uttarakhand,Tehri Garhwal,104
+Uttarakhand,Udham Singh Nagar,104
+Uttarakhand,Uttarkashi,104
+West Bengal,Bankura,104
+West Bengal,Birbhum,104
+West Bengal,Dakshin Dinajpur,104
+West Bengal,Darjeeling,104
+West Bengal,Haora,104
+West Bengal,Hugli,104
+West Bengal,Jalpaiguri,104
+West Bengal,Koch Bihar,104
+West Bengal,Kolkata,104
+West Bengal,Maldah,104
+West Bengal,Murshidabad,104
+West Bengal,Nadia,104
+West Bengal,North Twenty Four Parganas,104
+West Bengal,Paschim Barddhaman,104
+West Bengal,Paschim Medinipur,104
+West Bengal,Purba Barddhaman,104
+West Bengal,Purba Medinipur,104
+West Bengal,Puruliya,104
+West Bengal,South Twenty Four Parganas,104
+West Bengal,Uttar Dinajpur,104

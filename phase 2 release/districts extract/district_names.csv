@@ -1,0 +1,736 @@
+Content,Page.No.,state_file,state_name,district_name,X.1
+Andaman & Nicobar Islands,1,Andaman_Nicobar_Islands.pdf,Andaman Nicobar Islands,NA,NA
+1. Nicobar,7,Andaman_Nicobar_Islands.pdf,Andaman Nicobar Islands,Nicobar,NA
+2. North  & Middle Andaman,13,Andaman_Nicobar_Islands.pdf,Andaman Nicobar Islands,North  & Middle Andaman,NA
+3. South Andaman,29,Andaman_Nicobar_Islands.pdf,Andaman Nicobar Islands,South Andaman,NA
+Andhra Pradesh,1,Andhra_Pradesh.pdf,Andhra Pradesh,NA,NA
+1. Anantapur,7,Andhra_Pradesh.pdf,Andhra Pradesh,Anantapur,NA
+2. Chittoor,13,Andhra_Pradesh.pdf,Andhra Pradesh,Chittoor,NA
+3. East Godavari,19,Andhra_Pradesh.pdf,Andhra Pradesh,East Godavari,NA
+4. Guntur,25,Andhra_Pradesh.pdf,Andhra Pradesh,Guntur,NA
+5. Krishna,31,Andhra_Pradesh.pdf,Andhra Pradesh,Krishna,NA
+6. Kurnool,37,Andhra_Pradesh.pdf,Andhra Pradesh,Kurnool,NA
+7. Prakasam,43,Andhra_Pradesh.pdf,Andhra Pradesh,Prakasam,NA
+8. Sri Potti Sriramulu Nellore,49,Andhra_Pradesh.pdf,Andhra Pradesh,Sri Potti Sriramulu Nellore,NA
+9. Srikakulam,55,Andhra_Pradesh.pdf,Andhra Pradesh,Srikakulam,NA
+10. Visakhapatnam,61,Andhra_Pradesh.pdf,Andhra Pradesh,Visakhapatnam,NA
+11. Vizianagaram,67,Andhra_Pradesh.pdf,Andhra Pradesh,Vizianagaram,NA
+12. West Godavari,73,Andhra_Pradesh.pdf,Andhra Pradesh,West Godavari,NA
+13. Y.S.R.,79,Andhra_Pradesh.pdf,Andhra Pradesh,Y.S.R.,NA
+Arunachal Pradesh,1,Arunachal_Pradesh.pdf,Arunachal Pradesh,NA,NA
+1. Anjaw,7,Arunachal_Pradesh.pdf,Arunachal Pradesh,Anjaw,NA
+2. Changlang,13,Arunachal_Pradesh.pdf,Arunachal Pradesh,Changlang,NA
+3. Dibang Valley,19,Arunachal_Pradesh.pdf,Arunachal Pradesh,Dibang Valley,NA
+4. East Kameng,25,Arunachal_Pradesh.pdf,Arunachal Pradesh,East Kameng,NA
+5. East Siang,31,Arunachal_Pradesh.pdf,Arunachal Pradesh,East Siang,NA
+6. Kra Daadi,37,Arunachal_Pradesh.pdf,Arunachal Pradesh,Kra Daadi,NA
+7. Kurung Kumey,43,Arunachal_Pradesh.pdf,Arunachal Pradesh,Kurung Kumey,NA
+8. Lohit,49,Arunachal_Pradesh.pdf,Arunachal Pradesh,Lohit,NA
+9. Longding,55,Arunachal_Pradesh.pdf,Arunachal Pradesh,Longding,NA
+10. Lower Dibang Valley,61,Arunachal_Pradesh.pdf,Arunachal Pradesh,Lower Dibang Valley,NA
+11. Lower Subansiri,67,Arunachal_Pradesh.pdf,Arunachal Pradesh,Lower Subansiri,NA
+12. Namsai,73,Arunachal_Pradesh.pdf,Arunachal Pradesh,Namsai,NA
+13. Papum Pare,79,Arunachal_Pradesh.pdf,Arunachal Pradesh,Papum Pare,NA
+14. Siang,85,Arunachal_Pradesh.pdf,Arunachal Pradesh,Siang,NA
+15. Tawang,91,Arunachal_Pradesh.pdf,Arunachal Pradesh,Tawang,NA
+16. Tirap,97,Arunachal_Pradesh.pdf,Arunachal Pradesh,Tirap,NA
+17. Upper Siang,103,Arunachal_Pradesh.pdf,Arunachal Pradesh,Upper Siang,NA
+18. Upper Subansiri,109,Arunachal_Pradesh.pdf,Arunachal Pradesh,Upper Subansiri,NA
+19. West Kameng,115,Arunachal_Pradesh.pdf,Arunachal Pradesh,West Kameng,NA
+20. West Siang,121,Arunachal_Pradesh.pdf,Arunachal Pradesh,West Siang,NA
+Assam,1,Assam.pdf,Assam,NA,NA
+1. Baksa,7,Assam.pdf,Assam,Baksa,NA
+2. Barpeta,13,Assam.pdf,Assam,Barpeta,NA
+3. Biswanath,19,Assam.pdf,Assam,Biswanath,NA
+4. Bongaigaon,25,Assam.pdf,Assam,Bongaigaon,NA
+5. Cachar,31,Assam.pdf,Assam,Cachar,NA
+6. Charaideo,37,Assam.pdf,Assam,Charaideo,NA
+7. Chirang,43,Assam.pdf,Assam,Chirang,NA
+8. Darrang,49,Assam.pdf,Assam,Darrang,NA
+9. Dhemaji,55,Assam.pdf,Assam,Dhemaji,NA
+10. Dhubri,61,Assam.pdf,Assam,Dhubri,NA
+11. Dibrugarh,67,Assam.pdf,Assam,Dibrugarh,NA
+12. Dima Hasao,73,Assam.pdf,Assam,Dima Hasao,NA
+13. Goalpara,79,Assam.pdf,Assam,Goalpara,NA
+14. Golaghat,85,Assam.pdf,Assam,Golaghat,NA
+15. Hailakandi,91,Assam.pdf,Assam,Hailakandi,NA
+16. Hojai,97,Assam.pdf,Assam,Hojai,NA
+17. Jorhat,103,Assam.pdf,Assam,Jorhat,NA
+18. Kamrup Metropolitan,109,Assam.pdf,Assam,Kamrup Metropolitan,NA
+19. Kamrup,115,Assam.pdf,Assam,Kamrup,NA
+20. Karbi Anglong,121,Assam.pdf,Assam,Karbi Anglong,NA
+21. Karimganj,127,Assam.pdf,Assam,Karimganj,NA
+22. Kokrajhar,133,Assam.pdf,Assam,Kokrajhar,NA
+23. Lakhimpur,139,Assam.pdf,Assam,Lakhimpur,NA
+24. Majuli,145,Assam.pdf,Assam,Majuli,NA
+25. Morigaon,151,Assam.pdf,Assam,Morigaon,NA
+26. Nagaon,157,Assam.pdf,Assam,Nagaon,NA
+27. Nalbari,163,Assam.pdf,Assam,Nalbari,NA
+28. Sivasagar,169,Assam.pdf,Assam,Sivasagar,NA
+29. Sonitpur,175,Assam.pdf,Assam,Sonitpur,NA
+30. South Salmara Mancachar,181,Assam.pdf,Assam,South Salmara Mancachar,NA
+31. Tinsukia,187,Assam.pdf,Assam,Tinsukia,NA
+32. Udalguri,193,Assam.pdf,Assam,Udalguri,NA
+33. West Karbi Anglong,199,Assam.pdf,Assam,West Karbi Anglong,NA
+Bihar,1,Bihar.pdf,Bihar,NA,NA
+1. Araria,7,Bihar.pdf,Bihar,Araria,NA
+2. Arwal,13,Bihar.pdf,Bihar,Arwal,NA
+3. Aurangabad,19,Bihar.pdf,Bihar,Aurangabad,NA
+4. Banka,25,Bihar.pdf,Bihar,Banka,NA
+5. Begusarai,31,Bihar.pdf,Bihar,Begusarai,NA
+6. Bhagalpur,37,Bihar.pdf,Bihar,Bhagalpur,NA
+7. Bhojpur,43,Bihar.pdf,Bihar,Bhojpur,NA
+8. Buxer,49,Bihar.pdf,Bihar,Buxer,NA
+9. Darbhanga,55,Bihar.pdf,Bihar,Darbhanga,NA
+10. Gaya,61,Bihar.pdf,Bihar,Gaya,NA
+11. Gopalganj,67,Bihar.pdf,Bihar,Gopalganj,NA
+12. Jamui,73,Bihar.pdf,Bihar,Jamui,NA
+13. Jehanabad,79,Bihar.pdf,Bihar,Jehanabad,NA
+14. Kaimur (Bhabua),85,Bihar.pdf,Bihar,Kaimur (Bhabua),NA
+15. Katihar,91,Bihar.pdf,Bihar,Katihar,NA
+16. Khagaria,97,Bihar.pdf,Bihar,Khagaria,NA
+17. Kishanganj,103,Bihar.pdf,Bihar,Kishanganj,NA
+18. Lakhisarai,109,Bihar.pdf,Bihar,Lakhisarai,NA
+19. Madhepura,115,Bihar.pdf,Bihar,Madhepura,NA
+20. Madhubani,121,Bihar.pdf,Bihar,Madhubani,NA
+21. Munger,127,Bihar.pdf,Bihar,Munger,NA
+22. Muzaffarpur,133,Bihar.pdf,Bihar,Muzaffarpur,NA
+23. Nalanda,139,Bihar.pdf,Bihar,Nalanda,NA
+24. Nawada,145,Bihar.pdf,Bihar,Nawada,NA
+25. Pashchim Champaran,151,Bihar.pdf,Bihar,Pashchim Champaran,NA
+26. Patna,157,Bihar.pdf,Bihar,Patna,NA
+27. Purba Champaran,163,Bihar.pdf,Bihar,Purba Champaran,NA
+28. Purnia,169,Bihar.pdf,Bihar,Purnia,NA
+29. Rohtas,175,Bihar.pdf,Bihar,Rohtas,NA
+30. Saharsa,181,Bihar.pdf,Bihar,Saharsa,NA
+31. Samastipur,187,Bihar.pdf,Bihar,Samastipur,NA
+32. Saran,193,Bihar.pdf,Bihar,Saran,NA
+33. Sheikhpura,199,Bihar.pdf,Bihar,Sheikhpura,NA
+34. Sheohar,205,Bihar.pdf,Bihar,Sheohar,NA
+35. Sitamarhi,211,Bihar.pdf,Bihar,Sitamarhi,NA
+36. Siwan,217,Bihar.pdf,Bihar,Siwan,NA
+37. Supaul,223,Bihar.pdf,Bihar,Supaul,NA
+38. Vaishali,229,Bihar.pdf,Bihar,Vaishali,NA
+Chhattisgarh,1,Chhattisgarh.pdf,Chhattisgarh,NA,NA
+1. Balod,7,Chhattisgarh.pdf,Chhattisgarh,Balod,NA
+2. Baloda Bazar,13,Chhattisgarh.pdf,Chhattisgarh,Baloda Bazar,NA
+3. Balrampur,19,Chhattisgarh.pdf,Chhattisgarh,Balrampur,NA
+4. Bastar,25,Chhattisgarh.pdf,Chhattisgarh,Bastar,NA
+5. Bemetara,31,Chhattisgarh.pdf,Chhattisgarh,Bemetara,NA
+6. Bijapur,37,Chhattisgarh.pdf,Chhattisgarh,Bijapur,NA
+7. Bilaspur,43,Chhattisgarh.pdf,Chhattisgarh,Bilaspur,NA
+8. Dantewada,49,Chhattisgarh.pdf,Chhattisgarh,Dantewada,NA
+9. Dhamtari,55,Chhattisgarh.pdf,Chhattisgarh,Dhamtari,NA
+10. Durg,61,Chhattisgarh.pdf,Chhattisgarh,Durg,NA
+11. Gariyaband,67,Chhattisgarh.pdf,Chhattisgarh,Gariyaband,NA
+12. Janjgir - Champa,73,Chhattisgarh.pdf,Chhattisgarh,Janjgir - Champa,NA
+13. Jashpur,79,Chhattisgarh.pdf,Chhattisgarh,Jashpur,NA
+14. Kabeerdham,85,Chhattisgarh.pdf,Chhattisgarh,Kabeerdham,NA
+15. Kodagaon,91,Chhattisgarh.pdf,Chhattisgarh,Kodagaon,NA
+16. Korba,97,Chhattisgarh.pdf,Chhattisgarh,Korba,NA
+17. Koriya,103,Chhattisgarh.pdf,Chhattisgarh,Koriya,NA
+18. Mahasamund,109,Chhattisgarh.pdf,Chhattisgarh,Mahasamund,NA
+19. Mungeli,115,Chhattisgarh.pdf,Chhattisgarh,Mungeli,NA
+20. Narayanpur,121,Chhattisgarh.pdf,Chhattisgarh,Narayanpur,NA
+21. Raigarh,127,Chhattisgarh.pdf,Chhattisgarh,Raigarh,NA
+22. Raipur,133,Chhattisgarh.pdf,Chhattisgarh,Raipur,NA
+23. Rajnandgaon,139,Chhattisgarh.pdf,Chhattisgarh,Rajnandgaon,NA
+24. Sukma,145,Chhattisgarh.pdf,Chhattisgarh,Sukma,NA
+25. Surajpur,151,Chhattisgarh.pdf,Chhattisgarh,Surajpur,NA
+26. Surguja,157,Chhattisgarh.pdf,Chhattisgarh,Surguja,NA
+27. Uttar Bastar Kanker,163,Chhattisgarh.pdf,Chhattisgarh,Uttar Bastar Kanker,NA
+Dadra & Nagar Haveli and Daman & Diu,1,Dadra_Nagar_Haveli_Daman_Diu.pdf,Dadra Nagar Haveli Daman Diu,NA,NA
+1. Dadra & Nagar Haveli,7,Dadra_Nagar_Haveli_Daman_Diu.pdf,Dadra Nagar Haveli Daman Diu,Dadra & Nagar Haveli,NA
+2. Daman,13,Dadra_Nagar_Haveli_Daman_Diu.pdf,Dadra Nagar Haveli Daman Diu,Daman,NA
+3. Diu,19,Dadra_Nagar_Haveli_Daman_Diu.pdf,Dadra Nagar Haveli Daman Diu,Diu,NA
+Goa,1,Goa.pdf,Goa,NA,NA
+1. North Goa,7,Goa.pdf,Goa,North Goa,NA
+2. South Goa,13,Goa.pdf,Goa,South Goa,NA
+Gujarat,1,Gujarat.pdf,Gujarat,NA,NA
+1. Ahmedabad,7,Gujarat.pdf,Gujarat,Ahmedabad,NA
+2. Amreli,13,Gujarat.pdf,Gujarat,Amreli,NA
+3. Anand,19,Gujarat.pdf,Gujarat,Anand,NA
+4. Aravali,25,Gujarat.pdf,Gujarat,Aravali,NA
+5. Banaskantha,31,Gujarat.pdf,Gujarat,Banaskantha,NA
+6. Bharuch,37,Gujarat.pdf,Gujarat,Bharuch,NA
+7. Bhavnagar,43,Gujarat.pdf,Gujarat,Bhavnagar,NA
+8. Botad,49,Gujarat.pdf,Gujarat,Botad,NA
+9. Chhota Udaipur,55,Gujarat.pdf,Gujarat,Chhota Udaipur,NA
+10. Dahod,61,Gujarat.pdf,Gujarat,Dahod,NA
+11. Devbhumi Dwarka,67,Gujarat.pdf,Gujarat,Devbhumi Dwarka,NA
+12. Gandhinagar,73,Gujarat.pdf,Gujarat,Gandhinagar,NA
+13. Gir Somnath,79,Gujarat.pdf,Gujarat,Gir Somnath,NA
+14. Jamnagar,85,Gujarat.pdf,Gujarat,Jamnagar,NA
+15. Junagadh,91,Gujarat.pdf,Gujarat,Junagadh,NA
+16. Kachchh,97,Gujarat.pdf,Gujarat,Kachchh,NA
+17. Kheda,103,Gujarat.pdf,Gujarat,Kheda,NA
+18. Mahesana,109,Gujarat.pdf,Gujarat,Mahesana,NA
+19. Mahisagar,115,Gujarat.pdf,Gujarat,Mahisagar,NA
+20. Morbi,121,Gujarat.pdf,Gujarat,Morbi,NA
+21. Narmada,127,Gujarat.pdf,Gujarat,Narmada,NA
+22. Navsari,133,Gujarat.pdf,Gujarat,Navsari,NA
+23. Panchmahal,139,Gujarat.pdf,Gujarat,Panchmahal,NA
+24. Patan,145,Gujarat.pdf,Gujarat,Patan,NA
+25. Porbandar,151,Gujarat.pdf,Gujarat,Porbandar,NA
+26. Rajkot,157,Gujarat.pdf,Gujarat,Rajkot,NA
+27. Sabarkantha,163,Gujarat.pdf,Gujarat,Sabarkantha,NA
+28. Surat,169,Gujarat.pdf,Gujarat,Surat,NA
+29. Surendranagar,175,Gujarat.pdf,Gujarat,Surendranagar,NA
+30. Tapi,181,Gujarat.pdf,Gujarat,Tapi,NA
+31. The Dangs,187,Gujarat.pdf,Gujarat,The Dangs,NA
+32. Vadodara,193,Gujarat.pdf,Gujarat,Vadodara,NA
+33. Valsad,199,Gujarat.pdf,Gujarat,Valsad,NA
+Haryana,1,Haryana.pdf,Haryana,NA,NA
+1. Ambala,7,Haryana.pdf,Haryana,Ambala,NA
+2. Bhiwani,13,Haryana.pdf,Haryana,Bhiwani,NA
+3. Charkhi Dadri,19,Haryana.pdf,Haryana,Charkhi Dadri,NA
+4. Faridabad,25,Haryana.pdf,Haryana,Faridabad,NA
+5. Fatehabad,31,Haryana.pdf,Haryana,Fatehabad,NA
+6. Gurgaon,37,Haryana.pdf,Haryana,Gurgaon,NA
+7. Hisar,43,Haryana.pdf,Haryana,Hisar,NA
+8. Jhajjar,49,Haryana.pdf,Haryana,Jhajjar,NA
+9. Jind,55,Haryana.pdf,Haryana,Jind,NA
+10. Kaithal,61,Haryana.pdf,Haryana,Kaithal,NA
+11. Karnal,67,Haryana.pdf,Haryana,Karnal,NA
+12. Kurukshetra,73,Haryana.pdf,Haryana,Kurukshetra,NA
+13. Mahendragarh,79,Haryana.pdf,Haryana,Mahendragarh,NA
+14. Mewat,85,Haryana.pdf,Haryana,Mewat,NA
+15. Palwal,91,Haryana.pdf,Haryana,Palwal,NA
+16. Panchkula,97,Haryana.pdf,Haryana,Panchkula,NA
+17. Panipat,103,Haryana.pdf,Haryana,Panipat,NA
+18. Rewari,109,Haryana.pdf,Haryana,Rewari,NA
+19. Rohtak,115,Haryana.pdf,Haryana,Rohtak,NA
+20. Sirsa,121,Haryana.pdf,Haryana,Sirsa,NA
+21. Sonipat,127,Haryana.pdf,Haryana,Sonipat,NA
+22. Yamunanagar,133,Haryana.pdf,Haryana,Yamunanagar,NA
+Himachal Pradesh,1,Himachal_Pradesh.pdf,Himachal Pradesh,NA,NA
+1. Bilaspur,7,Himachal_Pradesh.pdf,Himachal Pradesh,Bilaspur,NA
+2. Chamba,13,Himachal_Pradesh.pdf,Himachal Pradesh,Chamba,NA
+3. Hamirpur,19,Himachal_Pradesh.pdf,Himachal Pradesh,Hamirpur,NA
+4. Kangra,25,Himachal_Pradesh.pdf,Himachal Pradesh,Kangra,NA
+5. Kinnaur,31,Himachal_Pradesh.pdf,Himachal Pradesh,Kinnaur,NA
+6. Kullu,37,Himachal_Pradesh.pdf,Himachal Pradesh,Kullu,NA
+7. Lahul and Spiti,43,Himachal_Pradesh.pdf,Himachal Pradesh,Lahul and Spiti,NA
+8. Mandi,49,Himachal_Pradesh.pdf,Himachal Pradesh,Mandi,NA
+9. Shimla,55,Himachal_Pradesh.pdf,Himachal Pradesh,Shimla,NA
+10. Sirmaur,61,Himachal_Pradesh.pdf,Himachal Pradesh,Sirmaur,NA
+11. Solan,67,Himachal_Pradesh.pdf,Himachal Pradesh,Solan,NA
+12. Una,73,Himachal_Pradesh.pdf,Himachal Pradesh,Una,NA
+Jammu & Kashmir,1,Jammu_Kashmir.pdf,Jammu Kashmir,NA,NA
+1. Anantnag,7,Jammu_Kashmir.pdf,Jammu Kashmir,Anantnag,NA
+2. Badgam,13,Jammu_Kashmir.pdf,Jammu Kashmir,Badgam,NA
+3. Bandipore,19,Jammu_Kashmir.pdf,Jammu Kashmir,Bandipore,NA
+4. Baramula,25,Jammu_Kashmir.pdf,Jammu Kashmir,Baramula,NA
+5. Doda,31,Jammu_Kashmir.pdf,Jammu Kashmir,Doda,NA
+6. Ganderbal,37,Jammu_Kashmir.pdf,Jammu Kashmir,Ganderbal,NA
+7. Jammu,43,Jammu_Kashmir.pdf,Jammu Kashmir,Jammu,NA
+8. Kathua,49,Jammu_Kashmir.pdf,Jammu Kashmir,Kathua,NA
+9. Kishtwar,55,Jammu_Kashmir.pdf,Jammu Kashmir,Kishtwar,NA
+10. Kulgam,61,Jammu_Kashmir.pdf,Jammu Kashmir,Kulgam,NA
+11. Kupwara,67,Jammu_Kashmir.pdf,Jammu Kashmir,Kupwara,NA
+12. Pulwama,73,Jammu_Kashmir.pdf,Jammu Kashmir,Pulwama,NA
+13. Punch,79,Jammu_Kashmir.pdf,Jammu Kashmir,Punch,NA
+14. Rajouri,85,Jammu_Kashmir.pdf,Jammu Kashmir,Rajouri,NA
+15. Ramban,91,Jammu_Kashmir.pdf,Jammu Kashmir,Ramban,NA
+16. Reasi,97,Jammu_Kashmir.pdf,Jammu Kashmir,Reasi,NA
+17. Samba,103,Jammu_Kashmir.pdf,Jammu Kashmir,Samba,NA
+18. Shupiyan,109,Jammu_Kashmir.pdf,Jammu Kashmir,Shupiyan,NA
+19. Srinagar,115,Jammu_Kashmir.pdf,Jammu Kashmir,Srinagar,NA
+20. Udhampur,121,Jammu_Kashmir.pdf,Jammu Kashmir,Udhampur,NA
+Jharkhand,1,Jharkhand.pdf,Jharkhand,NA,NA
+1. Bokaro,7,Jharkhand.pdf,Jharkhand,Bokaro,NA
+2. Chatra,13,Jharkhand.pdf,Jharkhand,Chatra,NA
+3. Deoghar,19,Jharkhand.pdf,Jharkhand,Deoghar,NA
+4. Dhanbad,25,Jharkhand.pdf,Jharkhand,Dhanbad,NA
+5. Dumka,31,Jharkhand.pdf,Jharkhand,Dumka,NA
+6. Garhwa,37,Jharkhand.pdf,Jharkhand,Garhwa,NA
+7. Giridih,43,Jharkhand.pdf,Jharkhand,Giridih,NA
+8. Godda,49,Jharkhand.pdf,Jharkhand,Godda,NA
+9. Gumla,55,Jharkhand.pdf,Jharkhand,Gumla,NA
+10. Hazaribagh,61,Jharkhand.pdf,Jharkhand,Hazaribagh,NA
+11. Jamtara,67,Jharkhand.pdf,Jharkhand,Jamtara,NA
+12. Khunti,73,Jharkhand.pdf,Jharkhand,Khunti,NA
+13. Kodarma,79,Jharkhand.pdf,Jharkhand,Kodarma,NA
+14. Latehar,85,Jharkhand.pdf,Jharkhand,Latehar,NA
+15. Lohardaga,91,Jharkhand.pdf,Jharkhand,Lohardaga,NA
+16. Pakur,97,Jharkhand.pdf,Jharkhand,Pakur,NA
+17. Palamu,103,Jharkhand.pdf,Jharkhand,Palamu,NA
+18. Pashchimi Singhbhum,109,Jharkhand.pdf,Jharkhand,Pashchimi Singhbhum,NA
+19. Purbi Singhbhum,115,Jharkhand.pdf,Jharkhand,Purbi Singhbhum,NA
+20. Ramgarh,121,Jharkhand.pdf,Jharkhand,Ramgarh,NA
+21. Ranchi,127,Jharkhand.pdf,Jharkhand,Ranchi,NA
+22. Sahibganj,133,Jharkhand.pdf,Jharkhand,Sahibganj,NA
+23. Saraikela-Kharsawan,139,Jharkhand.pdf,Jharkhand,Saraikela-Kharsawan,NA
+24. Simdega,145,Jharkhand.pdf,Jharkhand,Simdega,NA
+Karnataka,1,Karnataka.pdf,Karnataka,NA,NA
+1. Bagalkot,7,Karnataka.pdf,Karnataka,Bagalkot,NA
+2. Bangalore Rural,13,Karnataka.pdf,Karnataka,Bangalore Rural,NA
+3. Bangalore,19,Karnataka.pdf,Karnataka,Bangalore,NA
+4. Belgaum,25,Karnataka.pdf,Karnataka,Belgaum,NA
+5. Bellary,31,Karnataka.pdf,Karnataka,Bellary,NA
+6. Bidar,37,Karnataka.pdf,Karnataka,Bidar,NA
+7. Bijapur,43,Karnataka.pdf,Karnataka,Bijapur,NA
+8. Chamarajanagar,49,Karnataka.pdf,Karnataka,Chamarajanagar,NA
+9. Chikkaballapura,55,Karnataka.pdf,Karnataka,Chikkaballapura,NA
+10. Chikmagalur,61,Karnataka.pdf,Karnataka,Chikmagalur,NA
+11. Chitradurga,67,Karnataka.pdf,Karnataka,Chitradurga,NA
+12. Dakshina Kannada,73,Karnataka.pdf,Karnataka,Dakshina Kannada,NA
+13. Davanagere,79,Karnataka.pdf,Karnataka,Davanagere,NA
+14. Dharwad,85,Karnataka.pdf,Karnataka,Dharwad,NA
+15. Gadag,91,Karnataka.pdf,Karnataka,Gadag,NA
+16. Gulbarga,97,Karnataka.pdf,Karnataka,Gulbarga,NA
+17. Hassan,103,Karnataka.pdf,Karnataka,Hassan,NA
+18. Haveri,109,Karnataka.pdf,Karnataka,Haveri,NA
+19. Kodagu,115,Karnataka.pdf,Karnataka,Kodagu,NA
+20. Kolar,121,Karnataka.pdf,Karnataka,Kolar,NA
+21. Koppal,127,Karnataka.pdf,Karnataka,Koppal,NA
+22. Mandya,133,Karnataka.pdf,Karnataka,Mandya,NA
+23. Mysore,139,Karnataka.pdf,Karnataka,Mysore,NA
+24. Raichur,145,Karnataka.pdf,Karnataka,Raichur,NA
+25. Ramanagara,151,Karnataka.pdf,Karnataka,Ramanagara,NA
+26. Shimoga,157,Karnataka.pdf,Karnataka,Shimoga,NA
+27. Tumkur,163,Karnataka.pdf,Karnataka,Tumkur,NA
+28. Udupi,169,Karnataka.pdf,Karnataka,Udupi,NA
+29. Uttara Kannada,175,Karnataka.pdf,Karnataka,Uttara Kannada,NA
+30. Yadgir,181,Karnataka.pdf,Karnataka,Yadgir,NA
+Kerala,1,Kerala.pdf,Kerala,NA,NA
+1. Alappuzha,7,Kerala.pdf,Kerala,Alappuzha,NA
+2. Ernakulam,13,Kerala.pdf,Kerala,Ernakulam,NA
+3. Idukki,19,Kerala.pdf,Kerala,Idukki,NA
+4. Kannur,25,Kerala.pdf,Kerala,Kannur,NA
+5. Kasaragod,31,Kerala.pdf,Kerala,Kasaragod,NA
+6. Kollam,37,Kerala.pdf,Kerala,Kollam,NA
+7. Kottayam,43,Kerala.pdf,Kerala,Kottayam,NA
+8. Kozhikode,49,Kerala.pdf,Kerala,Kozhikode,NA
+9. Malappuram,55,Kerala.pdf,Kerala,Malappuram,NA
+10. Palakkad,61,Kerala.pdf,Kerala,Palakkad,NA
+11. Pathanamthitta,67,Kerala.pdf,Kerala,Pathanamthitta,NA
+12. Thiruvananthapuram,73,Kerala.pdf,Kerala,Thiruvananthapuram,NA
+13. Thrissur,79,Kerala.pdf,Kerala,Thrissur,NA
+14. Wayanad,85,Kerala.pdf,Kerala,Wayanad,NA
+Ladakh,1,Ladakh.pdf,Ladakh,NA,NA
+1. Kargil,7,Ladakh.pdf,Ladakh,Kargil,NA
+2. Leh(Ladakh),13,Ladakh.pdf,Ladakh,Leh(Ladakh),NA
+Lakshadweep,1,Lakshadweep.pdf,Lakshadweep,NA,NA
+Madhya Pradesh,1,Madhya_Pradesh.pdf,Madhya Pradesh,NA,NA
+1. Agar Malwa,7,Madhya_Pradesh.pdf,Madhya Pradesh,Agar Malwa,NA
+2. Alirajpur,13,Madhya_Pradesh.pdf,Madhya Pradesh,Alirajpur,NA
+3. Anuppur,19,Madhya_Pradesh.pdf,Madhya Pradesh,Anuppur,NA
+4. Ashoknagar,25,Madhya_Pradesh.pdf,Madhya Pradesh,Ashoknagar,NA
+5. Balaghat,31,Madhya_Pradesh.pdf,Madhya Pradesh,Balaghat,NA
+6. Barwani,37,Madhya_Pradesh.pdf,Madhya Pradesh,Barwani,NA
+7. Betul,43,Madhya_Pradesh.pdf,Madhya Pradesh,Betul,NA
+8. Bhind,49,Madhya_Pradesh.pdf,Madhya Pradesh,Bhind,NA
+9. Bhopal,55,Madhya_Pradesh.pdf,Madhya Pradesh,Bhopal,NA
+10. Burhanpur,61,Madhya_Pradesh.pdf,Madhya Pradesh,Burhanpur,NA
+11. Chhatarpur,67,Madhya_Pradesh.pdf,Madhya Pradesh,Chhatarpur,NA
+12. Chhindwara,73,Madhya_Pradesh.pdf,Madhya Pradesh,Chhindwara,NA
+13. Damoh,79,Madhya_Pradesh.pdf,Madhya Pradesh,Damoh,NA
+14. Datia,85,Madhya_Pradesh.pdf,Madhya Pradesh,Datia,NA
+15. Dewas,91,Madhya_Pradesh.pdf,Madhya Pradesh,Dewas,NA
+16. Dhar,97,Madhya_Pradesh.pdf,Madhya Pradesh,Dhar,NA
+17. Dindori,103,Madhya_Pradesh.pdf,Madhya Pradesh,Dindori,NA
+18. Guna,109,Madhya_Pradesh.pdf,Madhya Pradesh,Guna,NA
+19. Gwalior,115,Madhya_Pradesh.pdf,Madhya Pradesh,Gwalior,NA
+20. Harda,121,Madhya_Pradesh.pdf,Madhya Pradesh,Harda,NA
+21. Hoshangabad,127,Madhya_Pradesh.pdf,Madhya Pradesh,Hoshangabad,NA
+22. Indore,133,Madhya_Pradesh.pdf,Madhya Pradesh,Indore,NA
+23. Jabalpur,139,Madhya_Pradesh.pdf,Madhya Pradesh,Jabalpur,NA
+24. Jhabua,145,Madhya_Pradesh.pdf,Madhya Pradesh,Jhabua,NA
+25. Katni,151,Madhya_Pradesh.pdf,Madhya Pradesh,Katni,NA
+26. Khandwa (East Nimar),157,Madhya_Pradesh.pdf,Madhya Pradesh,Khandwa (East Nimar),NA
+27. Khargone (West Nimar),163,Madhya_Pradesh.pdf,Madhya Pradesh,Khargone (West Nimar),NA
+28. Mandla,169,Madhya_Pradesh.pdf,Madhya Pradesh,Mandla,NA
+29. Mandsaur,175,Madhya_Pradesh.pdf,Madhya Pradesh,Mandsaur,NA
+30. Morena,181,Madhya_Pradesh.pdf,Madhya Pradesh,Morena,NA
+31. Narsimhapur,187,Madhya_Pradesh.pdf,Madhya Pradesh,Narsimhapur,NA
+32. Neemuch,193,Madhya_Pradesh.pdf,Madhya Pradesh,Neemuch,NA
+33. Panna,199,Madhya_Pradesh.pdf,Madhya Pradesh,Panna,NA
+34. Raisen,205,Madhya_Pradesh.pdf,Madhya Pradesh,Raisen,NA
+35. Rajgarh,211,Madhya_Pradesh.pdf,Madhya Pradesh,Rajgarh,NA
+36. Ratlam,217,Madhya_Pradesh.pdf,Madhya Pradesh,Ratlam,NA
+37. Rewa,223,Madhya_Pradesh.pdf,Madhya Pradesh,Rewa,NA
+38. Sagar,229,Madhya_Pradesh.pdf,Madhya Pradesh,Sagar,NA
+39. Satna,235,Madhya_Pradesh.pdf,Madhya Pradesh,Satna,NA
+40. Sehore,241,Madhya_Pradesh.pdf,Madhya Pradesh,Sehore,NA
+41. Seoni,247,Madhya_Pradesh.pdf,Madhya Pradesh,Seoni,NA
+42. Shahdol,253,Madhya_Pradesh.pdf,Madhya Pradesh,Shahdol,NA
+43. Shajapur,259,Madhya_Pradesh.pdf,Madhya Pradesh,Shajapur,NA
+44. Sheopur,265,Madhya_Pradesh.pdf,Madhya Pradesh,Sheopur,NA
+45. Shivpuri,271,Madhya_Pradesh.pdf,Madhya Pradesh,Shivpuri,NA
+46. Sidhi,277,Madhya_Pradesh.pdf,Madhya Pradesh,Sidhi,NA
+Maharashtra,1,Maharashtra.pdf,Maharashtra,NA,NA
+1. Ahmadnagar,7,Maharashtra.pdf,Maharashtra,Ahmadnagar,NA
+2. Akola,13,Maharashtra.pdf,Maharashtra,Akola,NA
+3. Amravati,19,Maharashtra.pdf,Maharashtra,Amravati,NA
+4. Aurangabad,25,Maharashtra.pdf,Maharashtra,Aurangabad,NA
+5. Bhandara,31,Maharashtra.pdf,Maharashtra,Bhandara,NA
+6. Bid,37,Maharashtra.pdf,Maharashtra,Bid,NA
+7. Buldana,43,Maharashtra.pdf,Maharashtra,Buldana,NA
+8. Chandrapur,49,Maharashtra.pdf,Maharashtra,Chandrapur,NA
+9. Dhule,55,Maharashtra.pdf,Maharashtra,Dhule,NA
+10. Gadchiroli,61,Maharashtra.pdf,Maharashtra,Gadchiroli,NA
+11. Gondiya,67,Maharashtra.pdf,Maharashtra,Gondiya,NA
+12. Hingoli,73,Maharashtra.pdf,Maharashtra,Hingoli,NA
+13. Jalgaon,79,Maharashtra.pdf,Maharashtra,Jalgaon,NA
+14. Jalna,85,Maharashtra.pdf,Maharashtra,Jalna,NA
+15. Kolhapur,91,Maharashtra.pdf,Maharashtra,Kolhapur,NA
+16. Latur,97,Maharashtra.pdf,Maharashtra,Latur,NA
+17. Mumbai Suburban,103,Maharashtra.pdf,Maharashtra,Mumbai Suburban,NA
+18. Mumbai,109,Maharashtra.pdf,Maharashtra,Mumbai,NA
+19. Nagpur,115,Maharashtra.pdf,Maharashtra,Nagpur,NA
+20. Nanded,121,Maharashtra.pdf,Maharashtra,Nanded,NA
+21. Nandurbar,127,Maharashtra.pdf,Maharashtra,Nandurbar,NA
+22. Nashik,133,Maharashtra.pdf,Maharashtra,Nashik,NA
+23. Osmanabad,139,Maharashtra.pdf,Maharashtra,Osmanabad,NA
+24. Palghar,145,Maharashtra.pdf,Maharashtra,Palghar,NA
+25. Parbhani,151,Maharashtra.pdf,Maharashtra,Parbhani,NA
+26. Pune,157,Maharashtra.pdf,Maharashtra,Pune,NA
+27. Raigarh,163,Maharashtra.pdf,Maharashtra,Raigarh,NA
+28. Ratnagiri,169,Maharashtra.pdf,Maharashtra,Ratnagiri,NA
+29. Sangli,175,Maharashtra.pdf,Maharashtra,Sangli,NA
+30. Satara,181,Maharashtra.pdf,Maharashtra,Satara,NA
+31. Sindhudurg,187,Maharashtra.pdf,Maharashtra,Sindhudurg,NA
+32. Solapur,193,Maharashtra.pdf,Maharashtra,Solapur,NA
+33. Thane,199,Maharashtra.pdf,Maharashtra,Thane,NA
+34. Wardha,205,Maharashtra.pdf,Maharashtra,Wardha,NA
+35. Washim,211,Maharashtra.pdf,Maharashtra,Washim,NA
+36. Yavatmal,217,Maharashtra.pdf,Maharashtra,Yavatmal,NA
+Manipur,1,Manipur.pdf,Manipur,NA,NA
+1. Bishnupur,7,Manipur.pdf,Manipur,Bishnupur,NA
+2. Chandel,13,Manipur.pdf,Manipur,Chandel,NA
+3. Churachandpur,19,Manipur.pdf,Manipur,Churachandpur,NA
+4. Imphal East,25,Manipur.pdf,Manipur,Imphal East,NA
+5. Imphal West,31,Manipur.pdf,Manipur,Imphal West,NA
+6. Senapati,37,Manipur.pdf,Manipur,Senapati,NA
+7. Tamenglong,43,Manipur.pdf,Manipur,Tamenglong,NA
+8. Thoubal,49,Manipur.pdf,Manipur,Thoubal,NA
+9. Ukhrul,55,Manipur.pdf,Manipur,Ukhrul,NA
+Meghalaya,1,Meghalaya.pdf,Meghalaya,NA,NA
+1. East Garo Hills,7,Meghalaya.pdf,Meghalaya,East Garo Hills,NA
+2. East Jantia Hills,13,Meghalaya.pdf,Meghalaya,East Jantia Hills,NA
+3. East Khasi Hills,19,Meghalaya.pdf,Meghalaya,East Khasi Hills,NA
+4. North Garo Hills,25,Meghalaya.pdf,Meghalaya,North Garo Hills,NA
+5. Ribhoi,31,Meghalaya.pdf,Meghalaya,Ribhoi,NA
+6. South Garo Hills,37,Meghalaya.pdf,Meghalaya,South Garo Hills,NA
+7. South West Garo Hills,43,Meghalaya.pdf,Meghalaya,South West Garo Hills,NA
+8. South West Khasi Hills,49,Meghalaya.pdf,Meghalaya,South West Khasi Hills,NA
+9. West Garo Hills,55,Meghalaya.pdf,Meghalaya,West Garo Hills,NA
+10. West Jaintia Hills,61,Meghalaya.pdf,Meghalaya,West Jaintia Hills,NA
+11. West Khasi Hills,67,Meghalaya.pdf,Meghalaya,West Khasi Hills,NA
+Mizoram,1,Mizoram.pdf,Mizoram,NA,NA
+1. Aizawl,7,Mizoram.pdf,Mizoram,Aizawl,NA
+2. Champhai,13,Mizoram.pdf,Mizoram,Champhai,NA
+3. Kolasib,19,Mizoram.pdf,Mizoram,Kolasib,NA
+4. Lawngtlai,25,Mizoram.pdf,Mizoram,Lawngtlai,NA
+5. Lunglei,31,Mizoram.pdf,Mizoram,Lunglei,NA
+6. Mamit,37,Mizoram.pdf,Mizoram,Mamit,NA
+7. Saiha,43,Mizoram.pdf,Mizoram,Saiha,NA
+8. Serchhip,49,Mizoram.pdf,Mizoram,Serchhip,NA
+Nagaland,1,Nagaland.pdf,Nagaland,NA,NA
+1. Dimapur,7,Nagaland.pdf,Nagaland,Dimapur,NA
+2. Kiphire,13,Nagaland.pdf,Nagaland,Kiphire,NA
+3. Kohima,19,Nagaland.pdf,Nagaland,Kohima,NA
+4. Longleng,25,Nagaland.pdf,Nagaland,Longleng,NA
+5. Mokokchung,31,Nagaland.pdf,Nagaland,Mokokchung,NA
+6. Mon,37,Nagaland.pdf,Nagaland,Mon,NA
+7. Peren,43,Nagaland.pdf,Nagaland,Peren,NA
+8. Phek,49,Nagaland.pdf,Nagaland,Phek,NA
+9. Tuensang,55,Nagaland.pdf,Nagaland,Tuensang,NA
+10. Wokha,61,Nagaland.pdf,Nagaland,Wokha,NA
+11. Zunheboto,67,Nagaland.pdf,Nagaland,Zunheboto,NA
+NCT Delhi,1,NCT_Delhi.pdf,NCT Delhi,NA,NA
+1. Central,7,NCT_Delhi.pdf,NCT Delhi,Central,NA
+2. East,13,NCT_Delhi.pdf,NCT Delhi,East,NA
+3. New Delhi,19,NCT_Delhi.pdf,NCT Delhi,New Delhi,NA
+4. North,25,NCT_Delhi.pdf,NCT Delhi,North,NA
+5. North East,31,NCT_Delhi.pdf,NCT Delhi,North East,NA
+6. North West,37,NCT_Delhi.pdf,NCT Delhi,North West,NA
+7. Shahdara,43,NCT_Delhi.pdf,NCT Delhi,Shahdara,NA
+8. South,49,NCT_Delhi.pdf,NCT Delhi,South,NA
+9. South East,55,NCT_Delhi.pdf,NCT Delhi,South East,NA
+10. South West,61,NCT_Delhi.pdf,NCT Delhi,South West,NA
+11. West,67,NCT_Delhi.pdf,NCT Delhi,West,NA
+Odisha,1,Odisha.pdf,Odisha,NA,NA
+1. Anugul,7,Odisha.pdf,Odisha,Anugul,NA
+2. Balangir,13,Odisha.pdf,Odisha,Balangir,NA
+3. Baleshwar,19,Odisha.pdf,Odisha,Baleshwar,NA
+4. Bargarh,25,Odisha.pdf,Odisha,Bargarh,NA
+5. Baudh,31,Odisha.pdf,Odisha,Baudh,NA
+6. Bhadrak,37,Odisha.pdf,Odisha,Bhadrak,NA
+7. Cuttack,43,Odisha.pdf,Odisha,Cuttack,NA
+8. Debagarh,49,Odisha.pdf,Odisha,Debagarh,NA
+9. Dhenkanal,55,Odisha.pdf,Odisha,Dhenkanal,NA
+10. Gajapati,61,Odisha.pdf,Odisha,Gajapati,NA
+11. Ganjam,67,Odisha.pdf,Odisha,Ganjam,NA
+12. Jagatsinghapur,73,Odisha.pdf,Odisha,Jagatsinghapur,NA
+13. Jajapur,79,Odisha.pdf,Odisha,Jajapur,NA
+14. Jharsuguda,85,Odisha.pdf,Odisha,Jharsuguda,NA
+15. Kalahandi,91,Odisha.pdf,Odisha,Kalahandi,NA
+16. Kandhamal,97,Odisha.pdf,Odisha,Kandhamal,NA
+17. Kendrapara,103,Odisha.pdf,Odisha,Kendrapara,NA
+18. Kendujhar,109,Odisha.pdf,Odisha,Kendujhar,NA
+19. Khordha,115,Odisha.pdf,Odisha,Khordha,NA
+20. Koraput,121,Odisha.pdf,Odisha,Koraput,NA
+21. Malkangiri,127,Odisha.pdf,Odisha,Malkangiri,NA
+22. Mayurbhanj,133,Odisha.pdf,Odisha,Mayurbhanj,NA
+23. Nabarangapur,139,Odisha.pdf,Odisha,Nabarangapur,NA
+24. Nayagarh,145,Odisha.pdf,Odisha,Nayagarh,NA
+25. Nuapada,151,Odisha.pdf,Odisha,Nuapada,NA
+26. Puri,157,Odisha.pdf,Odisha,Puri,NA
+27. Rayagada,163,Odisha.pdf,Odisha,Rayagada,NA
+28. Sambalpur,169,Odisha.pdf,Odisha,Sambalpur,NA
+29. Subarnapur,175,Odisha.pdf,Odisha,Subarnapur,NA
+30. Sundargarh,181,Odisha.pdf,Odisha,Sundargarh,NA
+Puducherry,1,Puducherry.pdf,Puducherry,NA,NA
+1. Karaikal,7,Puducherry.pdf,Puducherry,Karaikal,NA
+2. Mahe,13,Puducherry.pdf,Puducherry,Mahe,NA
+3. Puducherry,19,Puducherry.pdf,Puducherry,Puducherry,NA
+4. Yanam,25,Puducherry.pdf,Puducherry,Yanam,NA
+Punjab,1,Punjab.pdf,Punjab,NA,NA
+1. Amritsar,7,Punjab.pdf,Punjab,Amritsar,NA
+2. Barnala,13,Punjab.pdf,Punjab,Barnala,NA
+3. Bathinda,19,Punjab.pdf,Punjab,Bathinda,NA
+4. Faridkot,25,Punjab.pdf,Punjab,Faridkot,NA
+5. Fatehgarh Sahib,31,Punjab.pdf,Punjab,Fatehgarh Sahib,NA
+6. Fazilka,37,Punjab.pdf,Punjab,Fazilka,NA
+7. Firozpur,43,Punjab.pdf,Punjab,Firozpur,NA
+8. Gurdaspur,49,Punjab.pdf,Punjab,Gurdaspur,NA
+9. Hoshiarpur,55,Punjab.pdf,Punjab,Hoshiarpur,NA
+10. Jalandhar,61,Punjab.pdf,Punjab,Jalandhar,NA
+11. Kapurthala,67,Punjab.pdf,Punjab,Kapurthala,NA
+12. Ludhiana,73,Punjab.pdf,Punjab,Ludhiana,NA
+13. Mansa,79,Punjab.pdf,Punjab,Mansa,NA
+14. Moga,85,Punjab.pdf,Punjab,Moga,NA
+15. Muktsar,91,Punjab.pdf,Punjab,Muktsar,NA
+16. Pathankot,97,Punjab.pdf,Punjab,Pathankot,NA
+17. Patiala,103,Punjab.pdf,Punjab,Patiala,NA
+18. Rupnagar,109,Punjab.pdf,Punjab,Rupnagar,NA
+19. Sahibzada Ajit Singh Nagar,115,Punjab.pdf,Punjab,Sahibzada Ajit Singh Nagar,NA
+20. Sangrur,121,Punjab.pdf,Punjab,Sangrur,NA
+21. Shahid Bhagat Singh Nagar,127,Punjab.pdf,Punjab,Shahid Bhagat Singh Nagar,NA
+22. Tarn Taran,133,Punjab.pdf,Punjab,Tarn Taran,NA
+Rajasthan,1,Rajasthan.pdf,Rajasthan,NA,NA
+1. Ajmer,7,Rajasthan.pdf,Rajasthan,Ajmer,NA
+2. Alwar,13,Rajasthan.pdf,Rajasthan,Alwar,NA
+3. Banswara,19,Rajasthan.pdf,Rajasthan,Banswara,NA
+4. Baran,25,Rajasthan.pdf,Rajasthan,Baran,NA
+5. Barmer,31,Rajasthan.pdf,Rajasthan,Barmer,NA
+6. Bharatpur,37,Rajasthan.pdf,Rajasthan,Bharatpur,NA
+7. Bhilwara,43,Rajasthan.pdf,Rajasthan,Bhilwara,NA
+8. Bikaner,49,Rajasthan.pdf,Rajasthan,Bikaner,NA
+9. Bundi,55,Rajasthan.pdf,Rajasthan,Bundi,NA
+10. Chittaurgarh,61,Rajasthan.pdf,Rajasthan,Chittaurgarh,NA
+11. Churu,67,Rajasthan.pdf,Rajasthan,Churu,NA
+12. Dausa,73,Rajasthan.pdf,Rajasthan,Dausa,NA
+13. Dhaulpur,79,Rajasthan.pdf,Rajasthan,Dhaulpur,NA
+14. Dungarpur,85,Rajasthan.pdf,Rajasthan,Dungarpur,NA
+15. Ganganagar,91,Rajasthan.pdf,Rajasthan,Ganganagar,NA
+16. Hanumangarh,97,Rajasthan.pdf,Rajasthan,Hanumangarh,NA
+17. Jaipur,103,Rajasthan.pdf,Rajasthan,Jaipur,NA
+18. Jaisalmer,109,Rajasthan.pdf,Rajasthan,Jaisalmer,NA
+19. Jalor,115,Rajasthan.pdf,Rajasthan,Jalor,NA
+20. Jhalawar,121,Rajasthan.pdf,Rajasthan,Jhalawar,NA
+21. Jhunjhunun,127,Rajasthan.pdf,Rajasthan,Jhunjhunun,NA
+22. Jodhpur,133,Rajasthan.pdf,Rajasthan,Jodhpur,NA
+23. Karauli,139,Rajasthan.pdf,Rajasthan,Karauli,NA
+24. Kota,145,Rajasthan.pdf,Rajasthan,Kota,NA
+25. Nagaur,151,Rajasthan.pdf,Rajasthan,Nagaur,NA
+26. Pali,157,Rajasthan.pdf,Rajasthan,Pali,NA
+27. Pratapgarh,163,Rajasthan.pdf,Rajasthan,Pratapgarh,NA
+28. Rajsamand,169,Rajasthan.pdf,Rajasthan,Rajsamand,NA
+29. Sawai Madhopur,175,Rajasthan.pdf,Rajasthan,Sawai Madhopur,NA
+30. Sikar,181,Rajasthan.pdf,Rajasthan,Sikar,NA
+31. Sirohi,187,Rajasthan.pdf,Rajasthan,Sirohi,NA
+32. Tonk,193,Rajasthan.pdf,Rajasthan,Tonk,NA
+33. Udaipur,199,Rajasthan.pdf,Rajasthan,Udaipur,NA
+Sikkim,1,Sikkim.pdf,Sikkim,NA,NA
+1. East District,7,Sikkim.pdf,Sikkim,East District,NA
+2. North  District,13,Sikkim.pdf,Sikkim,North  District,NA
+3. South District,19,Sikkim.pdf,Sikkim,South District,NA
+4. West District,25,Sikkim.pdf,Sikkim,West District,NA
+Tamil Nadu,1,Tamil_Nadu.pdf,Tamil Nadu,NA,NA
+1. Ariyalur,7,Tamil_Nadu.pdf,Tamil Nadu,Ariyalur,NA
+2. Chennai,13,Tamil_Nadu.pdf,Tamil Nadu,Chennai,NA
+3. Coimbatore,19,Tamil_Nadu.pdf,Tamil Nadu,Coimbatore,NA
+4. Cuddalore,25,Tamil_Nadu.pdf,Tamil Nadu,Cuddalore,NA
+5. Dharmapuri,31,Tamil_Nadu.pdf,Tamil Nadu,Dharmapuri,NA
+6. Dindigul,37,Tamil_Nadu.pdf,Tamil Nadu,Dindigul,NA
+7. Erode,43,Tamil_Nadu.pdf,Tamil Nadu,Erode,NA
+8. Kancheepuram,49,Tamil_Nadu.pdf,Tamil Nadu,Kancheepuram,NA
+9. Kanniyakumari,55,Tamil_Nadu.pdf,Tamil Nadu,Kanniyakumari,NA
+10. Karur,61,Tamil_Nadu.pdf,Tamil Nadu,Karur,NA
+11. Krishnagiri,67,Tamil_Nadu.pdf,Tamil Nadu,Krishnagiri,NA
+12. Madurai,73,Tamil_Nadu.pdf,Tamil Nadu,Madurai,NA
+13. Nagapattinam,79,Tamil_Nadu.pdf,Tamil Nadu,Nagapattinam,NA
+14. Namakkal,85,Tamil_Nadu.pdf,Tamil Nadu,Namakkal,NA
+15. Perambalur,91,Tamil_Nadu.pdf,Tamil Nadu,Perambalur,NA
+16. Pudukkottai,97,Tamil_Nadu.pdf,Tamil Nadu,Pudukkottai,NA
+17. Ramanathapuram,103,Tamil_Nadu.pdf,Tamil Nadu,Ramanathapuram,NA
+18. Salem,109,Tamil_Nadu.pdf,Tamil Nadu,Salem,NA
+19. Sivaganga,115,Tamil_Nadu.pdf,Tamil Nadu,Sivaganga,NA
+20. Thanjavur,121,Tamil_Nadu.pdf,Tamil Nadu,Thanjavur,NA
+21. The Nilgiris,127,Tamil_Nadu.pdf,Tamil Nadu,The Nilgiris,NA
+22. Theni,133,Tamil_Nadu.pdf,Tamil Nadu,Theni,NA
+23. Thiruvallur,139,Tamil_Nadu.pdf,Tamil Nadu,Thiruvallur,NA
+24. Thiruvarur,145,Tamil_Nadu.pdf,Tamil Nadu,Thiruvarur,NA
+25. Thoothukkudi,151,Tamil_Nadu.pdf,Tamil Nadu,Thoothukkudi,NA
+26. Tiruchirappalli,157,Tamil_Nadu.pdf,Tamil Nadu,Tiruchirappalli,NA
+27. Tirunelveli,163,Tamil_Nadu.pdf,Tamil Nadu,Tirunelveli,NA
+28. Tiruppur,169,Tamil_Nadu.pdf,Tamil Nadu,Tiruppur,NA
+29. Tiruvannamalai,175,Tamil_Nadu.pdf,Tamil Nadu,Tiruvannamalai,NA
+30. Vellore,181,Tamil_Nadu.pdf,Tamil Nadu,Vellore,NA
+31. Viluppuram,187,Tamil_Nadu.pdf,Tamil Nadu,Viluppuram,NA
+32. Virudhunagar,193,Tamil_Nadu.pdf,Tamil Nadu,Virudhunagar,NA
+Telangana,1,Telangana.pdf,Telangana,NA,NA
+1. Adilabad,7,Telangana.pdf,Telangana,Adilabad,NA
+2. Bhadradri Kothagudem,13,Telangana.pdf,Telangana,Bhadradri Kothagudem,NA
+3. Hyderabad,19,Telangana.pdf,Telangana,Hyderabad,NA
+4. Jagitial,25,Telangana.pdf,Telangana,Jagitial,NA
+5. Jangoan,31,Telangana.pdf,Telangana,Jangoan,NA
+6. Jayashankar Bhupalapally,37,Telangana.pdf,Telangana,Jayashankar Bhupalapally,NA
+7. Jogulamba Gadwal,43,Telangana.pdf,Telangana,Jogulamba Gadwal,NA
+8. Kamareddy,49,Telangana.pdf,Telangana,Kamareddy,NA
+9. Karimnagar,55,Telangana.pdf,Telangana,Karimnagar,NA
+10. Khammam,61,Telangana.pdf,Telangana,Khammam,NA
+11. Komaram Bheem Asifabad,67,Telangana.pdf,Telangana,Komaram Bheem Asifabad,NA
+12. Mahabubabad,73,Telangana.pdf,Telangana,Mahabubabad,NA
+13. Mahabubnagar,79,Telangana.pdf,Telangana,Mahabubnagar,NA
+14. Mancherial,85,Telangana.pdf,Telangana,Mancherial,NA
+15. Medak,91,Telangana.pdf,Telangana,Medak,NA
+16. Medchal-Malkajgiri,97,Telangana.pdf,Telangana,Medchal-Malkajgiri,NA
+17. Nagarkurnool,103,Telangana.pdf,Telangana,Nagarkurnool,NA
+18. Nalgonda,109,Telangana.pdf,Telangana,Nalgonda,NA
+19. Nirmal,115,Telangana.pdf,Telangana,Nirmal,NA
+20. Nizamabad,121,Telangana.pdf,Telangana,Nizamabad,NA
+21. Peddapalli,127,Telangana.pdf,Telangana,Peddapalli,NA
+22. Rajanna Sircilla,133,Telangana.pdf,Telangana,Rajanna Sircilla,NA
+23. Ranga Reddy,139,Telangana.pdf,Telangana,Ranga Reddy,NA
+24. Sangareddy,145,Telangana.pdf,Telangana,Sangareddy,NA
+25. Siddipet,151,Telangana.pdf,Telangana,Siddipet,NA
+26. Suryapet,157,Telangana.pdf,Telangana,Suryapet,NA
+27. Vikarabad,163,Telangana.pdf,Telangana,Vikarabad,NA
+28. Wanaparthy,169,Telangana.pdf,Telangana,Wanaparthy,NA
+29. Warangal Rural,175,Telangana.pdf,Telangana,Warangal Rural,NA
+30. Warangal Urban,181,Telangana.pdf,Telangana,Warangal Urban,NA
+31. Yadadri Bhuvanagiri,187,Telangana.pdf,Telangana,Yadadri Bhuvanagiri,NA
+Tripura,1,Tripura.pdf,Tripura,NA,NA
+1. Dhalai,7,Tripura.pdf,Tripura,Dhalai,NA
+2. Gomati,13,Tripura.pdf,Tripura,Gomati,NA
+3. Khowai,19,Tripura.pdf,Tripura,Khowai,NA
+4. North Tripura,25,Tripura.pdf,Tripura,North Tripura,NA
+5. Sepahijala,31,Tripura.pdf,Tripura,Sepahijala,NA
+6. South Tripura,37,Tripura.pdf,Tripura,South Tripura,NA
+7. Unakoti,43,Tripura.pdf,Tripura,Unakoti,NA
+8. West Tripura,49,Tripura.pdf,Tripura,West Tripura,NA
+Uttar Pradesh,1,Uttar_Pradesh.pdf,Uttar Pradesh,NA,NA
+1. Agra,7,Uttar_Pradesh.pdf,Uttar Pradesh,Agra,NA
+2. Aligarh,13,Uttar_Pradesh.pdf,Uttar Pradesh,Aligarh,NA
+3. Ambedkar Nagar,19,Uttar_Pradesh.pdf,Uttar Pradesh,Ambedkar Nagar,NA
+4. Amethi,25,Uttar_Pradesh.pdf,Uttar Pradesh,Amethi,NA
+5. Auraiya,31,Uttar_Pradesh.pdf,Uttar Pradesh,Auraiya,NA
+6. Azamgarh,37,Uttar_Pradesh.pdf,Uttar Pradesh,Azamgarh,NA
+7. Baghpat,43,Uttar_Pradesh.pdf,Uttar Pradesh,Baghpat,NA
+8. Bahraich,49,Uttar_Pradesh.pdf,Uttar Pradesh,Bahraich,NA
+9. Ballia,55,Uttar_Pradesh.pdf,Uttar Pradesh,Ballia,NA
+10. Balrampur,61,Uttar_Pradesh.pdf,Uttar Pradesh,Balrampur,NA
+11. Banda,67,Uttar_Pradesh.pdf,Uttar Pradesh,Banda,NA
+12. Bara Banki,73,Uttar_Pradesh.pdf,Uttar Pradesh,Bara Banki,NA
+13. Bareilly,79,Uttar_Pradesh.pdf,Uttar Pradesh,Bareilly,NA
+14. Basti,85,Uttar_Pradesh.pdf,Uttar Pradesh,Basti,NA
+15. Bijnor,91,Uttar_Pradesh.pdf,Uttar Pradesh,Bijnor,NA
+16. Budaun,97,Uttar_Pradesh.pdf,Uttar Pradesh,Budaun,NA
+17. Bulandshahr,103,Uttar_Pradesh.pdf,Uttar Pradesh,Bulandshahr,NA
+18. Chandauli,109,Uttar_Pradesh.pdf,Uttar Pradesh,Chandauli,NA
+19. Chitrakoot,115,Uttar_Pradesh.pdf,Uttar Pradesh,Chitrakoot,NA
+20. Deoria,121,Uttar_Pradesh.pdf,Uttar Pradesh,Deoria,NA
+21. Etah,127,Uttar_Pradesh.pdf,Uttar Pradesh,Etah,NA
+22. Etawah,133,Uttar_Pradesh.pdf,Uttar Pradesh,Etawah,NA
+23. Faizabad,139,Uttar_Pradesh.pdf,Uttar Pradesh,Faizabad,NA
+24. Farrukhabad,145,Uttar_Pradesh.pdf,Uttar Pradesh,Farrukhabad,NA
+25. Fatehpur,151,Uttar_Pradesh.pdf,Uttar Pradesh,Fatehpur,NA
+26. Firozabad,157,Uttar_Pradesh.pdf,Uttar Pradesh,Firozabad,NA
+27. Gautam Buddha Nagar,163,Uttar_Pradesh.pdf,Uttar Pradesh,Gautam Buddha Nagar,NA
+28. Ghaziabad,169,Uttar_Pradesh.pdf,Uttar Pradesh,Ghaziabad,NA
+29. Ghazipur,175,Uttar_Pradesh.pdf,Uttar Pradesh,Ghazipur,NA
+30. Gonda,181,Uttar_Pradesh.pdf,Uttar Pradesh,Gonda,NA
+31. Gorakhpur,187,Uttar_Pradesh.pdf,Uttar Pradesh,Gorakhpur,NA
+32. Hamirpur,193,Uttar_Pradesh.pdf,Uttar Pradesh,Hamirpur,NA
+33. Hapur,199,Uttar_Pradesh.pdf,Uttar Pradesh,Hapur,NA
+34. Hardoi,205,Uttar_Pradesh.pdf,Uttar Pradesh,Hardoi,NA
+35. Jalaun,211,Uttar_Pradesh.pdf,Uttar Pradesh,Jalaun,NA
+36. Jaunpur,217,Uttar_Pradesh.pdf,Uttar Pradesh,Jaunpur,NA
+37. Jhansi,223,Uttar_Pradesh.pdf,Uttar Pradesh,Jhansi,NA
+38. Jyotiba Phule Nagar,229,Uttar_Pradesh.pdf,Uttar Pradesh,Jyotiba Phule Nagar,NA
+Uttarakhand,1,Uttarakhand.pdf,Uttarakhand,NA,NA
+1. Almora,7,Uttarakhand.pdf,Uttarakhand,Almora,NA
+2. Bageshwar,13,Uttarakhand.pdf,Uttarakhand,Bageshwar,NA
+3. Chamoli,19,Uttarakhand.pdf,Uttarakhand,Chamoli,NA
+4. Champawat,25,Uttarakhand.pdf,Uttarakhand,Champawat,NA
+5. Dehradun,31,Uttarakhand.pdf,Uttarakhand,Dehradun,NA
+6. Hardwar,37,Uttarakhand.pdf,Uttarakhand,Hardwar,NA
+7. Nainital,43,Uttarakhand.pdf,Uttarakhand,Nainital,NA
+8. Pauri Garhwal,49,Uttarakhand.pdf,Uttarakhand,Pauri Garhwal,NA
+9. Pithoragarh,55,Uttarakhand.pdf,Uttarakhand,Pithoragarh,NA
+10. Rudraprayag,61,Uttarakhand.pdf,Uttarakhand,Rudraprayag,NA
+11. Tehri Garhwal,67,Uttarakhand.pdf,Uttarakhand,Tehri Garhwal,NA
+12. Udham Singh Nagar,73,Uttarakhand.pdf,Uttarakhand,Udham Singh Nagar,NA
+13. Uttarkashi,79,Uttarakhand.pdf,Uttarakhand,Uttarkashi,NA
+West Bengal,1,West_Bengal.pdf,West Bengal,NA,NA
+1. Bankura,7,West_Bengal.pdf,West Bengal,Bankura,NA
+2. Birbhum,13,West_Bengal.pdf,West Bengal,Birbhum,NA
+3. Dakshin Dinajpur,19,West_Bengal.pdf,West Bengal,Dakshin Dinajpur,NA
+4. Darjeeling,25,West_Bengal.pdf,West Bengal,Darjeeling,NA
+5. Haora,31,West_Bengal.pdf,West Bengal,Haora,NA
+6. Hugli,37,West_Bengal.pdf,West Bengal,Hugli,NA
+7. Jalpaiguri,43,West_Bengal.pdf,West Bengal,Jalpaiguri,NA
+8. Koch Bihar,49,West_Bengal.pdf,West Bengal,Koch Bihar,NA
+9. Kolkata,55,West_Bengal.pdf,West Bengal,Kolkata,NA
+10. Maldah,61,West_Bengal.pdf,West Bengal,Maldah,NA
+11. Murshidabad,67,West_Bengal.pdf,West Bengal,Murshidabad,NA
+12. Nadia,73,West_Bengal.pdf,West Bengal,Nadia,NA
+13. North Twenty Four Parganas,79,West_Bengal.pdf,West Bengal,North Twenty Four Parganas,NA
+14. Paschim Barddhaman,85,West_Bengal.pdf,West Bengal,Paschim Barddhaman,NA
+15. Paschim Medinipur,91,West_Bengal.pdf,West Bengal,Paschim Medinipur,NA
+16. Purba Barddhaman,97,West_Bengal.pdf,West Bengal,Purba Barddhaman,NA
+17. Purba Medinipur,103,West_Bengal.pdf,West Bengal,Purba Medinipur,NA
+18. Puruliya,109,West_Bengal.pdf,West Bengal,Puruliya,NA
+19. South Twenty Four Parganas,115,West_Bengal.pdf,West Bengal,South Twenty Four Parganas,NA
+20. Uttar Dinajpur,121,West_Bengal.pdf,West Bengal,Uttar Dinajpur,NA
+39. Kannauj,235,Uttar_Pradesh.pdf,Uttar Pradesh,Kannauj,
+40. Kanpur Dehat,241,Uttar_Pradesh.pdf,Uttar Pradesh,Kanpur Dehat,
+41. Kanpur Nagar,247,Uttar_Pradesh.pdf,Uttar Pradesh,Kanpur Nagar,
+42. Kanshiram Nagar,253,Uttar_Pradesh.pdf,Uttar Pradesh,Kanshiram Nagar,
+43. Kaushambi,259,Uttar_Pradesh.pdf,Uttar Pradesh,Kaushambi,
+44. Kheri,265,Uttar_Pradesh.pdf,Uttar Pradesh,Kheri,
+45. Kushinagar,271,Uttar_Pradesh.pdf,Uttar Pradesh,Kushinagar,
+46. Lalitpur,277,Uttar_Pradesh.pdf,Uttar Pradesh,Lalitpur,
+47. Lucknow,283,Uttar_Pradesh.pdf,Uttar Pradesh,Lucknow,
+48. Mahamaya Nagar,289,Uttar_Pradesh.pdf,Uttar Pradesh,Mahamaya Nagar,
+49. Mahoba,295,Uttar_Pradesh.pdf,Uttar Pradesh,Mahoba,
+50. Mahrajganj,301,Uttar_Pradesh.pdf,Uttar Pradesh,Mahrajganj,
+51. Mainpuri,307,Uttar_Pradesh.pdf,Uttar Pradesh,Mainpuri,
+52. Mathura,313,Uttar_Pradesh.pdf,Uttar Pradesh,Mathura,
+53. Mau,319,Uttar_Pradesh.pdf,Uttar Pradesh,Mau,
+54. Meerut,325,Uttar_Pradesh.pdf,Uttar Pradesh,Meerut,
+55. Mirzapur,331,Uttar_Pradesh.pdf,Uttar Pradesh,Mirzapur,
+56. Moradabad,337,Uttar_Pradesh.pdf,Uttar Pradesh,Moradabad,
+57. Muzaffarnagar,343,Uttar_Pradesh.pdf,Uttar Pradesh,Muzaffarnagar,
+58. Pilibhit,349,Uttar_Pradesh.pdf,Uttar Pradesh,Pilibhit,
+59. Pratapgarh,355,Uttar_Pradesh.pdf,Uttar Pradesh,Pratapgarh,
+60. Prayagraj,361,Uttar_Pradesh.pdf,Uttar Pradesh,Prayagraj,
+61. Rae Bareli,367,Uttar_Pradesh.pdf,Uttar Pradesh,Rae Bareli,
+62. Rampur,373,Uttar_Pradesh.pdf,Uttar Pradesh,Rampur,
+63. Saharanpur,379,Uttar_Pradesh.pdf,Uttar Pradesh,Saharanpur,
+64. Sambhal,385,Uttar_Pradesh.pdf,Uttar Pradesh,Sambhal,
+65. Sant Kabir Nagar,391,Uttar_Pradesh.pdf,Uttar Pradesh,Sant Kabir Nagar,
+66. Sant Ravidas Nagar (Bhadohi),397,Uttar_Pradesh.pdf,Uttar Pradesh,Sant Ravidas Nagar (Bhadohi),
+67. Shahjahanpur,403,Uttar_Pradesh.pdf,Uttar Pradesh,Shahjahanpur,
+68. Shamli,409,Uttar_Pradesh.pdf,Uttar Pradesh,Shamli,
+69. Shrawasti,415,Uttar_Pradesh.pdf,Uttar Pradesh,Shrawasti,
+70. Siddharthnagar,421,Uttar_Pradesh.pdf,Uttar Pradesh,Siddharthnagar,
+71. Sitapur,427,Uttar_Pradesh.pdf,Uttar Pradesh,Sitapur,
+72. Sonbhadra,433,Uttar_Pradesh.pdf,Uttar Pradesh,Sonbhadra,
+73. Sultanpur,439,Uttar_Pradesh.pdf,Uttar Pradesh,Sultanpur,
+74. Unnao,445,Uttar_Pradesh.pdf,Uttar Pradesh,Unnao,
+75. Varanasi,451,Uttar_Pradesh.pdf,Uttar Pradesh,Varanasi,

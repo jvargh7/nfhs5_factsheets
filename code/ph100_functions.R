@@ -228,3 +228,28 @@ district_tables <- function(d_urls){
   return(table_output)
   
 }
+
+
+extract_pdftab <- function(s_d_name, area, page = p){
+  target_folder <- "C:/Cloud/OneDrive - Emory University/data/NFHS/NFHS5 Factsheets/"
+  pdf_file <- paste0(target_folder,s_d_name)
+  
+  # folder_structure = map(d_urls,
+  #                        .f = function(x){
+  #                          y = str_split(x,pattern = "/")[[1]][2:3];
+  #                          return(y)
+  #                        })
+  table_output = tryCatch({tab = extract_tables(pdf_file,pages = c(3,4,5),
+                                                guess = FALSE,
+                                                area = area,
+                                                output = "data.frame");
+  tab_clean = consolidate_table(tab)
+  },
+  error = function(e){data.frame(Indicator = NA,
+                                 NFHS5 = NA,
+                                 NFHS4 = NA
+  )
+  }) %>%  bind_rows(.)
+  
+  return(table_output)
+}

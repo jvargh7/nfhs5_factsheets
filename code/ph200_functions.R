@@ -91,6 +91,12 @@ clean_district_output <- function(district_o){
 
 clean_state_output <- function(state_o){
   
+  if(nrow(state_o)==0){
+    return(data.frame(Indicator = NA_character_,
+                      state_name = NA_character_,
+                      state_file = NA_character_))
+  }
+  
   state_o_cleaned <- state_o %>% 
     dplyr::filter(!(Indicator %in% c("","Indicators",
                                      "Population and Household Profile",
@@ -194,7 +200,8 @@ clean_state_output <- function(state_o){
 
 
 
-consolidate_table_compendium <- function(tables,statefile,districtnames){
+consolidate_table_compendium <- function(tables,statefile,districtnames,
+                                         table_indices = FALSE){
   
   tables_cleaned = map(tables,function(t){
     if(is.character(t)){
@@ -206,14 +213,20 @@ consolidate_table_compendium <- function(tables,statefile,districtnames){
     
   })
   
-  districts_in_state = districtnames %>% 
-    dplyr::filter(state_file == statefile) %>% 
-    mutate(start_table = c(1,seq(5,length(tables_cleaned),by=3)),
-           stop_table = c(4,seq(7,length(tables_cleaned),by=3)))
+  if(!table_indices){
+    districts_in_state = districtnames %>% 
+      dplyr::filter(state_file == statefile) %>% 
+      mutate(start_table = c(1,seq(5,length(tables_cleaned),by=3)),
+             stop_table = c(4,seq(7,length(tables_cleaned),by=3)))
+  }
   
+  if(table_indices){
+    districts_in_state = districtnames
+  }
   
   output <- map(1:length(tables_cleaned),
                 .f = function(i){
+                  # print(i);
                   x = tables_cleaned[[i]]
                   # nfhs5_cols = x[[2]][1]
                   
@@ -247,14 +260,14 @@ consolidate_table_compendium <- function(tables,statefile,districtnames){
                            district_name = district_details$district_name)
                   return(x)
                 }) %>% 
-    bind_rows(.) %>% 
+    plyr::rbind.fill(.) %>% 
     mutate(Indicator = str_replace_all(Indicator,"â€“","-")) %>% 
     mutate(Indicator = str_replace_all(Indicator,"â‰¥",">"))
   
   
   district_output = output %>% 
     dplyr::filter(!is.na(district_name)) %>% 
-    dplyr::select(-Urban,-Rural,-Total) %>% 
+    dplyr::select(-one_of("Urban","Rural","Total")) %>% 
     clean_district_output(.)
   
   state_output = output %>% 
