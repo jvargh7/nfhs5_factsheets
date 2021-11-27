@@ -15,7 +15,7 @@ I have updated the folder structure as follows:
 2. **data for analysis**: This contains the consolidated datasets for India, States, Districts in .csv and .dta formats.    
   2.1 india.csv is from 'phase 2 release/NFHS-5 Phase 2 State Factsheets'.     
   2.2 states.csv is from 'phase 1 release/NFHS-5 Phase 1 State Factsheets' and 'phase 2 release/NFHS-5 Phase 2 State Factsheets'.        
-  2.3 (PENDING) districts.csv is from 'NFHS-5 Phase 2 State Factsheets' only since these contain all States and UTs  
+  2.3 districts.csv is from 'NFHS-5 Phase 2 District Factsheets' only since these contain all States and UTs (except for HP/Kangra, HP/Chamba and MH/Dhule which are from 'NFHS-5 Phase 1 District Factsheets')      
          
 3. **phase 1 release**: The extracts from Phase 1 release only.    
     
