@@ -98,7 +98,20 @@ district_names <- map_dfr(compendium_files,
          Page.No. = as.numeric(Page.No.),
          district_name = case_when(str_detect(Content,"[0-9]+") ~ str_replace(Content,"^[0-9]+\\.\\s",""),
                                    TRUE ~ NA_character_)) %>% 
-    dplyr::filter(!is.na(Page.No.)))
+    dplyr::filter(!is.na(Page.No.)),
+  extract_tables(paste0(source_folder,"/Madhya_Pradesh.pdf"),pages = c(4),
+                 guess = FALSE, method="stream",output = "data.frame") %>% 
+    .[[1]] %>% 
+    dplyr::filter(!(X == ""|X=="Content")) %>% 
+    dplyr::rename(Content = X,
+                  Page.No. = X.2) %>% 
+    mutate(state_file = "Madhya_Pradesh.pdf",
+           state_name = "Madhya Pradesh",
+           Page.No. = as.numeric(Page.No.),
+           district_name = case_when(str_detect(Content,"[0-9]+") ~ str_replace(Content,"^[0-9]+\\.\\s",""),
+                                     TRUE ~ NA_character_)) %>% 
+    dplyr::filter(!is.na(Page.No.))
+  )
 
 write_csv(district_names,"phase 2 release/districts extract/district_names.csv")
 

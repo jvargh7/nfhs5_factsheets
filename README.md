@@ -21,6 +21,9 @@ I have updated the folder structure as follows:
     
 4. **phase 2 release**: The extracts from Phase 2 release only.     
 
+### Acknowledgements
+List of contributors to QC: @snishmeet1699   
+
 ### Notes on November 2021 release
 1. There is definitely a possibility of errors during both PDF extraction and text preprocessing steps. Please do some eye-ball checks before using the data. Also, the code (R script) is available for you to edit.     
 2. The factsheets display some numbers within parentheses. **The parentheses have been removed, but the comments are included as flags.**      
