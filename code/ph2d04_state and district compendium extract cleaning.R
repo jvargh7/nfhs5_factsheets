@@ -1,12 +1,12 @@
 ph201d_output_1 <- readRDS("phase 2 release/districts extract/ph201d_output 1.RDS")
 
 ph201d_output_2 <- readRDS("phase 2 release/districts extract/ph201d_output 2.RDS")
+library(tidyverse)
 
 district_names <- read_csv("phase 2 release/districts extract/district_names.csv") %>%
   mutate(Page.No. = Page.No. + 4)
 
 
-library(tidyverse)
 
 # DISTRICTS -------------
 district_output <- bind_rows(

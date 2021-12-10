@@ -1,10 +1,25 @@
+
+partial_obs <- read_csv(paste0("phase 1 release/districts/district status.csv")) %>% 
+  dplyr::filter(nrecords < 100) %>% 
+  mutate(state_district = paste0(state,"/",district_file)) %>% 
+  arrange(state)
+
 partial_HP <- read_dta(paste0("phase 1 release/districts/stata_output/partial_HP.dta"))
-partial_XX <- read_dta(paste0("phase 1 release/districts/stata_output/partial_XX.dta"))
+raigarh <- read_dta(paste0("phase 1 release/districts/stata_output/raigarh.dta"))
 
 # Check district status
-district_df = district_df %>% 
-  dplyr::filter(!district %in% partial_obs$district_name) %>% 
-  bind_rows(partial_HP
+
+state_files <- list.files("phase 1 release/districts/stata_output")
+state_files <- state_files[regexpr("NFHS",state_files)>0]
+
+district_df <- map_dfr(state_files,
+                       function(f){
+                         read_dta(paste0("phase 1 release/districts/stata_output/",f))
+                       }) %>% 
+  dplyr::filter(!(state == "MH" & district == "Raigarh")) %>% 
+  dplyr::filter(!district %in% c(partial_obs$district_name)) %>% 
+  bind_rows(partial_HP,
+            raigarh
             )
 
 # Checks
@@ -100,9 +115,9 @@ corrected_status = corrected_status %>%
   # mutate(version = Sys.time()) %>% 
   arrange(state,district_name)
 
-write.csv(corrected_status,paste0("phase 1 release/districts/corrected district status.csv"),row.names = FALSE)
+write.csv(corrected_status,paste0("phase 1 release/districts/corrected district status vDec21.csv"),row.names = FALSE)
 
-write.csv(district_df, paste0("phase 1 release/NFHS-5 Phase 1 District Factsheets.csv"),row.names=FALSE)
-write_dta(district_df, paste0("phase 1 release/NFHS-5 Phase 1 District Factsheets.dta"),version = 12)
+write.csv(district_df, paste0("phase 1 release/NFHS-5 Phase 1 District Factsheets vDec21.csv"),row.names=FALSE)
+write_dta(district_df, paste0("phase 1 release/NFHS-5 Phase 1 District Factsheets vDec21.dta"),version = 12)
 
 

@@ -230,7 +230,7 @@ district_tables <- function(d_urls){
 }
 
 
-extract_pdftab <- function(s_d_name, area, page = p){
+extract_pdftab <- function(s_d_name, area, page = p,guess = FALSE){
   target_folder <- "C:/Cloud/OneDrive - Emory University/data/NFHS/NFHS5 Factsheets/"
   pdf_file <- paste0(target_folder,s_d_name)
   
@@ -240,7 +240,7 @@ extract_pdftab <- function(s_d_name, area, page = p){
   #                          return(y)
   #                        })
   table_output = tryCatch({tab = extract_tables(pdf_file,pages = c(3,4,5),
-                                                guess = FALSE,
+                                                guess = guess,
                                                 area = area,
                                                 output = "data.frame");
   tab_clean = consolidate_table(tab)

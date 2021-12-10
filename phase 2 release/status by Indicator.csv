@@ -18,6 +18,7 @@ Indicator,n
 17. Births in the 5 years preceding the survey that are third or higher order (%),705
 18. Women age 15-19 years who were already mothers or pregnant at the time of the survey (%),705
 19. Women age 15-24 years who use hygienic methods of protection during their menstrual period5 (%),705
+20. Any method6 (%),705
 21. Any modern method6 (%),705
 22. Female sterilization (%),705
 23. Male sterilization (%),705
@@ -90,16 +91,15 @@ Indicator,n
 90. Blood sugar level - very high (>160 mg/dl)23 (%),705
 91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%),705
 92. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),705
-93. Moderately or severely elevated blood pressure (Systolic > 160mm of Hg and/or Diastolic > 100mm of Hg) (%),705
-94. Elevated blood pressure (Systolic > 140 mm of Hg and/or Diastolic > 90 mm of Hg) or taking medicine to control blood pressure (%),705
+93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),705
+94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),705
 95. Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),705
-96. Moderately or severely elevated blood pressure (Systolic > 160mm of Hg and/or Diastolic > 100mm of Hg) (%),705
-97. Elevated blood pressure (Systolic > 140 mm of Hg and/or Diastolic > 90 mm of Hg) or taking medicine to control blood pressure (%),705
-98.Ever undergone a screening test for cervical cancer (%),705
-99.Ever undergone a breast examination for breast cancer (%),705
+96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%),705
+97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control blood pressure (%),705
+98. Ever undergone a screening test for cervical cancer (%),705
+99. Ever undergone a breast examination for breast cancer (%),705
 100. Ever undergone an oral cavity examination for oral cancer (%),705
 101. Women age 15 years and above who use any kind of tobacco (%),704
 102. Men age 15 years and above who use any kind of tobacco (%),705
 103. Women age 15 years and above who consume alcohol (%),705
 104. Men age 15 years and above who consume alcohol (%),704
-Current Use of Family Planning Methods (currently married women age 15â€“49 years) 20. Any method6 (%),705
